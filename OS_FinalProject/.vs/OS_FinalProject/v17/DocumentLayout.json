@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F79468-2057-4382-8DBA-202A179C5215}|OS_FinalProject\\OS_FinalProject.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproject\\os_finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F79468-2057-4382-8DBA-202A179C5215}|OS_FinalProject\\OS_FinalProject.csproj|solutionrelative:os_finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProject\\OS_FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProject\\Form1.cs",
+              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProject\\OS_FinalProject\\Form1.cs [Design]",
+              "RelativeToolTip": "OS_FinalProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:42:42.771Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
