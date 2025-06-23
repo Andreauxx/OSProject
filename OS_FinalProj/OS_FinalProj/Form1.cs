@@ -11,17 +11,29 @@ namespace OS_FinalProj
         {
             pnlLogIn.Visible = true;
             pnlSignUp.Visible = false;
+            pnlMainScreen.Visible = false;
         }
 
         private void lnklblSignUp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             pnlLogIn.Visible = false;
             pnlSignUp.Visible = true;
-            pnlSignUp.BringToFront(); // Ensure it's not hidden
+            pnlSignUp.BringToFront();
         }
-        private void pnlSignUp_Paint(object sender, PaintEventArgs e)
-        {
 
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            pnlLogIn.Visible = false;
+            pnlMainScreen.Visible = true;
+            pnlMainScreen.BringToFront();
         }
+
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            pnlSignUp.Visible = false;
+            pnlLogIn.Visible = true;
+            pnlLogIn.BringToFront();
+        }
+
     }
 }

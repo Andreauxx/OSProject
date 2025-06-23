@@ -18,3 +18,4 @@ D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\ne
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
