@@ -10,28 +10,17 @@ using System.Windows.Forms;
 
 namespace OS_FinalProj.Screens
 {
-    public partial class LoginPanel : UserControl
+
+    public partial class ProfilePanel : UserControl
     {
         FormMain mainForm;
-
-        public LoginPanel(FormMain form)
+        public ProfilePanel(FormMain form)
         {
             InitializeComponent();
             mainForm = form;
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void lnklblSignUp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            mainForm.LoadSignUp(); // Switch back to LoginPanel
-
-        }
-
-        private void btnLogin_Click_1(object sender, EventArgs e)
+        private void btnBack_Click(object sender, EventArgs e)
         {
             mainForm.LoadMainScreen();
         }

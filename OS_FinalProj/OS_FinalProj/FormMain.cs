@@ -35,9 +35,21 @@ namespace OS_FinalProj
             pnlMain.Controls.Add(signUpPanel);
         }
 
-      
+        public void LoadMainScreen()
+        {
+            pnlMain.Controls.Clear();
+            var mainScreenPanel = new MainScreenPanel(this); // Pass reference
+            mainScreenPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(mainScreenPanel);
+        }
 
-        // You can add more LoadX() methods here for basket, profile, etc.
+        public void LoadProfile()
+        {
+            pnlMain.Controls.Clear();
+            var profilePanel = new ProfilePanel(this);
+            profilePanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(profilePanel);
+        }
+
     }
-
 }

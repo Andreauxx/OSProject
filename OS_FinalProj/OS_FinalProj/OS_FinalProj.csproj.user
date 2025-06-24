@@ -10,6 +10,12 @@
     <Compile Update="Screens\LoginPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\MainScreenPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\ProfilePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\SignUpPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>

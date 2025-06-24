@@ -5,7 +5,6 @@ D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\ne
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Form1.resources
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
@@ -41,3 +40,9 @@ C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
+D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources

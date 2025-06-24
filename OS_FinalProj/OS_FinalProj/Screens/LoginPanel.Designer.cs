@@ -69,6 +69,7 @@
             btnLogin.TabIndex = 11;
             btnLogin.Text = "Log In";
             btnLogin.TextAlignment = StringAlignment.Center;
+            btnLogin.Click += btnLogin_Click_1;
             // 
             // lnklblSignUp
             // 
