@@ -63,9 +63,85 @@ namespace OS_FinalProj.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< Updated upstream
         internal static System.Drawing.Bitmap user {
             get {
                 object obj = ResourceManager.GetObject("user", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap UlawowOS {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__1__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS__1_-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__2__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS__2_-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__3_ {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__4_ {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__5_ {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS1 {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS1", resourceCulture);
+>>>>>>> Stashed changes
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

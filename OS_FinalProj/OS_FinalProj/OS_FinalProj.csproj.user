@@ -4,8 +4,13 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Update="ServiceBasket.cs">
       <SubType>UserControl</SubType>
+=======
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+>>>>>>> Stashed changes
     </Compile>
   </ItemGroup>
 </Project>

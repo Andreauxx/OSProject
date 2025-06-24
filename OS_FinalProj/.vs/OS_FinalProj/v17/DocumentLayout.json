@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
@@ -20,6 +21,24 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\documents\\osproject\\os_finalproj\\os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\documents\\osproject\\os_finalproj\\os_finalproj\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\os_finalproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\documents\\osproject\\os_finalproj\\os_finalproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,14 +49,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Stashed changes
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "ServiceBasket.cs",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\ServiceBasket.cs",
@@ -47,10 +79,22 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAApwAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:38:58.26Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs*",
+              "RelativeToolTip": "OS_FinalProj\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:21:19.463Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
               "Title": "ServiceBasket.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\ServiceBasket.cs",
@@ -59,11 +103,22 @@
               "RelativeToolTip": "OS_FinalProj\\ServiceBasket.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:32:16.731Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Home.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Home.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Home.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:02:40.352Z",
+>>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Form1.Designer.cs",
@@ -80,6 +135,12 @@
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Form1.cs",
               "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
+=======
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "OS_FinalProj\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,9 +151,15 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Form1.cs",
               "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\Form1.cs [Design]",
+>>>>>>> Stashed changes
               "RelativeToolTip": "OS_FinalProj\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:31:44.271Z"
@@ -100,6 +167,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

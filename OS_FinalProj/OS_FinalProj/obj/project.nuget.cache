@@ -1,10 +1,18 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "siy1xhp6+Uw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Candesse\\OneDrive\\文档\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Candesse\\.nuget\\packages\\realtaiizor\\3.8.1.3\\realtaiizor.3.8.1.3.nupkg.sha512"
+=======
+  "dgSpecHash": "ssToe9ih2xw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\realtaiizor\\3.8.1.3\\realtaiizor.3.8.1.3.nupkg.sha512"
+>>>>>>> Stashed changes
   ],
   "logs": []
 }
