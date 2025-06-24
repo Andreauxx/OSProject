@@ -15,7 +15,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OS_FinalProj
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 build_property.ProjectDir = C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\
+=======
+build_property.ProjectDir = C:\Users\Lenovo\Documents\OSProject\OS_FinalProj\OS_FinalProj\
+>>>>>>> Stashed changes
 =======
 build_property.ProjectDir = C:\Users\Lenovo\Documents\OSProject\OS_FinalProj\OS_FinalProj\
 >>>>>>> Stashed changes

@@ -64,10 +64,13 @@ namespace OS_FinalProj.Properties {
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         internal static System.Drawing.Bitmap user {
             get {
                 object obj = ResourceManager.GetObject("user", resourceCulture);
 =======
+=======
+>>>>>>> Stashed changes
         internal static System.Drawing.Bitmap UlawowOS {
             get {
                 object obj = ResourceManager.GetObject("UlawowOS", resourceCulture);
@@ -141,6 +144,9 @@ namespace OS_FinalProj.Properties {
         internal static System.Drawing.Bitmap UlawowOS1 {
             get {
                 object obj = ResourceManager.GetObject("UlawowOS1", resourceCulture);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 return ((System.Drawing.Bitmap)(obj));
             }

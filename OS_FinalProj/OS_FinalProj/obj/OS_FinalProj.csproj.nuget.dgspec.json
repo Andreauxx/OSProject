@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\Candesse\\OneDrive\\文档\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj": {}
   },
   "projects": {
@@ -34,6 +35,22 @@
 =======
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> Stashed changes
+=======
+    "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
+        "projectName": "OS_FinalProj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,8 +76,12 @@
           "auditLevel": "low",
           "auditMode": "direct"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         },
         "SdkAnalysisLevel": "9.0.100"
+=======
+        }
+>>>>>>> Stashed changes
 =======
         }
 >>>>>>> Stashed changes
@@ -94,7 +115,11 @@
             }
           },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
 >>>>>>> Stashed changes
