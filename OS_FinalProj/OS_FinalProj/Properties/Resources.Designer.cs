@@ -65,10 +65,13 @@ namespace OS_FinalProj.Properties {
         /// </summary>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         internal static System.Drawing.Bitmap user {
             get {
                 object obj = ResourceManager.GetObject("user", resourceCulture);
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         internal static System.Drawing.Bitmap UlawowOS {
@@ -145,6 +148,9 @@ namespace OS_FinalProj.Properties {
             get {
                 object obj = ResourceManager.GetObject("UlawowOS1", resourceCulture);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

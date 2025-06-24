@@ -58,43 +58,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "C:\\Users\\Candesse\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
     "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
->>>>>>> Stashed changes
-=======
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
->>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\Candesse\\OneDrive\\文档\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
-      "projectName": "OS_FinalProj",
-      "projectPath": "C:\\Users\\Candesse\\OneDrive\\文档\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
-      "packagesPath": "C:\\Users\\Candesse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Candesse\\OneDrive\\文档\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
-      "projectName": "OS_FinalProj",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\obj\\",
->>>>>>> Stashed changes
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-<<<<<<< Updated upstream
-        "C:\\Users\\Candesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> Stashed changes
-=======
       "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
       "projectName": "OS_FinalProj",
       "projectPath": "C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
@@ -103,7 +71,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -128,16 +95,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      },
-      "SdkAnalysisLevel": "9.0.100"
-=======
       }
->>>>>>> Stashed changes
-=======
-      }
->>>>>>> Stashed changes
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -167,16 +125,16 @@
             "privateAssets": "none"
           }
         },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
->>>>>>> Stashed changes
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
->>>>>>> Stashed changes
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\Documents\\OSProject\\OS_FinalProj\\OS_FinalProj\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
