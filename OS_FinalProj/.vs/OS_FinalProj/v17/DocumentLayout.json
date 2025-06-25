@@ -1,80 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\",
+  "WorkspaceRootPath": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\signuppanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\signuppanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|d:\\users\\ariff\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\os_finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\os_finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\os_finalproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -85,120 +109,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicePopup2.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs*",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:31:17.848Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProfilePanel.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs*",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:44:34.026Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginPanel.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ServicePopup2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs [Design]*",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:47:37.001Z",
+              "WhenOpened": "2025-06-25T17:29:22.867Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesPopup1.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:21:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginPanel.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAAAMAAAAAAAAAA==",
+              "Title": "ServicesPopup1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:51:43.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T17:10:27.476Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Program.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
-              "RelativeToolTip": "OS_FinalProj\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:45:08.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwC0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0QAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T08:50:37.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfilePanel.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs [Design]*",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:28:41.227Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpPanel.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:48:11.247Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SignUpPanel.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:53:01.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainScreenPanel.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T17:03:45.07Z",
@@ -206,24 +196,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "MainScreenPanel.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T17:14:58.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "ServiceBasketPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:34:21.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceBasketPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:40:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DashboardPanel.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs [Design]",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\Screens\\DashboardPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T08:51:17.769Z",
@@ -231,23 +246,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:46:47.693Z",
+              "WhenOpened": "2025-06-24T08:51:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:47:37.001Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ProfilePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:28:41.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "LoginPanel.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,21 +296,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAGgNAAAAAAAAAAAswH8NAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-06-24T17:13:25.691Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:46:47.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Program.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
+              "RelativeToolTip": "OS_FinalProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:45:08.477Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUpPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:53:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfilePanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:44:34.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "FormMain.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.Designer.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.Designer.cs",
               "RelativeToolTip": "OS_FinalProj\\FormMain.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,52 +373,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "FormMain.resx",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.resx",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.resx",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.resx",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.resx",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.resx",
               "RelativeToolTip": "OS_FinalProj\\FormMain.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-24T08:50:16.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T08:50:16.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "SignUpPanel.resx",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.resx",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.resx",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.resx",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.resx",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.resx",
               "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-24T08:48:22.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T08:48:22.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "SignUpPanel.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:48:19.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T08:48:19.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "OS_FinalProj.csproj",
-              "DocumentMoniker": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
               "RelativeDocumentMoniker": "OS_FinalProj\\OS_FinalProj.csproj",
-              "ToolTip": "D:\\Users\\ariff\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\OS_FinalProj.csproj",
               "RelativeToolTip": "OS_FinalProj\\OS_FinalProj.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-24T08:47:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUpPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\SignUpPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\SignUpPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\SignUpPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:48:11.247Z"
             }
           ]
         }

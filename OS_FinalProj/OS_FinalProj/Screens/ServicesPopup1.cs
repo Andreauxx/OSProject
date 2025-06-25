@@ -10,23 +10,28 @@ using System.Windows.Forms;
 
 namespace OS_FinalProj.Screens
 {
-    public partial class MainScreenPanel : UserControl
+    public partial class ServicesPopup1 : UserControl
     {
         FormMain mainForm;
-        public MainScreenPanel(FormMain form)
+        public ServicesPopup1(FormMain form)
         {
             InitializeComponent();
             mainForm = form;
         }
 
-        private void btnProfile_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            mainForm.LoadProfile();
+
         }
 
-        private void btnServices_Click(object sender, EventArgs e)
+        private void lblSusSteerServ_Click(object sender, EventArgs e)
         {
-            mainForm.LoadServicePopup1();
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadServicePopup2();
         }
     }
 }

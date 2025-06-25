@@ -10,23 +10,23 @@ using System.Windows.Forms;
 
 namespace OS_FinalProj.Screens
 {
-    public partial class MainScreenPanel : UserControl
+    public partial class ServiceBasketPanel : UserControl
     {
         FormMain mainForm;
-        public MainScreenPanel(FormMain form)
+        public ServiceBasketPanel(FormMain form)
         {
             InitializeComponent();
             mainForm = form;
         }
 
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+            
+        }
+
         private void btnProfile_Click(object sender, EventArgs e)
         {
             mainForm.LoadProfile();
-        }
-
-        private void btnServices_Click(object sender, EventArgs e)
-        {
-            mainForm.LoadServicePopup1();
         }
     }
 }

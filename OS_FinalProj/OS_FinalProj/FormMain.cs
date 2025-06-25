@@ -51,5 +51,23 @@ namespace OS_FinalProj
             pnlMain.Controls.Add(profilePanel);
         }
 
+        public void LoadServicePopup1()
+        {
+            pnlMain.Controls.Clear();
+            var servicesPopup1 = new ServicesPopup1(this);
+            servicesPopup1.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(servicesPopup1);
+
+
+        }
+
+        public void LoadServicePopup2()
+        {
+            pnlMain.Controls.Clear();
+            var servicePopup2 = new ServicePopup2(this);
+            servicePopup2.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(servicePopup2);
+        }
+
     }
 }

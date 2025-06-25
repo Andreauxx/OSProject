@@ -75,6 +75,7 @@
             btnServices.TabIndex = 2;
             btnServices.Text = "profile";
             btnServices.UseVisualStyleBackColor = false;
+            btnServices.Click += btnServices_Click;
             // 
             // btnAbout
             // 

@@ -16,6 +16,15 @@
     <Compile Update="Screens\ProfilePanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\ServiceBasketPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\ServicePopup2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\ServicesPopup1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\SignUpPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
