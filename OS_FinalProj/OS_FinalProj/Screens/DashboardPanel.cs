@@ -12,9 +12,21 @@ namespace OS_FinalProj.Screens
 {
     public partial class DashboardPanel : UserControl
     {
-        public DashboardPanel()
+        FormMain mainForm;
+        public DashboardPanel(FormMain form)
         {
             InitializeComponent();
+            mainForm = form;
+        }
+
+        private void DashboardPanel_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadMainScreen();
         }
     }
 }

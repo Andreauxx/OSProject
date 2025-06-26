@@ -63,6 +63,7 @@
             btnDashBoard.TabIndex = 1;
             btnDashBoard.Text = "profile";
             btnDashBoard.UseVisualStyleBackColor = false;
+            btnDashBoard.Click += btnDashBoard_Click;
             // 
             // btnServices
             // 

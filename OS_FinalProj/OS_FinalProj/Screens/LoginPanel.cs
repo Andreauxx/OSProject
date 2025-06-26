@@ -22,7 +22,7 @@ namespace OS_FinalProj.Screens
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void lnklblSignUp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -34,6 +34,11 @@ namespace OS_FinalProj.Screens
         private void btnLogin_Click_1(object sender, EventArgs e)
         {
             mainForm.LoadMainScreen();
+        }
+
+        private void pnlLogIn_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

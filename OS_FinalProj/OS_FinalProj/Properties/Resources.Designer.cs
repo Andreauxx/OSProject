@@ -83,6 +83,16 @@ namespace OS_FinalProj.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap be6cbda6_84d1_4e3b_8434_7ac1d2d19cff1 {
+            get {
+                object obj = ResourceManager.GetObject("be6cbda6-84d1-4e3b-8434-7ac1d2d19cff1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap profile {
             get {
                 object obj = ResourceManager.GetObject("profile", resourceCulture);

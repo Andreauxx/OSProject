@@ -153,5 +153,16 @@ namespace OS_FinalProj
             aboutUsPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(aboutUsPanel);
         }
+
+        public void LoadDashboard()
+        {
+            pnlMain.Controls.Clear();
+            var dashboard = new DashboardPanel(this);
+            dashboard.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(dashboard);
+        }
+
+       
     }
+
 }

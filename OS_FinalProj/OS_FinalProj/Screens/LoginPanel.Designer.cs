@@ -50,6 +50,7 @@
             pnlLogIn.Name = "pnlLogIn";
             pnlLogIn.Size = new Size(804, 453);
             pnlLogIn.TabIndex = 7;
+            pnlLogIn.Paint += pnlLogIn_Paint;
             // 
             // btnLogin
             // 

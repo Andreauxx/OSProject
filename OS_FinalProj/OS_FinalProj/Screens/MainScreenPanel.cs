@@ -33,5 +33,10 @@ namespace OS_FinalProj.Screens
         {
             mainForm.LoadAboutUs();
         }
+
+        private void btnDashBoard_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadDashboard();
+        }
     }
 }
