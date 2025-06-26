@@ -1,4 +1,5 @@
 ﻿using OS_FinalProj.Screens;
+using OS_FinalProj.Screens.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -69,5 +70,80 @@ namespace OS_FinalProj
             pnlMain.Controls.Add(servicePopup2);
         }
 
+        // Services
+
+        public void LoadGeneralServices()
+        {
+            pnlMain.Controls.Clear();
+            var generalServicesPanel = new GeneralServicesPanel(this);
+            generalServicesPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(generalServicesPanel);
+        }
+
+        public void LoadEngineTransitionServices()
+        {
+            pnlMain.Controls.Clear();
+            var engineTransPanel = new EngineTransPanel(this);
+            engineTransPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(engineTransPanel);
+        }
+
+        public void LoadSuspensionSteeringServices()
+        {
+            pnlMain.Controls.Clear();
+            var suspensionSteeringPanel = new SuspensionSteeringPanel(this);
+            suspensionSteeringPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(suspensionSteeringPanel);
+        }
+
+        public void LoadHeatingAirConServices()
+        {
+            pnlMain.Controls.Clear();
+            var heatingAirConPanel = new HeatingAirConPanel(this);
+            heatingAirConPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(heatingAirConPanel);
+        }
+        public void LoadFuelExhaustServices()
+        {
+            pnlMain.Controls.Clear();
+            var fuelExhaustPanel = new FuelExhaustPanel(this);
+            fuelExhaustPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(fuelExhaustPanel);
+        }
+        public void LoadElectricalLightingServices()
+        {
+            pnlMain.Controls.Clear();
+            var electricLightPanel = new ElectricalLightPanel(this);
+            electricLightPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(electricLightPanel);
+        }
+        public void LoadTireServices()
+        {
+            pnlMain.Controls.Clear();
+            var tireServicesPanel = new TireServicesPanel(this);
+            tireServicesPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(tireServicesPanel);
+        }
+        public void LoadDiagnosticCheckServices()
+        {
+            pnlMain.Controls.Clear();
+            var diagnosticCheckPanel = new DiagnosticCheckPanel(this);
+            diagnosticCheckPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(diagnosticCheckPanel);
+        }
+        public void LoadFluidFilterServices()
+        {
+            pnlMain.Controls.Clear();
+            var fluidFilterPanel = new FluidFilterPanel(this);
+            fluidFilterPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(fluidFilterPanel);
+        }
+        public void LoadCustomPerformanceServices()
+        {
+            pnlMain.Controls.Clear();
+            var customPerfPanel = new CustomPerfPanel(this);
+            customPerfPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(customPerfPanel);
+        }
     }
 }

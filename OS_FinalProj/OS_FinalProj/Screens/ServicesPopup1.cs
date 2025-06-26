@@ -33,5 +33,30 @@ namespace OS_FinalProj.Screens
         {
             mainForm.LoadServicePopup2();
         }
+
+        private void btnGenServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadGeneralServices();
+        }
+
+        private void btnEngTransServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadEngineTransitionServices();
+        }
+
+        private void btnSusSteerServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadSuspensionSteeringServices();
+        }
+
+        private void btnHeatAirServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadHeatingAirConServices();
+        }
+
+        private void btnFuelExhServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadFuelExhaustServices();
+        }
     }
 }

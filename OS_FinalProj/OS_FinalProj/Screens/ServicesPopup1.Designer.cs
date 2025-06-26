@@ -53,6 +53,7 @@
             btnGenServ.TabIndex = 3;
             btnGenServ.Text = "profile";
             btnGenServ.UseVisualStyleBackColor = false;
+            btnGenServ.Click += btnGenServ_Click;
             // 
             // btnEngTransServ
             // 
@@ -65,6 +66,7 @@
             btnEngTransServ.TabIndex = 4;
             btnEngTransServ.Text = "profile";
             btnEngTransServ.UseVisualStyleBackColor = false;
+            btnEngTransServ.Click += btnEngTransServ_Click;
             // 
             // btnFuelExhServ
             // 
@@ -77,6 +79,7 @@
             btnFuelExhServ.TabIndex = 5;
             btnFuelExhServ.Text = "profile";
             btnFuelExhServ.UseVisualStyleBackColor = false;
+            btnFuelExhServ.Click += btnFuelExhServ_Click;
             // 
             // btnSusSteerServ
             // 
@@ -89,6 +92,7 @@
             btnSusSteerServ.TabIndex = 6;
             btnSusSteerServ.Text = "profile";
             btnSusSteerServ.UseVisualStyleBackColor = false;
+            btnSusSteerServ.Click += btnSusSteerServ_Click;
             // 
             // btnHeatAirServ
             // 
@@ -101,6 +105,7 @@
             btnHeatAirServ.TabIndex = 7;
             btnHeatAirServ.Text = "profile";
             btnHeatAirServ.UseVisualStyleBackColor = false;
+            btnHeatAirServ.Click += btnHeatAirServ_Click;
             // 
             // button5
             // 
@@ -130,11 +135,11 @@
             // lblGenServ
             // 
             lblGenServ.AutoSize = true;
-            lblGenServ.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblGenServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblGenServ.ForeColor = SystemColors.ButtonFace;
             lblGenServ.Location = new Point(194, 190);
             lblGenServ.Name = "lblGenServ";
-            lblGenServ.Size = new Size(118, 23);
+            lblGenServ.Size = new Size(111, 16);
             lblGenServ.TabIndex = 10;
             lblGenServ.Text = "General Services";
             lblGenServ.Click += label1_Click;
@@ -142,22 +147,22 @@
             // lblGenTransServ
             // 
             lblGenTransServ.AutoSize = true;
-            lblGenTransServ.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblGenTransServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblGenTransServ.ForeColor = SystemColors.ButtonFace;
             lblGenTransServ.Location = new Point(392, 190);
             lblGenTransServ.Name = "lblGenTransServ";
-            lblGenTransServ.Size = new Size(227, 23);
+            lblGenTransServ.Size = new Size(215, 16);
             lblGenTransServ.TabIndex = 11;
             lblGenTransServ.Text = "Engine and Transmission Services";
             // 
             // lblSusSteerServ
             // 
             lblSusSteerServ.AutoSize = true;
-            lblSusSteerServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblSusSteerServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSusSteerServ.ForeColor = SystemColors.ButtonFace;
             lblSusSteerServ.Location = new Point(27, 384);
             lblSusSteerServ.Name = "lblSusSteerServ";
-            lblSusSteerServ.Size = new Size(208, 22);
+            lblSusSteerServ.Size = new Size(194, 15);
             lblSusSteerServ.TabIndex = 12;
             lblSusSteerServ.Text = "Suspension and Steering Services";
             lblSusSteerServ.Click += lblSusSteerServ_Click;
@@ -165,22 +170,22 @@
             // lblHeatAirServ
             // 
             lblHeatAirServ.AutoSize = true;
-            lblHeatAirServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblHeatAirServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblHeatAirServ.ForeColor = SystemColors.ButtonFace;
             lblHeatAirServ.Location = new Point(255, 384);
             lblHeatAirServ.Name = "lblHeatAirServ";
-            lblHeatAirServ.Size = new Size(233, 22);
+            lblHeatAirServ.Size = new Size(212, 15);
             lblHeatAirServ.TabIndex = 13;
             lblHeatAirServ.Text = "Heating and Air Conditioning Services";
             // 
             // lblFuelExhServ
             // 
             lblFuelExhServ.AutoSize = true;
-            lblFuelExhServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblFuelExhServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblFuelExhServ.ForeColor = SystemColors.ButtonFace;
             lblFuelExhServ.Location = new Point(509, 384);
             lblFuelExhServ.Name = "lblFuelExhServ";
-            lblFuelExhServ.Size = new Size(207, 22);
+            lblFuelExhServ.Size = new Size(194, 15);
             lblFuelExhServ.TabIndex = 14;
             lblFuelExhServ.Text = "Fuel and Exhaust System Services";
             // 

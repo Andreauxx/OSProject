@@ -23,5 +23,30 @@ namespace OS_FinalProj.Screens
         {
             mainForm.LoadServicePopup1();
         }
+
+        private void btnElecLightServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadElectricalLightingServices();
+        }
+
+        private void btnTireServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadTireServices();
+        }
+
+        private void btnDiagCheckServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadDiagnosticCheckServices();
+        }
+
+        private void btnFluidFilServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadFluidFilterServices();
+        }
+
+        private void btnCustPerfServ_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadCustomPerformanceServices();
+        }
     }
 }

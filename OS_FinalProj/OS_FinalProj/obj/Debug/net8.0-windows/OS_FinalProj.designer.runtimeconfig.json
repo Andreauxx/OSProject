@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Candesse\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Candesse\\.nuget\\packages",
+      "C:\\Users\\ariff\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ariff\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

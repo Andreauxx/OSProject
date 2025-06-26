@@ -25,6 +25,36 @@
     <Compile Update="Screens\ServicesPopup1.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\Services\CustomPerfPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\DiagnosticCheckPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\ElectricalLightPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\EngineTransPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\FluidFilterPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\FuelExhaustPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\GeneralServicesPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\HeatingAirConPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\SuspensionSteeringPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\Services\TireServicesPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\SignUpPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
