@@ -114,3 +114,14 @@ C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\ne
 C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
 C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
 C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
+C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AboutUsPanel.resources

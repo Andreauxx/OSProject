@@ -183,6 +183,7 @@
             Controls.Add(btnAddtoServ);
             Name = "FuelExhaustPanel";
             Size = new Size(800, 451);
+            Load += FuelExhaustPanel_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

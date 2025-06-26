@@ -28,5 +28,10 @@ namespace OS_FinalProj.Screens
         {
             mainForm.LoadServicePopup1();
         }
+
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadAboutUs();
+        }
     }
 }

@@ -88,6 +88,7 @@
             btnAbout.TabIndex = 3;
             btnAbout.Text = "profile";
             btnAbout.UseVisualStyleBackColor = false;
+            btnAbout.Click += btnAbout_Click;
             // 
             // lblDashBoard
             // 

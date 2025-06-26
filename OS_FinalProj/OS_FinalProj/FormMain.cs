@@ -145,5 +145,13 @@ namespace OS_FinalProj
             customPerfPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(customPerfPanel);
         }
+
+        public void LoadAboutUs()
+        {
+            pnlMain.Controls.Clear();
+            var aboutUsPanel = new AboutUsPanel(this);
+            aboutUsPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(aboutUsPanel);
+        }
     }
 }

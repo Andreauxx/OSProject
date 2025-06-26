@@ -4,6 +4,9 @@
     <Compile Update="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Screens\AboutUsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\DashboardPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>

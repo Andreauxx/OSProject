@@ -118,6 +118,7 @@
             button5.TabIndex = 8;
             button5.Text = "profile";
             button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
             // 
             // btnNext
             // 
@@ -208,6 +209,7 @@
             Controls.Add(btnGenServ);
             Name = "ServicesPopup1";
             Size = new Size(800, 451);
+            Load += ServicesPopup1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
