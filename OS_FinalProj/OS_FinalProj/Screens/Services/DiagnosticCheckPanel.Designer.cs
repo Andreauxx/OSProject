@@ -42,7 +42,7 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.diagnostic1;
-            pictureBox1.Location = new Point(339, 50);
+            pictureBox1.Location = new Point(310, 46);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -59,7 +59,7 @@
             btnPrePur.Image = null;
             btnPrePur.ImageAlign = ContentAlignment.MiddleLeft;
             btnPrePur.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnPrePur.Location = new Point(314, 324);
+            btnPrePur.Location = new Point(285, 320);
             btnPrePur.Name = "btnPrePur";
             btnPrePur.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnPrePur.PressedColor = Color.FromArgb(255, 131, 0);
@@ -79,7 +79,7 @@
             btnCarHealthCheck.Image = null;
             btnCarHealthCheck.ImageAlign = ContentAlignment.MiddleLeft;
             btnCarHealthCheck.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCarHealthCheck.Location = new Point(455, 255);
+            btnCarHealthCheck.Location = new Point(426, 251);
             btnCarHealthCheck.Name = "btnCarHealthCheck";
             btnCarHealthCheck.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCarHealthCheck.PressedColor = Color.FromArgb(255, 131, 0);
@@ -92,11 +92,11 @@
             // 
             lblDiagnostickCheck.AutoSize = true;
             lblDiagnostickCheck.BackColor = Color.Transparent;
-            lblDiagnostickCheck.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblDiagnostickCheck.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblDiagnostickCheck.ForeColor = SystemColors.ButtonFace;
-            lblDiagnostickCheck.Location = new Point(297, 221);
+            lblDiagnostickCheck.Location = new Point(256, 199);
             lblDiagnostickCheck.Name = "lblDiagnostickCheck";
-            lblDiagnostickCheck.Size = new Size(250, 20);
+            lblDiagnostickCheck.Size = new Size(282, 28);
             lblDiagnostickCheck.TabIndex = 77;
             lblDiagnostickCheck.Text = "Diagnostic and Check up Services";
             // 
@@ -123,7 +123,7 @@
             btnCompDiag.Image = null;
             btnCompDiag.ImageAlign = ContentAlignment.MiddleLeft;
             btnCompDiag.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCompDiag.Location = new Point(162, 255);
+            btnCompDiag.Location = new Point(133, 251);
             btnCompDiag.Name = "btnCompDiag";
             btnCompDiag.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCompDiag.PressedColor = Color.FromArgb(255, 131, 0);
@@ -142,7 +142,7 @@
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 400);
+            btnAddtoServ.Location = new Point(602, 396);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);

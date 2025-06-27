@@ -46,15 +46,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(616, 390);
+            btnAddtoServ.Location = new Point(596, 390);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(161, 29);
             btnAddtoServ.TabIndex = 12;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;
@@ -65,7 +65,7 @@
             btnOilChange.BorderColor = Color.FromArgb(39, 39, 39);
             btnOilChange.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnOilChange.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnOilChange.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnOilChange.Font = new Font("Poppins", 9.75F);
             btnOilChange.Image = null;
             btnOilChange.ImageAlign = ContentAlignment.MiddleLeft;
             btnOilChange.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -95,11 +95,11 @@
             // 
             lblGenServ.AutoSize = true;
             lblGenServ.BackColor = Color.Transparent;
-            lblGenServ.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblGenServ.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblGenServ.ForeColor = SystemColors.ButtonFace;
-            lblGenServ.Location = new Point(325, 193);
+            lblGenServ.Location = new Point(319, 193);
             lblGenServ.Name = "lblGenServ";
-            lblGenServ.Size = new Size(130, 20);
+            lblGenServ.Size = new Size(145, 28);
             lblGenServ.TabIndex = 19;
             lblGenServ.Text = "General Services";
             // 
@@ -109,7 +109,7 @@
             btnBrakeFluidRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnBrakeFluidRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnBrakeFluidRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnBrakeFluidRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnBrakeFluidRep.Font = new Font("Poppins", 9.75F);
             btnBrakeFluidRep.Image = null;
             btnBrakeFluidRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnBrakeFluidRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -128,7 +128,7 @@
             btnAirFiltRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnAirFiltRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAirFiltRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAirFiltRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAirFiltRep.Font = new Font("Poppins", 9.75F);
             btnAirFiltRep.Image = null;
             btnAirFiltRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnAirFiltRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -147,7 +147,7 @@
             btnTireRot.BorderColor = Color.FromArgb(39, 39, 39);
             btnTireRot.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnTireRot.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnTireRot.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnTireRot.Font = new Font("Poppins", 9.75F);
             btnTireRot.Image = null;
             btnTireRot.ImageAlign = ContentAlignment.MiddleLeft;
             btnTireRot.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -166,7 +166,7 @@
             btnBattRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnBattRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnBattRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnBattRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnBattRep.Font = new Font("Poppins", 9.75F);
             btnBattRep.Image = null;
             btnBattRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnBattRep.InactiveColor = Color.FromArgb(214, 211, 206);

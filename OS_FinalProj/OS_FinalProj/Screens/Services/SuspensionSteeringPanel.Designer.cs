@@ -43,7 +43,7 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.suspension1;
-            pictureBox1.Location = new Point(329, 50);
+            pictureBox1.Location = new Point(314, 51);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -56,11 +56,11 @@
             btnPowSteerRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnPowSteerRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnPowSteerRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnPowSteerRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnPowSteerRep.Font = new Font("Poppins", 9.75F);
             btnPowSteerRep.Image = null;
             btnPowSteerRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnPowSteerRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnPowSteerRep.Location = new Point(455, 330);
+            btnPowSteerRep.Location = new Point(440, 331);
             btnPowSteerRep.Name = "btnPowSteerRep";
             btnPowSteerRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnPowSteerRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -75,11 +75,11 @@
             btnSuspSysRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnSuspSysRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnSuspSysRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnSuspSysRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnSuspSysRep.Font = new Font("Poppins", 9.75F);
             btnSuspSysRep.Image = null;
             btnSuspSysRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnSuspSysRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnSuspSysRep.Location = new Point(162, 330);
+            btnSuspSysRep.Location = new Point(147, 331);
             btnSuspSysRep.Name = "btnSuspSysRep";
             btnSuspSysRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnSuspSysRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -94,11 +94,11 @@
             btnWheelAlign.BorderColor = Color.FromArgb(39, 39, 39);
             btnWheelAlign.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnWheelAlign.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnWheelAlign.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnWheelAlign.Font = new Font("Poppins", 9.75F);
             btnWheelAlign.Image = null;
             btnWheelAlign.ImageAlign = ContentAlignment.MiddleLeft;
             btnWheelAlign.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnWheelAlign.Location = new Point(455, 255);
+            btnWheelAlign.Location = new Point(440, 256);
             btnWheelAlign.Name = "btnWheelAlign";
             btnWheelAlign.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnWheelAlign.PressedColor = Color.FromArgb(255, 131, 0);
@@ -111,11 +111,11 @@
             // 
             lblSusSteering.AutoSize = true;
             lblSusSteering.BackColor = Color.Transparent;
-            lblSusSteering.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblSusSteering.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSusSteering.ForeColor = SystemColors.ButtonFace;
-            lblSusSteering.Location = new Point(288, 215);
+            lblSusSteering.Location = new Point(254, 204);
             lblSusSteering.Name = "lblSusSteering";
-            lblSusSteering.Size = new Size(252, 20);
+            lblSusSteering.Size = new Size(278, 28);
             lblSusSteering.TabIndex = 37;
             lblSusSteering.Text = "Suspension and Steering Services";
             // 
@@ -138,11 +138,11 @@
             btnShockAbsRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnShockAbsRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnShockAbsRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnShockAbsRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnShockAbsRep.Font = new Font("Poppins", 9.75F);
             btnShockAbsRep.Image = null;
             btnShockAbsRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnShockAbsRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnShockAbsRep.Location = new Point(162, 255);
+            btnShockAbsRep.Location = new Point(147, 256);
             btnShockAbsRep.Name = "btnShockAbsRep";
             btnShockAbsRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnShockAbsRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -157,15 +157,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 400);
+            btnAddtoServ.Location = new Point(599, 401);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(158, 29);
             btnAddtoServ.TabIndex = 34;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;

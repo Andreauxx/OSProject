@@ -43,7 +43,7 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.custom1;
-            pictureBox1.Location = new Point(339, 32);
+            pictureBox1.Location = new Point(319, 26);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -56,11 +56,11 @@
             btnCustomFab.BorderColor = Color.FromArgb(39, 39, 39);
             btnCustomFab.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnCustomFab.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnCustomFab.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnCustomFab.Font = new Font("Poppins", 9.75F);
             btnCustomFab.Image = null;
             btnCustomFab.ImageAlign = ContentAlignment.MiddleLeft;
             btnCustomFab.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCustomFab.Location = new Point(455, 312);
+            btnCustomFab.Location = new Point(435, 306);
             btnCustomFab.Name = "btnCustomFab";
             btnCustomFab.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCustomFab.PressedColor = Color.FromArgb(255, 131, 0);
@@ -75,11 +75,11 @@
             btnExhaustSys.BorderColor = Color.FromArgb(39, 39, 39);
             btnExhaustSys.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnExhaustSys.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnExhaustSys.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnExhaustSys.Font = new Font("Poppins", 9.75F);
             btnExhaustSys.Image = null;
             btnExhaustSys.ImageAlign = ContentAlignment.MiddleLeft;
             btnExhaustSys.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnExhaustSys.Location = new Point(162, 312);
+            btnExhaustSys.Location = new Point(142, 306);
             btnExhaustSys.Name = "btnExhaustSys";
             btnExhaustSys.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnExhaustSys.PressedColor = Color.FromArgb(255, 131, 0);
@@ -94,11 +94,11 @@
             btnSuspUp.BorderColor = Color.FromArgb(39, 39, 39);
             btnSuspUp.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnSuspUp.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnSuspUp.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnSuspUp.Font = new Font("Poppins", 9.75F);
             btnSuspUp.Image = null;
             btnSuspUp.ImageAlign = ContentAlignment.MiddleLeft;
             btnSuspUp.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnSuspUp.Location = new Point(455, 237);
+            btnSuspUp.Location = new Point(435, 231);
             btnSuspUp.Name = "btnSuspUp";
             btnSuspUp.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnSuspUp.PressedColor = Color.FromArgb(255, 131, 0);
@@ -111,11 +111,11 @@
             // 
             lblCustomPerfSer.AutoSize = true;
             lblCustomPerfSer.BackColor = Color.Transparent;
-            lblCustomPerfSer.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblCustomPerfSer.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblCustomPerfSer.ForeColor = SystemColors.ButtonFace;
-            lblCustomPerfSer.Location = new Point(289, 202);
+            lblCustomPerfSer.Location = new Point(260, 179);
             lblCustomPerfSer.Name = "lblCustomPerfSer";
-            lblCustomPerfSer.Size = new Size(254, 20);
+            lblCustomPerfSer.Size = new Size(287, 28);
             lblCustomPerfSer.TabIndex = 85;
             lblCustomPerfSer.Text = "Custom and Performance Services";
             // 
@@ -138,11 +138,11 @@
             btnPerfTuning.BorderColor = Color.FromArgb(39, 39, 39);
             btnPerfTuning.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnPerfTuning.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnPerfTuning.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnPerfTuning.Font = new Font("Poppins", 9.75F);
             btnPerfTuning.Image = null;
             btnPerfTuning.ImageAlign = ContentAlignment.MiddleLeft;
             btnPerfTuning.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnPerfTuning.Location = new Point(162, 237);
+            btnPerfTuning.Location = new Point(142, 231);
             btnPerfTuning.Name = "btnPerfTuning";
             btnPerfTuning.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnPerfTuning.PressedColor = Color.FromArgb(255, 131, 0);
@@ -157,15 +157,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 382);
+            btnAddtoServ.Location = new Point(589, 376);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(163, 29);
             btnAddtoServ.TabIndex = 82;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;

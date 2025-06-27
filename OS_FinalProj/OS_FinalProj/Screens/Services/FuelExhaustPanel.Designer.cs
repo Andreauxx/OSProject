@@ -43,7 +43,7 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.fuel1;
-            pictureBox1.Location = new Point(329, 50);
+            pictureBox1.Location = new Point(308, 48);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -56,11 +56,11 @@
             btnFuelPumRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnFuelPumRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnFuelPumRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnFuelPumRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnFuelPumRep.Font = new Font("Poppins", 9.75F);
             btnFuelPumRep.Image = null;
             btnFuelPumRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnFuelPumRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnFuelPumRep.Location = new Point(455, 330);
+            btnFuelPumRep.Location = new Point(434, 328);
             btnFuelPumRep.Name = "btnFuelPumRep";
             btnFuelPumRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnFuelPumRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -75,11 +75,11 @@
             btnExhaustSysRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnExhaustSysRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnExhaustSysRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnExhaustSysRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnExhaustSysRep.Font = new Font("Poppins", 9.75F);
             btnExhaustSysRep.Image = null;
             btnExhaustSysRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnExhaustSysRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnExhaustSysRep.Location = new Point(162, 330);
+            btnExhaustSysRep.Location = new Point(141, 328);
             btnExhaustSysRep.Name = "btnExhaustSysRep";
             btnExhaustSysRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnExhaustSysRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -94,11 +94,11 @@
             btnCatConvRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnCatConvRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnCatConvRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnCatConvRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnCatConvRep.Font = new Font("Poppins", 9.75F);
             btnCatConvRep.Image = null;
             btnCatConvRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnCatConvRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCatConvRep.Location = new Point(455, 255);
+            btnCatConvRep.Location = new Point(434, 253);
             btnCatConvRep.Name = "btnCatConvRep";
             btnCatConvRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCatConvRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -111,11 +111,11 @@
             // 
             lblHeatingAircon.AutoSize = true;
             lblHeatingAircon.BackColor = Color.Transparent;
-            lblHeatingAircon.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblHeatingAircon.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblHeatingAircon.ForeColor = SystemColors.ButtonFace;
-            lblHeatingAircon.Location = new Point(288, 215);
+            lblHeatingAircon.Location = new Point(267, 213);
             lblHeatingAircon.Name = "lblHeatingAircon";
-            lblHeatingAircon.Size = new Size(254, 20);
+            lblHeatingAircon.Size = new Size(277, 28);
             lblHeatingAircon.TabIndex = 53;
             lblHeatingAircon.Text = "Fuel and Exhaust System Services";
             // 
@@ -138,11 +138,11 @@
             btnFuelInject.BorderColor = Color.FromArgb(39, 39, 39);
             btnFuelInject.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnFuelInject.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnFuelInject.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnFuelInject.Font = new Font("Poppins", 9.75F);
             btnFuelInject.Image = null;
             btnFuelInject.ImageAlign = ContentAlignment.MiddleLeft;
             btnFuelInject.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnFuelInject.Location = new Point(162, 255);
+            btnFuelInject.Location = new Point(141, 253);
             btnFuelInject.Name = "btnFuelInject";
             btnFuelInject.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnFuelInject.PressedColor = Color.FromArgb(255, 131, 0);
@@ -157,15 +157,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 400);
+            btnAddtoServ.Location = new Point(591, 398);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(160, 29);
             btnAddtoServ.TabIndex = 50;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;

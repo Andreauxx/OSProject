@@ -44,55 +44,55 @@
             // lblCustPerfServ
             // 
             lblCustPerfServ.AutoSize = true;
-            lblCustPerfServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblCustPerfServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblCustPerfServ.ForeColor = SystemColors.ButtonFace;
-            lblCustPerfServ.Location = new Point(548, 384);
+            lblCustPerfServ.Location = new Point(538, 384);
             lblCustPerfServ.Name = "lblCustPerfServ";
-            lblCustPerfServ.Size = new Size(196, 15);
+            lblCustPerfServ.Size = new Size(214, 22);
             lblCustPerfServ.TabIndex = 26;
             lblCustPerfServ.Text = "Custom and Performance Services";
             // 
             // lblFluidFilServ
             // 
             lblFluidFilServ.AutoSize = true;
-            lblFluidFilServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblFluidFilServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblFluidFilServ.ForeColor = SystemColors.ButtonFace;
-            lblFluidFilServ.Location = new Point(340, 384);
+            lblFluidFilServ.Location = new Point(339, 384);
             lblFluidFilServ.Name = "lblFluidFilServ";
-            lblFluidFilServ.Size = new Size(137, 15);
+            lblFluidFilServ.Size = new Size(146, 22);
             lblFluidFilServ.TabIndex = 25;
             lblFluidFilServ.Text = "Fluid and Filter Services";
             // 
             // lblDiagCheckServ
             // 
             lblDiagCheckServ.AutoSize = true;
-            lblDiagCheckServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblDiagCheckServ.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblDiagCheckServ.ForeColor = SystemColors.ButtonFace;
-            lblDiagCheckServ.Location = new Point(82, 384);
+            lblDiagCheckServ.Location = new Point(67, 384);
             lblDiagCheckServ.Name = "lblDiagCheckServ";
-            lblDiagCheckServ.Size = new Size(192, 15);
+            lblDiagCheckServ.Size = new Size(210, 22);
             lblDiagCheckServ.TabIndex = 24;
             lblDiagCheckServ.Text = "Diagnostic and Check up Services";
             // 
             // lblTireServ
             // 
             lblTireServ.AutoSize = true;
-            lblTireServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblTireServ.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblTireServ.ForeColor = SystemColors.ButtonFace;
             lblTireServ.Location = new Point(484, 201);
             lblTireServ.Name = "lblTireServ";
-            lblTireServ.Size = new Size(87, 16);
+            lblTireServ.Size = new Size(90, 23);
             lblTireServ.TabIndex = 23;
             lblTireServ.Text = "Tire Services";
             // 
             // lblElecLightServ
             // 
             lblElecLightServ.AutoSize = true;
-            lblElecLightServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblElecLightServ.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblElecLightServ.ForeColor = SystemColors.ButtonFace;
             lblElecLightServ.Location = new Point(166, 201);
             lblElecLightServ.Name = "lblElecLightServ";
-            lblElecLightServ.Size = new Size(193, 16);
+            lblElecLightServ.Size = new Size(209, 23);
             lblElecLightServ.TabIndex = 22;
             lblElecLightServ.Text = "Electrical and Lighting Services";
             // 

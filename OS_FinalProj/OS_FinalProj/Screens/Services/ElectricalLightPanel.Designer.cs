@@ -56,7 +56,7 @@
             btnStartMotRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnStartMotRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnStartMotRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnStartMotRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnStartMotRep.Font = new Font("Poppins", 9.75F);
             btnStartMotRep.Image = null;
             btnStartMotRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnStartMotRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -75,7 +75,7 @@
             btnWireFuseRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnWireFuseRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnWireFuseRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnWireFuseRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnWireFuseRep.Font = new Font("Poppins", 9.75F);
             btnWireFuseRep.Image = null;
             btnWireFuseRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnWireFuseRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -94,7 +94,7 @@
             btnAlternatorRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnAlternatorRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAlternatorRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAlternatorRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAlternatorRep.Font = new Font("Poppins", 9.75F);
             btnAlternatorRep.Image = null;
             btnAlternatorRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnAlternatorRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -111,11 +111,11 @@
             // 
             lblElecLightServ.AutoSize = true;
             lblElecLightServ.BackColor = Color.Transparent;
-            lblElecLightServ.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblElecLightServ.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblElecLightServ.ForeColor = SystemColors.ButtonFace;
-            lblElecLightServ.Location = new Point(288, 215);
+            lblElecLightServ.Location = new Point(282, 203);
             lblElecLightServ.Name = "lblElecLightServ";
-            lblElecLightServ.Size = new Size(228, 20);
+            lblElecLightServ.Size = new Size(258, 28);
             lblElecLightServ.TabIndex = 61;
             lblElecLightServ.Text = "Electrical and Lighting Services";
             // 
@@ -138,7 +138,7 @@
             btnHeadBrakeRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnHeadBrakeRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnHeadBrakeRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnHeadBrakeRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnHeadBrakeRep.Font = new Font("Poppins", 9.75F);
             btnHeadBrakeRep.Image = null;
             btnHeadBrakeRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnHeadBrakeRep.InactiveColor = Color.FromArgb(214, 211, 206);
@@ -157,15 +157,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 400);
+            btnAddtoServ.Location = new Point(609, 400);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(163, 29);
             btnAddtoServ.TabIndex = 58;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;

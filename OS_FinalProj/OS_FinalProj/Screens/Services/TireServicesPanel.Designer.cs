@@ -43,7 +43,7 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.tire1;
-            pictureBox1.Location = new Point(336, 60);
+            pictureBox1.Location = new Point(308, 42);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(161, 156);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -56,11 +56,11 @@
             btnTirePres.BorderColor = Color.FromArgb(39, 39, 39);
             btnTirePres.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnTirePres.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnTirePres.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnTirePres.Font = new Font("Poppins", 9.75F);
             btnTirePres.Image = null;
             btnTirePres.ImageAlign = ContentAlignment.MiddleLeft;
             btnTirePres.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnTirePres.Location = new Point(455, 330);
+            btnTirePres.Location = new Point(432, 324);
             btnTirePres.Name = "btnTirePres";
             btnTirePres.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnTirePres.PressedColor = Color.FromArgb(255, 131, 0);
@@ -75,11 +75,11 @@
             btnTireBal.BorderColor = Color.FromArgb(39, 39, 39);
             btnTireBal.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnTireBal.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnTireBal.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnTireBal.Font = new Font("Poppins", 9.75F);
             btnTireBal.Image = null;
             btnTireBal.ImageAlign = ContentAlignment.MiddleLeft;
             btnTireBal.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnTireBal.Location = new Point(162, 330);
+            btnTireBal.Location = new Point(139, 324);
             btnTireBal.Name = "btnTireBal";
             btnTireBal.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnTireBal.PressedColor = Color.FromArgb(255, 131, 0);
@@ -94,11 +94,11 @@
             btnTireMountInst.BorderColor = Color.FromArgb(39, 39, 39);
             btnTireMountInst.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnTireMountInst.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnTireMountInst.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnTireMountInst.Font = new Font("Poppins", 9.75F);
             btnTireMountInst.Image = null;
             btnTireMountInst.ImageAlign = ContentAlignment.MiddleLeft;
             btnTireMountInst.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnTireMountInst.Location = new Point(455, 255);
+            btnTireMountInst.Location = new Point(432, 249);
             btnTireMountInst.Name = "btnTireMountInst";
             btnTireMountInst.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnTireMountInst.PressedColor = Color.FromArgb(255, 131, 0);
@@ -111,11 +111,11 @@
             // 
             lblTireServ.AutoSize = true;
             lblTireServ.BackColor = Color.Transparent;
-            lblTireServ.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblTireServ.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblTireServ.ForeColor = SystemColors.ButtonFace;
-            lblTireServ.Location = new Point(368, 219);
+            lblTireServ.Location = new Point(340, 201);
             lblTireServ.Name = "lblTireServ";
-            lblTireServ.Size = new Size(99, 20);
+            lblTireServ.Size = new Size(111, 28);
             lblTireServ.TabIndex = 69;
             lblTireServ.Text = "Tire Services";
             // 
@@ -138,11 +138,11 @@
             btnTireRep.BorderColor = Color.FromArgb(39, 39, 39);
             btnTireRep.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnTireRep.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnTireRep.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnTireRep.Font = new Font("Poppins", 9.75F);
             btnTireRep.Image = null;
             btnTireRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnTireRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnTireRep.Location = new Point(162, 255);
+            btnTireRep.Location = new Point(139, 249);
             btnTireRep.Name = "btnTireRep";
             btnTireRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnTireRep.PressedColor = Color.FromArgb(255, 131, 0);
@@ -157,15 +157,15 @@
             btnAddtoServ.BorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAddtoServ.EnteredColor = Color.FromArgb(32, 34, 37);
-            btnAddtoServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAddtoServ.Font = new Font("Poppins", 9.75F);
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(631, 400);
+            btnAddtoServ.Location = new Point(589, 394);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(160, 29);
             btnAddtoServ.TabIndex = 66;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;
