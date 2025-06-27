@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,48 +59,16 @@
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\candesse\\onedrive\\\u6587\u6863\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -138,98 +138,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainScreenPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:16:49.776Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ServiceBasketPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "Title": "HeatingAirConPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:30:03.3Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServicePopup2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:21:51.656Z",
+              "WhenOpened": "2025-06-27T15:33:18.908Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ServicesPopup1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "Title": "SuspensionSteeringPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:30:08.539Z",
+              "WhenOpened": "2025-06-27T15:32:46.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TireServicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:32:07.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs [Design]*",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\DashboardPanel.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:52:57.062Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutUsPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\AboutUsPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
+              "Title": "DashboardPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs*",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\DashboardPanel.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:52:31.916Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-26T20:10:55.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CustomPerfPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "Title": "GeneralServicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:42:56.662Z",
+              "WhenOpened": "2025-06-27T15:29:53.658Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DiagnosticCheckPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
+              "Title": "FuelExhaustPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:41:45.498Z",
+              "WhenOpened": "2025-06-26T16:25:56.265Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ElectricalLightPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
+              "Title": "FluidFilterPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:36:43.979Z",
+              "WhenOpened": "2025-06-26T09:42:27.493Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -246,79 +247,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GeneralServicesPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "ElectricalLightPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:29:53.658Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HeatingAirConPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:33:18.908Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SuspensionSteeringPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:32:46.424Z",
+              "WhenOpened": "2025-06-27T15:36:43.979Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FuelExhaustPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
+              "Title": "DiagnosticCheckPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:25:56.265Z",
+              "WhenOpened": "2025-06-26T09:41:45.498Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FluidFilterPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
+              "DocumentIndex": 11,
+              "Title": "CustomPerfPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:42:27.493Z",
+              "WhenOpened": "2025-06-26T09:42:56.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServicePopup2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:21:51.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicesPopup1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:30:08.539Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TireServicesPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "Title": "AboutUsPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\AboutUsPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T15:32:07.686Z",
+              "WhenOpened": "2025-06-26T16:52:31.916Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "MainScreenPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:16:49.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceBasketPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:30:03.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MainScreenPanel.cs",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
@@ -331,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ServicesPopup1.cs",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
@@ -344,19 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DashboardPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\DashboardPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:52:57.062Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
@@ -404,19 +417,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:03:02.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashboardPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "ToolTip": "C:\\Users\\Candesse\\OneDrive\\\u6587\u6863\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\DashboardPanel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:10:55.033Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
