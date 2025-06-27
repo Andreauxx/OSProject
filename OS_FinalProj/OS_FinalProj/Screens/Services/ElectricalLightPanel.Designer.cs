@@ -41,10 +41,12 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.BackColor = Color.White;
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = Properties.Resources.electrical1;
             pictureBox1.Location = new Point(329, 50);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 65;
             pictureBox1.TabStop = false;
             // 

@@ -17,6 +17,23 @@ namespace OS_FinalProj.Screens
         {
             InitializeComponent();
             mainForm = form;
+
+            StyleButton(btnDashbaord);
+            StyleButton(btnServices);
+            StyleButton(btnAbout);
+        }
+
+        private void StyleButton(Button btn)
+        {
+            btn.FlatStyle = FlatStyle.Flat;
+            btn.FlatAppearance.BorderSize = 0;
+            btn.FlatAppearance.BorderColor = Color.FromArgb(0, 0, 0);
+            btn.BackColor = Color.FromArgb(37, 36, 36); 
+            btn.ForeColor = Color.White;
+            btn.FlatAppearance.MouseOverBackColor = Color.FromArgb(50, 50, 50); 
+            btn.FlatAppearance.MouseDownBackColor = Color.FromArgb(60, 60, 60); 
+            btn.TabStop = false;
+            
         }
 
         private void btnProfile_Click(object sender, EventArgs e)
@@ -35,6 +52,21 @@ namespace OS_FinalProj.Screens
         }
 
         private void btnDashBoard_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadDashboard(); //deleted button
+        }
+
+        private void lblAbout_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblServices_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDashbaord_Click(object sender, EventArgs e)
         {
             mainForm.LoadDashboard();
         }

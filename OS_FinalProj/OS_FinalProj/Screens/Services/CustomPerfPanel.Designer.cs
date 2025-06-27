@@ -41,10 +41,12 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.BackColor = Color.White;
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = Properties.Resources.custom1;
             pictureBox1.Location = new Point(339, 32);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 89;
             pictureBox1.TabStop = false;
             // 
@@ -122,7 +124,7 @@
             btnBack.BackColor = Color.FromArgb(69, 65, 61);
             btnBack.FlatStyle = FlatStyle.Popup;
             btnBack.ForeColor = Color.FromArgb(69, 65, 61);
-            btnBack.Location = new Point(29, 4);
+            btnBack.Location = new Point(27, 18);
             btnBack.Name = "btnBack";
             btnBack.Size = new Size(45, 37);
             btnBack.TabIndex = 84;

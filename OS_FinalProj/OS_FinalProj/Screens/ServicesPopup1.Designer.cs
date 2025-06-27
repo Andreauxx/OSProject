@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ServicesPopup1));
             btnGenServ = new Button();
             btnEngTransServ = new Button();
             btnFuelExhServ = new Button();
@@ -46,12 +47,12 @@
             // 
             btnGenServ.BackColor = Color.FromArgb(69, 65, 61);
             btnGenServ.FlatStyle = FlatStyle.Popup;
-            btnGenServ.ForeColor = Color.FromArgb(69, 65, 61);
+            btnGenServ.ForeColor = Color.FromArgb(39, 39, 39);
+            btnGenServ.Image = (Image)resources.GetObject("btnGenServ.Image");
             btnGenServ.Location = new Point(170, 49);
             btnGenServ.Name = "btnGenServ";
             btnGenServ.Size = new Size(168, 138);
             btnGenServ.TabIndex = 3;
-            btnGenServ.Text = "profile";
             btnGenServ.UseVisualStyleBackColor = false;
             btnGenServ.Click += btnGenServ_Click;
             // 
@@ -60,6 +61,7 @@
             btnEngTransServ.BackColor = Color.FromArgb(69, 65, 61);
             btnEngTransServ.FlatStyle = FlatStyle.Popup;
             btnEngTransServ.ForeColor = Color.FromArgb(69, 65, 61);
+            btnEngTransServ.Image = Properties.Resources.engine;
             btnEngTransServ.Location = new Point(415, 49);
             btnEngTransServ.Name = "btnEngTransServ";
             btnEngTransServ.Size = new Size(170, 138);
@@ -73,11 +75,11 @@
             btnFuelExhServ.BackColor = Color.FromArgb(69, 65, 61);
             btnFuelExhServ.FlatStyle = FlatStyle.Popup;
             btnFuelExhServ.ForeColor = Color.FromArgb(69, 65, 61);
+            btnFuelExhServ.Image = Properties.Resources.fuel;
             btnFuelExhServ.Location = new Point(522, 230);
             btnFuelExhServ.Name = "btnFuelExhServ";
             btnFuelExhServ.Size = new Size(174, 138);
             btnFuelExhServ.TabIndex = 5;
-            btnFuelExhServ.Text = "profile";
             btnFuelExhServ.UseVisualStyleBackColor = false;
             btnFuelExhServ.Click += btnFuelExhServ_Click;
             // 
@@ -86,11 +88,11 @@
             btnSusSteerServ.BackColor = Color.FromArgb(69, 65, 61);
             btnSusSteerServ.FlatStyle = FlatStyle.Popup;
             btnSusSteerServ.ForeColor = Color.FromArgb(69, 65, 61);
+            btnSusSteerServ.Image = Properties.Resources.suspension;
             btnSusSteerServ.Location = new Point(43, 230);
             btnSusSteerServ.Name = "btnSusSteerServ";
             btnSusSteerServ.Size = new Size(176, 138);
             btnSusSteerServ.TabIndex = 6;
-            btnSusSteerServ.Text = "profile";
             btnSusSteerServ.UseVisualStyleBackColor = false;
             btnSusSteerServ.Click += btnSusSteerServ_Click;
             // 
@@ -99,11 +101,11 @@
             btnHeatAirServ.BackColor = Color.FromArgb(69, 65, 61);
             btnHeatAirServ.FlatStyle = FlatStyle.Popup;
             btnHeatAirServ.ForeColor = Color.FromArgb(69, 65, 61);
+            btnHeatAirServ.Image = Properties.Resources.heating;
             btnHeatAirServ.Location = new Point(286, 230);
             btnHeatAirServ.Name = "btnHeatAirServ";
             btnHeatAirServ.Size = new Size(170, 138);
             btnHeatAirServ.TabIndex = 7;
-            btnHeatAirServ.Text = "profile";
             btnHeatAirServ.UseVisualStyleBackColor = false;
             btnHeatAirServ.Click += btnHeatAirServ_Click;
             // 
@@ -122,14 +124,14 @@
             // 
             // btnNext
             // 
-            btnNext.BackColor = Color.FromArgb(69, 65, 61);
-            btnNext.FlatStyle = FlatStyle.Popup;
-            btnNext.ForeColor = Color.FromArgb(69, 65, 61);
-            btnNext.Location = new Point(741, 356);
+            btnNext.BackColor = Color.FromArgb(39, 39, 39);
+            btnNext.FlatStyle = FlatStyle.Flat;
+            btnNext.ForeColor = Color.FromArgb(39, 39, 39);
+            btnNext.Image = (Image)resources.GetObject("btnNext.Image");
+            btnNext.Location = new Point(741, 340);
             btnNext.Name = "btnNext";
-            btnNext.Size = new Size(45, 50);
+            btnNext.Size = new Size(45, 59);
             btnNext.TabIndex = 9;
-            btnNext.Text = "profile";
             btnNext.UseVisualStyleBackColor = false;
             btnNext.Click += button6_Click;
             // 
@@ -138,7 +140,7 @@
             lblGenServ.AutoSize = true;
             lblGenServ.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblGenServ.ForeColor = SystemColors.ButtonFace;
-            lblGenServ.Location = new Point(194, 190);
+            lblGenServ.Location = new Point(203, 190);
             lblGenServ.Name = "lblGenServ";
             lblGenServ.Size = new Size(111, 16);
             lblGenServ.TabIndex = 10;
@@ -161,7 +163,7 @@
             lblSusSteerServ.AutoSize = true;
             lblSusSteerServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSusSteerServ.ForeColor = SystemColors.ButtonFace;
-            lblSusSteerServ.Location = new Point(27, 384);
+            lblSusSteerServ.Location = new Point(43, 384);
             lblSusSteerServ.Name = "lblSusSteerServ";
             lblSusSteerServ.Size = new Size(194, 15);
             lblSusSteerServ.TabIndex = 12;
@@ -173,7 +175,7 @@
             lblHeatAirServ.AutoSize = true;
             lblHeatAirServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblHeatAirServ.ForeColor = SystemColors.ButtonFace;
-            lblHeatAirServ.Location = new Point(255, 384);
+            lblHeatAirServ.Location = new Point(264, 384);
             lblHeatAirServ.Name = "lblHeatAirServ";
             lblHeatAirServ.Size = new Size(212, 15);
             lblHeatAirServ.TabIndex = 13;
@@ -184,7 +186,7 @@
             lblFuelExhServ.AutoSize = true;
             lblFuelExhServ.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblFuelExhServ.ForeColor = SystemColors.ButtonFace;
-            lblFuelExhServ.Location = new Point(509, 384);
+            lblFuelExhServ.Location = new Point(522, 384);
             lblFuelExhServ.Name = "lblFuelExhServ";
             lblFuelExhServ.Size = new Size(194, 15);
             lblFuelExhServ.TabIndex = 14;

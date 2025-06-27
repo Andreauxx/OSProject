@@ -61,7 +61,7 @@ namespace OS_FinalProj.Screens
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            mainForm.LoadMainScreen();
         }
 
         private void ServicesPopup1_Load(object sender, EventArgs e)

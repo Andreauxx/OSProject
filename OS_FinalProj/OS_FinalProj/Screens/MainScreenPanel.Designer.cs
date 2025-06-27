@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             btnProfile = new Button();
-            btnDashBoard = new Button();
             btnServices = new Button();
             btnAbout = new Button();
-            lblDashBoard = new Label();
             lblServices = new Label();
             lblAbout = new Label();
             pictureBox1 = new PictureBox();
+            btnDashbaord = new Button();
+            lblDashboard = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -52,56 +52,31 @@
             btnProfile.UseVisualStyleBackColor = false;
             btnProfile.Click += btnProfile_Click;
             // 
-            // btnDashBoard
-            // 
-            btnDashBoard.BackColor = Color.FromArgb(69, 65, 61);
-            btnDashBoard.FlatStyle = FlatStyle.Popup;
-            btnDashBoard.ForeColor = Color.FromArgb(69, 65, 61);
-            btnDashBoard.Location = new Point(24, 115);
-            btnDashBoard.Name = "btnDashBoard";
-            btnDashBoard.Size = new Size(217, 197);
-            btnDashBoard.TabIndex = 1;
-            btnDashBoard.Text = "profile";
-            btnDashBoard.UseVisualStyleBackColor = false;
-            btnDashBoard.Click += btnDashBoard_Click;
-            // 
             // btnServices
             // 
-            btnServices.BackColor = Color.FromArgb(69, 65, 61);
-            btnServices.FlatStyle = FlatStyle.Popup;
-            btnServices.ForeColor = Color.FromArgb(69, 65, 61);
-            btnServices.Location = new Point(291, 115);
+            btnServices.BackColor = Color.FromArgb(39, 39, 39);
+            btnServices.FlatStyle = FlatStyle.Flat;
+            btnServices.ForeColor = Color.FromArgb(39, 39, 39);
+            btnServices.Image = Properties.Resources.services;
+            btnServices.Location = new Point(269, 136);
             btnServices.Name = "btnServices";
-            btnServices.Size = new Size(217, 197);
+            btnServices.Size = new Size(217, 185);
             btnServices.TabIndex = 2;
-            btnServices.Text = "profile";
             btnServices.UseVisualStyleBackColor = false;
             btnServices.Click += btnServices_Click;
             // 
             // btnAbout
             // 
-            btnAbout.BackColor = Color.FromArgb(69, 65, 61);
-            btnAbout.FlatStyle = FlatStyle.Popup;
-            btnAbout.ForeColor = Color.FromArgb(69, 65, 61);
-            btnAbout.Location = new Point(557, 115);
+            btnAbout.BackColor = Color.FromArgb(39, 39, 39);
+            btnAbout.FlatStyle = FlatStyle.Flat;
+            btnAbout.ForeColor = Color.FromArgb(39, 39, 39);
+            btnAbout.Image = Properties.Resources.about;
+            btnAbout.Location = new Point(530, 136);
             btnAbout.Name = "btnAbout";
-            btnAbout.Size = new Size(217, 197);
+            btnAbout.Size = new Size(217, 194);
             btnAbout.TabIndex = 3;
-            btnAbout.Text = "profile";
             btnAbout.UseVisualStyleBackColor = false;
             btnAbout.Click += btnAbout_Click;
-            // 
-            // lblDashBoard
-            // 
-            lblDashBoard.AutoSize = true;
-            lblDashBoard.BackColor = Color.Transparent;
-            lblDashBoard.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblDashBoard.ForeColor = SystemColors.ButtonFace;
-            lblDashBoard.Location = new Point(82, 334);
-            lblDashBoard.Name = "lblDashBoard";
-            lblDashBoard.Size = new Size(101, 28);
-            lblDashBoard.TabIndex = 4;
-            lblDashBoard.Text = "Dashboard";
             // 
             // lblServices
             // 
@@ -109,11 +84,12 @@
             lblServices.BackColor = Color.Transparent;
             lblServices.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblServices.ForeColor = SystemColors.ButtonFace;
-            lblServices.Location = new Point(365, 334);
+            lblServices.Location = new Point(346, 324);
             lblServices.Name = "lblServices";
             lblServices.Size = new Size(78, 28);
             lblServices.TabIndex = 5;
             lblServices.Text = "Services";
+            lblServices.Click += lblServices_Click;
             // 
             // lblAbout
             // 
@@ -121,11 +97,12 @@
             lblAbout.BackColor = Color.Transparent;
             lblAbout.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblAbout.ForeColor = SystemColors.ButtonFace;
-            lblAbout.Location = new Point(633, 334);
+            lblAbout.Location = new Point(616, 324);
             lblAbout.Name = "lblAbout";
             lblAbout.Size = new Size(60, 28);
             lblAbout.TabIndex = 6;
             lblAbout.Text = "About";
+            lblAbout.Click += lblAbout_Click;
             // 
             // pictureBox1
             // 
@@ -136,18 +113,41 @@
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
             // 
+            // btnDashbaord
+            // 
+            btnDashbaord.FlatStyle = FlatStyle.Flat;
+            btnDashbaord.ForeColor = Color.FromArgb(39, 39, 39);
+            btnDashbaord.Image = Properties.Resources.dboard;
+            btnDashbaord.Location = new Point(28, 136);
+            btnDashbaord.Name = "btnDashbaord";
+            btnDashbaord.Size = new Size(214, 181);
+            btnDashbaord.TabIndex = 8;
+            btnDashbaord.UseVisualStyleBackColor = true;
+            btnDashbaord.Click += btnDashbaord_Click;
+            // 
+            // lblDashboard
+            // 
+            lblDashboard.AutoSize = true;
+            lblDashboard.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblDashboard.ForeColor = SystemColors.ControlLightLight;
+            lblDashboard.Location = new Point(89, 324);
+            lblDashboard.Name = "lblDashboard";
+            lblDashboard.Size = new Size(101, 28);
+            lblDashboard.TabIndex = 9;
+            lblDashboard.Text = "Dashboard";
+            // 
             // MainScreenPanel
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(lblDashboard);
+            Controls.Add(btnDashbaord);
             Controls.Add(pictureBox1);
             Controls.Add(lblAbout);
             Controls.Add(lblServices);
-            Controls.Add(lblDashBoard);
             Controls.Add(btnAbout);
             Controls.Add(btnServices);
-            Controls.Add(btnDashBoard);
             Controls.Add(btnProfile);
             Name = "MainScreenPanel";
             Size = new Size(800, 451);
@@ -159,12 +159,12 @@
         #endregion
 
         private Button btnProfile;
-        private Button btnDashBoard;
         private Button btnServices;
         private Button btnAbout;
-        private Label lblDashBoard;
         private Label lblServices;
         private Label lblAbout;
         private PictureBox pictureBox1;
+        private Button btnDashbaord;
+        private Label lblDashboard;
     }
 }
