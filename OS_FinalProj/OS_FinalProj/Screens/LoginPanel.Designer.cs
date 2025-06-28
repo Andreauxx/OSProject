@@ -51,7 +51,6 @@
             pnlLogIn.Name = "pnlLogIn";
             pnlLogIn.Size = new Size(919, 604);
             pnlLogIn.TabIndex = 7;
-            pnlLogIn.Paint += pnlLogIn_Paint;
             // 
             // btnLogin
             // 
@@ -72,7 +71,6 @@
             btnLogin.TabIndex = 11;
             btnLogin.Text = "Log In";
             btnLogin.TextAlignment = StringAlignment.Center;
-            btnLogin.Click += btnLogin_Click_1;
             // 
             // lnklblSignUp
             // 
@@ -84,7 +82,6 @@
             lnklblSignUp.TabIndex = 10;
             lnklblSignUp.TabStop = true;
             lnklblSignUp.Text = "Sign Up";
-            lnklblSignUp.LinkClicked += lnklblSignUp_LinkClicked;
             // 
             // lblPWord
             // 

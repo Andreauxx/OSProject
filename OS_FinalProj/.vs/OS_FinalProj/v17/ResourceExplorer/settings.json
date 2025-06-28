@@ -1,1 +1,17 @@
-{"CustomColumnOrderings":{"name":0,"file-path":1,"file-name":2,"neutral-value":3,"neutral-comment":4,"type":5},"ShowValidationErrors":true,"SelectedResourceGroups":["C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.resx"],"VisibleColumnKeys":["name","neutral-value","neutral-comment"]}
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-comment",
+    "neutral-value"
+  ]
+}

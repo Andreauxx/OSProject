@@ -1,66 +1,116 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\",
+  "WorkspaceRootPath": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanicspopup\\noraisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\noraisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\signuppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\signuppanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\signuppanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\resources\\profile.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\resources\\profile.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanicspopup\\noraisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,33 +120,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 19,
               "Title": "Mechanics.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs [Design]",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\Screens\\Mechanics.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T10:58:50.64Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "Mechanics.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\Mechanics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T11:04:34.246Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -111,16 +164,149 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Profile.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Profile.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Profile.cs",
+              "RelativeToolTip": "OS_FinalProj\\Core\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:01:57.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supabase.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Supabase.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Supabase.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Supabase.cs",
+              "RelativeToolTip": "OS_FinalProj\\Core\\Supabase.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:01:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:59:26.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "LoginPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:58:20.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:58:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Program.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Program.cs",
+              "RelativeToolTip": "OS_FinalProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:47:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.Designer.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\SignUpPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.Designer.cs",
+              "RelativeToolTip": "OS_FinalProj\\SignUpPanel.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwOoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:46:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\SignUpPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\SignUpPanel.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:46:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainScreenPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.Designer.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.Designer.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:09:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "profile.png",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Resources\\profile.png",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Resources\\profile.png",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Resources\\profile.png",
+              "RelativeToolTip": "OS_FinalProj\\Resources\\profile.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-28T14:08:59.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Properties\\Resources.resx",
+              "RelativeToolTip": "OS_FinalProj\\Properties\\Resources.resx",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAwwAoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-28T14:08:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CustomPerfPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,44 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomPerfPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T12:10:02.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Noraisa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:57:52.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Manny.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:57:38.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
               "ViewState": "AgIAAKIAAAAAAAAAAAAAAKsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "ServicePopup2.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "ServiceBasketPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,71 +354,130 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ProfilePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:12:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServicesPopup1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:05:45.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomPerfPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:10:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Noraisa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Noraisa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:57:52.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Manny.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:57:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T11:45:17.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "AboutUsPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\AboutUsPanel.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T11:38:49.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "SignUpPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\SignUpPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs [Design]",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\SignUpPanel.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\SignUpPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:11:51.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServicePopup2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T10:33:05.887Z",
+              "WhenOpened": "2025-06-28T11:11:51.976Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
+              "Title": "ServicePopup2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicePopup2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:33:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ServiceBasketPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T10:24:34.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "MainScreenPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
               "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T10:24:28.886Z"
