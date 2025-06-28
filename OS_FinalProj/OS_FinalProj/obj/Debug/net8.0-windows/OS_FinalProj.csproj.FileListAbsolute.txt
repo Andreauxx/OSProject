@@ -165,3 +165,6 @@ C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\ob
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
+C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Mechanics.resources
+C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Mechanic1.resources
+C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Mechanic2.resources

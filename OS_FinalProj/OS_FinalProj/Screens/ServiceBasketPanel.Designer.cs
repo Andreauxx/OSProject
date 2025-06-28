@@ -127,7 +127,7 @@
             // 
             btnProfile.FlatStyle = FlatStyle.Popup;
             btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
-            btnProfile.Location = new Point(3, 4);
+            btnProfile.Location = new Point(3, 0);
             btnProfile.Margin = new Padding(3, 4, 3, 4);
             btnProfile.Name = "btnProfile";
             btnProfile.Size = new Size(101, 115);

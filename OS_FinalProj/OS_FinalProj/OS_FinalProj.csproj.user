@@ -16,6 +16,9 @@
     <Compile Update="Screens\MainScreenPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\Mechanics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\ProfilePanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -58,8 +61,13 @@
     <Compile Update="Screens\Services\TireServicesPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Screens\SignUpPanel.cs">
+    <Compile Update="SignUpPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

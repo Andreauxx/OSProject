@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace OS_FinalProj.Screens
 {
-    public partial class ServiceBasketPanel : UserControl
+    public partial class Mechanics : UserControl
     {
         FormMain mainForm;
-        public ServiceBasketPanel(FormMain form)
+        public Mechanics(FormMain form)
         {
             InitializeComponent();
             mainForm = form;
         }
 
-        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void btnMechanic1_Click(object sender, EventArgs e)
         {
 
         }
@@ -27,11 +27,6 @@ namespace OS_FinalProj.Screens
         private void btnProfile_Click(object sender, EventArgs e)
         {
             mainForm.LoadProfile();
-        }
-
-        private void btnNext_Click(object sender, EventArgs e)
-        {
-            mainForm.LoadMechanics();
         }
     }
 }

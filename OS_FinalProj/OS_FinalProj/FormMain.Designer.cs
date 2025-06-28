@@ -34,17 +34,20 @@
             // pnlMain
             // 
             pnlMain.BackColor = SystemColors.ActiveCaptionText;
-            pnlMain.Location = new Point(-4, 0);
+            pnlMain.Location = new Point(-5, 0);
+            pnlMain.Margin = new Padding(3, 4, 3, 4);
             pnlMain.Name = "pnlMain";
-            pnlMain.Size = new Size(809, 454);
+            pnlMain.Size = new Size(925, 605);
             pnlMain.TabIndex = 0;
+            pnlMain.Paint += pnlMain_Paint;
             // 
             // FormMain
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(pnlMain);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "FormMain";
             Text = "FormMain";
             ResumeLayout(false);

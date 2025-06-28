@@ -162,7 +162,18 @@ namespace OS_FinalProj
             pnlMain.Controls.Add(dashboard);
         }
 
-       
+        public void LoadMechanics()
+        {
+            pnlMain.Controls.Clear();
+            var mechanic = new Mechanics(this);
+            mechanic.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(mechanic);
+        }
+        
+        private void pnlMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 
 }
