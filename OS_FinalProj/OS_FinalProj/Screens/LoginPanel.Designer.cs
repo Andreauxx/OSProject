@@ -46,9 +46,10 @@
             pnlLogIn.Controls.Add(lblUName);
             pnlLogIn.Controls.Add(txtPWord);
             pnlLogIn.Controls.Add(txtUName);
-            pnlLogIn.Location = new Point(3, 3);
+            pnlLogIn.Location = new Point(3, 4);
+            pnlLogIn.Margin = new Padding(3, 4, 3, 4);
             pnlLogIn.Name = "pnlLogIn";
-            pnlLogIn.Size = new Size(804, 453);
+            pnlLogIn.Size = new Size(919, 604);
             pnlLogIn.TabIndex = 7;
             pnlLogIn.Paint += pnlLogIn_Paint;
             // 
@@ -62,11 +63,12 @@
             btnLogin.Image = null;
             btnLogin.ImageAlign = ContentAlignment.MiddleLeft;
             btnLogin.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnLogin.Location = new Point(332, 396);
+            btnLogin.Location = new Point(380, 512);
+            btnLogin.Margin = new Padding(3, 4, 3, 4);
             btnLogin.Name = "btnLogin";
             btnLogin.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnLogin.PressedColor = Color.FromArgb(255, 131, 0);
-            btnLogin.Size = new Size(122, 29);
+            btnLogin.Size = new Size(139, 39);
             btnLogin.TabIndex = 11;
             btnLogin.Text = "Log In";
             btnLogin.TextAlignment = StringAlignment.Center;
@@ -76,9 +78,9 @@
             // 
             lnklblSignUp.AutoSize = true;
             lnklblSignUp.LinkColor = Color.FromArgb(0, 74, 147);
-            lnklblSignUp.Location = new Point(369, 368);
+            lnklblSignUp.Location = new Point(423, 475);
             lnklblSignUp.Name = "lnklblSignUp";
-            lnklblSignUp.Size = new Size(48, 15);
+            lnklblSignUp.Size = new Size(61, 20);
             lnklblSignUp.TabIndex = 10;
             lnklblSignUp.TabStop = true;
             lnklblSignUp.Text = "Sign Up";
@@ -89,9 +91,9 @@
             lblPWord.AutoSize = true;
             lblPWord.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblPWord.ForeColor = SystemColors.ButtonFace;
-            lblPWord.Location = new Point(355, 313);
+            lblPWord.Location = new Point(407, 401);
             lblPWord.Name = "lblPWord";
-            lblPWord.Size = new Size(67, 16);
+            lblPWord.Size = new Size(83, 20);
             lblPWord.TabIndex = 9;
             lblPWord.Text = "Password";
             // 
@@ -100,9 +102,9 @@
             lblUName.AutoSize = true;
             lblUName.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblUName.ForeColor = SystemColors.ButtonFace;
-            lblUName.Location = new Point(352, 264);
+            lblUName.Location = new Point(403, 336);
             lblUName.Name = "lblUName";
-            lblUName.Size = new Size(70, 16);
+            lblUName.Size = new Size(86, 20);
             lblUName.TabIndex = 8;
             lblUName.Text = "Username";
             // 
@@ -110,28 +112,31 @@
             // 
             txtPWord.BackColor = Color.FromArgb(69, 65, 61);
             txtPWord.BorderStyle = BorderStyle.None;
-            txtPWord.Location = new Point(261, 339);
+            txtPWord.Location = new Point(299, 436);
+            txtPWord.Margin = new Padding(3, 4, 3, 4);
             txtPWord.Name = "txtPWord";
-            txtPWord.Size = new Size(260, 16);
+            txtPWord.Size = new Size(297, 20);
             txtPWord.TabIndex = 7;
             // 
             // txtUName
             // 
             txtUName.BackColor = Color.FromArgb(69, 65, 61);
             txtUName.BorderStyle = BorderStyle.None;
-            txtUName.Location = new Point(261, 290);
+            txtUName.Location = new Point(299, 371);
+            txtUName.Margin = new Padding(3, 4, 3, 4);
             txtUName.Name = "txtUName";
-            txtUName.Size = new Size(260, 16);
+            txtUName.Size = new Size(297, 20);
             txtUName.TabIndex = 6;
             // 
             // LoginPanel
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
             Controls.Add(pnlLogIn);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "LoginPanel";
-            Size = new Size(811, 459);
+            Size = new Size(927, 612);
             pnlLogIn.ResumeLayout(false);
             pnlLogIn.PerformLayout();
             ResumeLayout(false);

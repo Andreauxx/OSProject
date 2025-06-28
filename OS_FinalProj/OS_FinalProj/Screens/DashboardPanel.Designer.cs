@@ -44,7 +44,6 @@
             btnCustSatisfaction = new Button();
             panel2 = new Panel();
             label3 = new Label();
-            button4 = new Button();
             btnRegister = new Button();
             btnAddCust = new Button();
             btnNewBooking = new Button();
@@ -53,6 +52,9 @@
             button5 = new Button();
             label4 = new Label();
             btnBack = new Button();
+            label5 = new Label();
+            label6 = new Label();
+            label7 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -73,9 +75,10 @@
             panel1.Controls.Add(btnDashboard);
             panel1.Controls.Add(label1);
             panel1.ForeColor = Color.DarkOrange;
-            panel1.Location = new Point(0, -8);
+            panel1.Location = new Point(0, -11);
+            panel1.Margin = new Padding(3, 4, 3, 4);
             panel1.Name = "panel1";
-            panel1.Size = new Size(161, 478);
+            panel1.Size = new Size(184, 637);
             panel1.TabIndex = 0;
             panel1.Paint += panel1_Paint;
             // 
@@ -84,9 +87,10 @@
             pictureBox3.BackColor = Color.Transparent;
             pictureBox3.BackgroundImageLayout = ImageLayout.Center;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(19, 325);
+            pictureBox3.Location = new Point(22, 433);
+            pictureBox3.Margin = new Padding(3, 4, 3, 4);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(52, 46);
+            pictureBox3.Size = new Size(59, 61);
             pictureBox3.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox3.TabIndex = 5;
             pictureBox3.TabStop = false;
@@ -94,9 +98,10 @@
             // pictureBox2
             // 
             pictureBox2.Image = Properties.Resources.cust_icon;
-            pictureBox2.Location = new Point(22, 276);
+            pictureBox2.Location = new Point(25, 368);
+            pictureBox2.Margin = new Padding(3, 4, 3, 4);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(49, 56);
+            pictureBox2.Size = new Size(56, 75);
             pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox2.TabIndex = 4;
             pictureBox2.TabStop = false;
@@ -105,9 +110,10 @@
             // 
             pictureBox1.BackgroundImageLayout = ImageLayout.Center;
             pictureBox1.Image = Properties.Resources.history_icon;
-            pictureBox1.Location = new Point(22, 217);
+            pictureBox1.Location = new Point(25, 289);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(49, 53);
+            pictureBox1.Size = new Size(56, 71);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
@@ -117,9 +123,10 @@
             btnHistory.FlatStyle = FlatStyle.Flat;
             btnHistory.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnHistory.ForeColor = Color.White;
-            btnHistory.Location = new Point(0, 164);
+            btnHistory.Location = new Point(0, 219);
+            btnHistory.Margin = new Padding(3, 4, 3, 4);
             btnHistory.Name = "btnHistory";
-            btnHistory.Size = new Size(161, 28);
+            btnHistory.Size = new Size(184, 37);
             btnHistory.TabIndex = 2;
             btnHistory.Text = "History";
             btnHistory.UseVisualStyleBackColor = true;
@@ -129,9 +136,10 @@
             btnCustomers.FlatStyle = FlatStyle.Flat;
             btnCustomers.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnCustomers.ForeColor = Color.White;
-            btnCustomers.Location = new Point(0, 121);
+            btnCustomers.Location = new Point(0, 161);
+            btnCustomers.Margin = new Padding(3, 4, 3, 4);
             btnCustomers.Name = "btnCustomers";
-            btnCustomers.Size = new Size(161, 28);
+            btnCustomers.Size = new Size(184, 37);
             btnCustomers.TabIndex = 2;
             btnCustomers.Text = "Customers";
             btnCustomers.UseVisualStyleBackColor = true;
@@ -141,9 +149,10 @@
             btnDashboard.FlatStyle = FlatStyle.Flat;
             btnDashboard.Font = new Font("Poppins", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnDashboard.ForeColor = Color.White;
-            btnDashboard.Location = new Point(0, 76);
+            btnDashboard.Location = new Point(0, 101);
+            btnDashboard.Margin = new Padding(3, 4, 3, 4);
             btnDashboard.Name = "btnDashboard";
-            btnDashboard.Size = new Size(161, 28);
+            btnDashboard.Size = new Size(184, 37);
             btnDashboard.TabIndex = 1;
             btnDashboard.Text = "Dashboard";
             btnDashboard.UseVisualStyleBackColor = true;
@@ -152,10 +161,10 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Poppins Medium", 14F, FontStyle.Bold);
-            label1.ForeColor = Color.FromArgb(255, 131, 0);
-            label1.Location = new Point(3, 14);
+            label1.ForeColor = Color.FromArgb(229, 119, 4);
+            label1.Location = new Point(3, 19);
             label1.Name = "label1";
-            label1.Size = new Size(105, 34);
+            label1.Size = new Size(131, 42);
             label1.TabIndex = 0;
             label1.Text = "BOSLOTS";
             // 
@@ -164,74 +173,92 @@
             label2.AutoSize = true;
             label2.Font = new Font("Poppins Medium", 13F, FontStyle.Bold);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(178, 10);
+            label2.Location = new Point(203, 13);
             label2.Name = "label2";
-            label2.Size = new Size(221, 31);
+            label2.Size = new Size(269, 39);
             label2.TabIndex = 3;
             label2.Text = "Dashboard Overview";
             // 
             // btnActiveServ
             // 
-            btnActiveServ.BackColor = Color.FromArgb(255, 131, 0);
+            btnActiveServ.BackColor = Color.FromArgb(229, 119, 4);
+            btnActiveServ.BackgroundImageLayout = ImageLayout.None;
             btnActiveServ.FlatStyle = FlatStyle.Flat;
             btnActiveServ.Font = new Font("Poppins", 9F);
-            btnActiveServ.Location = new Point(189, 60);
+            btnActiveServ.Image = (Image)resources.GetObject("btnActiveServ.Image");
+            btnActiveServ.ImageAlign = ContentAlignment.TopLeft;
+            btnActiveServ.Location = new Point(216, 80);
+            btnActiveServ.Margin = new Padding(0);
             btnActiveServ.Name = "btnActiveServ";
-            btnActiveServ.Size = new Size(136, 75);
+            btnActiveServ.Padding = new Padding(10, 5, 5, 5);
+            btnActiveServ.Size = new Size(161, 100);
             btnActiveServ.TabIndex = 4;
-            btnActiveServ.Text = "Active Servies";
+            btnActiveServ.Text = " Active Services";
+            btnActiveServ.TextAlign = ContentAlignment.BottomLeft;
             btnActiveServ.UseVisualStyleBackColor = false;
             btnActiveServ.Click += btnActiveServ_Click;
             // 
             // btnBookings
             // 
-            btnBookings.BackColor = Color.FromArgb(255, 131, 0);
+            btnBookings.BackColor = Color.FromArgb(229, 119, 4);
             btnBookings.FlatStyle = FlatStyle.Flat;
             btnBookings.Font = new Font("Poppins", 9F);
-            btnBookings.Location = new Point(342, 60);
+            btnBookings.Image = (Image)resources.GetObject("btnBookings.Image");
+            btnBookings.ImageAlign = ContentAlignment.TopLeft;
+            btnBookings.Location = new Point(394, 80);
+            btnBookings.Margin = new Padding(3, 4, 3, 4);
             btnBookings.Name = "btnBookings";
-            btnBookings.Size = new Size(138, 75);
+            btnBookings.Size = new Size(158, 100);
             btnBookings.TabIndex = 5;
-            btnBookings.Text = "Today's Bookings";
+            btnBookings.Text = "Today'sBooking";
+            btnBookings.TextAlign = ContentAlignment.BottomLeft;
             btnBookings.UseVisualStyleBackColor = false;
             btnBookings.Click += btnBookings_Click;
             // 
             // btnTotalCars
             // 
-            btnTotalCars.BackColor = Color.FromArgb(255, 131, 0);
+            btnTotalCars.BackColor = Color.FromArgb(229, 119, 4);
             btnTotalCars.FlatStyle = FlatStyle.Flat;
             btnTotalCars.Font = new Font("Poppins", 9F);
-            btnTotalCars.Location = new Point(495, 60);
+            btnTotalCars.Image = Properties.Resources.Total_Cars;
+            btnTotalCars.ImageAlign = ContentAlignment.TopLeft;
+            btnTotalCars.Location = new Point(570, 80);
+            btnTotalCars.Margin = new Padding(3, 4, 3, 4);
             btnTotalCars.Name = "btnTotalCars";
-            btnTotalCars.Size = new Size(135, 75);
+            btnTotalCars.Size = new Size(154, 100);
             btnTotalCars.TabIndex = 6;
             btnTotalCars.Text = "Total Cars";
+            btnTotalCars.TextAlign = ContentAlignment.BottomLeft;
             btnTotalCars.UseVisualStyleBackColor = false;
             btnTotalCars.Click += btnTotalCars_Click;
             // 
             // btnCustSatisfaction
             // 
-            btnCustSatisfaction.BackColor = Color.FromArgb(255, 131, 0);
+            btnCustSatisfaction.BackColor = Color.FromArgb(229, 119, 4);
             btnCustSatisfaction.FlatStyle = FlatStyle.Flat;
             btnCustSatisfaction.Font = new Font("Poppins", 9F);
-            btnCustSatisfaction.Location = new Point(648, 60);
+            btnCustSatisfaction.Image = Properties.Resources.Satisfaction_rate;
+            btnCustSatisfaction.ImageAlign = ContentAlignment.TopLeft;
+            btnCustSatisfaction.Location = new Point(741, 80);
+            btnCustSatisfaction.Margin = new Padding(3, 4, 3, 4);
             btnCustSatisfaction.Name = "btnCustSatisfaction";
-            btnCustSatisfaction.Size = new Size(136, 75);
+            btnCustSatisfaction.Size = new Size(155, 100);
             btnCustSatisfaction.TabIndex = 7;
-            btnCustSatisfaction.Text = "Customer Satisfaction";
+            btnCustSatisfaction.Text = "Satisfaction Rate";
+            btnCustSatisfaction.TextAlign = ContentAlignment.BottomLeft;
             btnCustSatisfaction.UseVisualStyleBackColor = false;
             btnCustSatisfaction.Click += btnCustSatisfaction_Click;
             // 
             // panel2
             // 
             panel2.Controls.Add(label3);
-            panel2.Controls.Add(button4);
             panel2.Controls.Add(btnRegister);
             panel2.Controls.Add(btnAddCust);
             panel2.Controls.Add(btnNewBooking);
-            panel2.Location = new Point(189, 151);
+            panel2.Location = new Point(216, 201);
+            panel2.Margin = new Padding(3, 4, 3, 4);
             panel2.Name = "panel2";
-            panel2.Size = new Size(595, 119);
+            panel2.Size = new Size(680, 159);
             panel2.TabIndex = 8;
             // 
             // label3
@@ -239,61 +266,57 @@
             label3.AutoSize = true;
             label3.Font = new Font("Poppins Medium", 10F, FontStyle.Bold);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(12, 13);
+            label3.Location = new Point(14, 17);
             label3.Name = "label3";
-            label3.Size = new Size(121, 25);
+            label3.Size = new Size(141, 30);
             label3.TabIndex = 9;
             label3.Text = "Quick Actions";
             // 
-            // button4
-            // 
-            button4.BackColor = Color.FromArgb(255, 131, 0);
-            button4.FlatStyle = FlatStyle.Flat;
-            button4.Font = new Font("Poppins", 9F);
-            button4.Location = new Point(459, 47);
-            button4.Name = "button4";
-            button4.Size = new Size(124, 57);
-            button4.TabIndex = 3;
-            button4.Text = "button4";
-            button4.UseVisualStyleBackColor = false;
-            button4.Click += button4_Click;
-            // 
             // btnRegister
             // 
-            btnRegister.BackColor = Color.FromArgb(255, 131, 0);
+            btnRegister.BackColor = Color.FromArgb(229, 119, 4);
             btnRegister.FlatStyle = FlatStyle.Flat;
             btnRegister.Font = new Font("Poppins", 9F);
-            btnRegister.Location = new Point(306, 47);
+            btnRegister.Image = (Image)resources.GetObject("btnRegister.Image");
+            btnRegister.Location = new Point(439, 59);
+            btnRegister.Margin = new Padding(3, 4, 3, 4);
             btnRegister.Name = "btnRegister";
-            btnRegister.Size = new Size(135, 57);
+            btnRegister.Size = new Size(154, 76);
             btnRegister.TabIndex = 2;
             btnRegister.Text = "Register Vehicle";
+            btnRegister.TextAlign = ContentAlignment.BottomCenter;
             btnRegister.UseVisualStyleBackColor = false;
             btnRegister.Click += btnRegister_Click;
             // 
             // btnAddCust
             // 
-            btnAddCust.BackColor = Color.FromArgb(255, 131, 0);
+            btnAddCust.BackColor = Color.FromArgb(229, 119, 4);
             btnAddCust.FlatStyle = FlatStyle.Flat;
             btnAddCust.Font = new Font("Poppins", 9F);
-            btnAddCust.Location = new Point(153, 47);
+            btnAddCust.Image = Properties.Resources.Add_Customer;
+            btnAddCust.Location = new Point(264, 59);
+            btnAddCust.Margin = new Padding(3, 4, 3, 4);
             btnAddCust.Name = "btnAddCust";
-            btnAddCust.Size = new Size(138, 57);
+            btnAddCust.Size = new Size(158, 76);
             btnAddCust.TabIndex = 1;
             btnAddCust.Text = "Add Customer";
+            btnAddCust.TextAlign = ContentAlignment.BottomCenter;
             btnAddCust.UseVisualStyleBackColor = false;
             btnAddCust.Click += btnAddCust_Click;
             // 
             // btnNewBooking
             // 
-            btnNewBooking.BackColor = Color.FromArgb(255, 131, 0);
+            btnNewBooking.BackColor = Color.FromArgb(229, 119, 4);
             btnNewBooking.FlatStyle = FlatStyle.Flat;
             btnNewBooking.Font = new Font("Poppins", 9F);
-            btnNewBooking.Location = new Point(12, 47);
+            btnNewBooking.Image = (Image)resources.GetObject("btnNewBooking.Image");
+            btnNewBooking.Location = new Point(89, 59);
+            btnNewBooking.Margin = new Padding(3, 4, 3, 4);
             btnNewBooking.Name = "btnNewBooking";
-            btnNewBooking.Size = new Size(124, 57);
+            btnNewBooking.Size = new Size(158, 76);
             btnNewBooking.TabIndex = 0;
             btnNewBooking.Text = "New Booking";
+            btnNewBooking.TextAlign = ContentAlignment.BottomCenter;
             btnNewBooking.UseVisualStyleBackColor = false;
             btnNewBooking.Click += btnNewBooking_Click;
             // 
@@ -302,9 +325,10 @@
             panel3.Controls.Add(tableLayoutPanel1);
             panel3.Controls.Add(button5);
             panel3.Controls.Add(label4);
-            panel3.Location = new Point(189, 276);
+            panel3.Location = new Point(216, 368);
+            panel3.Margin = new Padding(3, 4, 3, 4);
             panel3.Name = "panel3";
-            panel3.Size = new Size(595, 169);
+            panel3.Size = new Size(680, 225);
             panel3.TabIndex = 9;
             // 
             // tableLayoutPanel1
@@ -312,26 +336,28 @@
             tableLayoutPanel1.ColumnCount = 6;
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 43.3862419F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 56.6137581F));
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 88F));
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 100F));
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 104F));
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 92F));
-            tableLayoutPanel1.Location = new Point(12, 49);
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 101F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 114F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 119F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 106F));
+            tableLayoutPanel1.Location = new Point(14, 65);
+            tableLayoutPanel1.Margin = new Padding(3, 4, 3, 4);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 3;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 66.6666641F));
-            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 35F));
-            tableLayoutPanel1.Size = new Size(571, 108);
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 47F));
+            tableLayoutPanel1.Size = new Size(653, 144);
             tableLayoutPanel1.TabIndex = 12;
             // 
             // button5
             // 
             button5.BackColor = Color.FromArgb(255, 131, 0);
             button5.FlatStyle = FlatStyle.Popup;
-            button5.Location = new Point(156, 9);
+            button5.Location = new Point(178, 12);
+            button5.Margin = new Padding(3, 4, 3, 4);
             button5.Name = "button5";
-            button5.Size = new Size(75, 22);
+            button5.Size = new Size(86, 29);
             button5.TabIndex = 11;
             button5.Text = "View all";
             button5.UseVisualStyleBackColor = false;
@@ -341,38 +367,82 @@
             label4.AutoSize = true;
             label4.Font = new Font("Poppins Medium", 10F, FontStyle.Bold);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(12, 9);
+            label4.Location = new Point(14, 12);
             label4.Name = "label4";
-            label4.Size = new Size(138, 25);
+            label4.Size = new Size(161, 30);
             label4.TabIndex = 10;
             label4.Text = "Recent Services";
             // 
             // btnBack
             // 
-            btnBack.FlatStyle = FlatStyle.Popup;
-            btnBack.Location = new Point(727, 12);
+            btnBack.BackColor = Color.FromArgb(229, 119, 4);
+            btnBack.FlatStyle = FlatStyle.Flat;
+            btnBack.Image = Properties.Resources.Back_Button;
+            btnBack.Location = new Point(844, 18);
+            btnBack.Margin = new Padding(3, 4, 3, 4);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(57, 25);
+            btnBack.Size = new Size(52, 34);
             btnBack.TabIndex = 10;
-            btnBack.UseVisualStyleBackColor = true;
+            btnBack.UseVisualStyleBackColor = false;
             btnBack.Click += btnBack_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.BackColor = Color.FromArgb(255, 131, 0);
+            label5.Font = new Font("Poppins", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label5.ForeColor = Color.FromArgb(39, 39, 39);
+            label5.Location = new Point(259, 95);
+            label5.Margin = new Padding(0);
+            label5.Name = "label5";
+            label5.Size = new Size(0, 23);
+            label5.TabIndex = 6;
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.BackColor = Color.FromArgb(255, 131, 0);
+            label6.Font = new Font("Poppins", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label6.ForeColor = Color.FromArgb(39, 39, 39);
+            label6.Location = new Point(431, 88);
+            label6.Name = "label6";
+            label6.Size = new Size(0, 23);
+            label6.TabIndex = 11;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.BackColor = Color.FromArgb(229, 119, 4);
+            label7.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label7.ForeColor = Color.Black;
+            label7.Location = new Point(276, 110);
+            label7.Name = "label7";
+            label7.Size = new Size(38, 36);
+            label7.TabIndex = 6;
+            label7.Text = "73";
+            label7.Click += label7_Click;
             // 
             // DashboardPanel
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            BackgroundImageLayout = ImageLayout.Center;
+            Controls.Add(label7);
+            Controls.Add(label6);
+            Controls.Add(label5);
             Controls.Add(btnBack);
             Controls.Add(panel3);
             Controls.Add(panel2);
+            Controls.Add(btnBookings);
             Controls.Add(btnCustSatisfaction);
             Controls.Add(btnTotalCars);
-            Controls.Add(btnBookings);
             Controls.Add(btnActiveServ);
             Controls.Add(label2);
             Controls.Add(panel1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "DashboardPanel";
-            Size = new Size(811, 459);
+            Size = new Size(927, 612);
             Load += DashboardPanel_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
@@ -400,7 +470,6 @@
         private Button btnTotalCars;
         private Button btnCustSatisfaction;
         private Panel panel2;
-        private Button button4;
         private Button btnRegister;
         private Button btnAddCust;
         private Button btnNewBooking;
@@ -413,5 +482,8 @@
         private PictureBox pictureBox3;
         private PictureBox pictureBox2;
         private PictureBox pictureBox1;
+        private Label label5;
+        private Label label6;
+        private Label label7;
     }
 }

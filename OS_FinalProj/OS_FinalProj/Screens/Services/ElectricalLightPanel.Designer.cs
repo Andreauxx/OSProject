@@ -36,6 +36,7 @@
             btnBack = new Button();
             btnHeadBrakeRep = new ReaLTaiizor.Controls.Button();
             btnAddtoServ = new ReaLTaiizor.Controls.Button();
+            btn_back = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -43,9 +44,10 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.electrical1;
-            pictureBox1.Location = new Point(329, 50);
+            pictureBox1.Location = new Point(360, 71);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(150, 150);
+            pictureBox1.Size = new Size(171, 200);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 65;
             pictureBox1.TabStop = false;
@@ -60,11 +62,12 @@
             btnStartMotRep.Image = null;
             btnStartMotRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnStartMotRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnStartMotRep.Location = new Point(455, 330);
+            btnStartMotRep.Location = new Point(476, 422);
+            btnStartMotRep.Margin = new Padding(3, 4, 3, 4);
             btnStartMotRep.Name = "btnStartMotRep";
             btnStartMotRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnStartMotRep.PressedColor = Color.FromArgb(255, 131, 0);
-            btnStartMotRep.Size = new Size(216, 40);
+            btnStartMotRep.Size = new Size(247, 53);
             btnStartMotRep.TabIndex = 64;
             btnStartMotRep.Text = "Starter Motor Replacement";
             btnStartMotRep.TextAlignment = StringAlignment.Center;
@@ -79,11 +82,12 @@
             btnWireFuseRep.Image = null;
             btnWireFuseRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnWireFuseRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnWireFuseRep.Location = new Point(162, 330);
+            btnWireFuseRep.Location = new Point(184, 422);
+            btnWireFuseRep.Margin = new Padding(3, 4, 3, 4);
             btnWireFuseRep.Name = "btnWireFuseRep";
             btnWireFuseRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnWireFuseRep.PressedColor = Color.FromArgb(255, 131, 0);
-            btnWireFuseRep.Size = new Size(216, 40);
+            btnWireFuseRep.Size = new Size(247, 53);
             btnWireFuseRep.TabIndex = 63;
             btnWireFuseRep.Text = "Wiring and Fuse Repair";
             btnWireFuseRep.TextAlignment = StringAlignment.Center;
@@ -98,11 +102,12 @@
             btnAlternatorRep.Image = null;
             btnAlternatorRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnAlternatorRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnAlternatorRep.Location = new Point(455, 255);
+            btnAlternatorRep.Location = new Point(476, 337);
+            btnAlternatorRep.Margin = new Padding(3, 4, 3, 4);
             btnAlternatorRep.Name = "btnAlternatorRep";
             btnAlternatorRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAlternatorRep.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAlternatorRep.Size = new Size(216, 40);
+            btnAlternatorRep.Size = new Size(247, 53);
             btnAlternatorRep.TabIndex = 62;
             btnAlternatorRep.Text = "Alternator Repair/Replacement";
             btnAlternatorRep.TextAlignment = StringAlignment.Center;
@@ -113,9 +118,9 @@
             lblElecLightServ.BackColor = Color.Transparent;
             lblElecLightServ.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblElecLightServ.ForeColor = SystemColors.ButtonFace;
-            lblElecLightServ.Location = new Point(282, 203);
+            lblElecLightServ.Location = new Point(292, 287);
             lblElecLightServ.Name = "lblElecLightServ";
-            lblElecLightServ.Size = new Size(258, 28);
+            lblElecLightServ.Size = new Size(324, 36);
             lblElecLightServ.TabIndex = 61;
             lblElecLightServ.Text = "Electrical and Lighting Services";
             // 
@@ -124,9 +129,10 @@
             btnBack.BackColor = Color.FromArgb(69, 65, 61);
             btnBack.FlatStyle = FlatStyle.Popup;
             btnBack.ForeColor = Color.FromArgb(69, 65, 61);
-            btnBack.Location = new Point(29, 22);
+            btnBack.Location = new Point(33, 29);
+            btnBack.Margin = new Padding(3, 4, 3, 4);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(45, 37);
+            btnBack.Size = new Size(51, 49);
             btnBack.TabIndex = 60;
             btnBack.Text = "profile";
             btnBack.UseVisualStyleBackColor = false;
@@ -142,11 +148,12 @@
             btnHeadBrakeRep.Image = null;
             btnHeadBrakeRep.ImageAlign = ContentAlignment.MiddleLeft;
             btnHeadBrakeRep.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnHeadBrakeRep.Location = new Point(162, 255);
+            btnHeadBrakeRep.Location = new Point(184, 337);
+            btnHeadBrakeRep.Margin = new Padding(3, 4, 3, 4);
             btnHeadBrakeRep.Name = "btnHeadBrakeRep";
             btnHeadBrakeRep.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnHeadBrakeRep.PressedColor = Color.FromArgb(255, 131, 0);
-            btnHeadBrakeRep.Size = new Size(216, 40);
+            btnHeadBrakeRep.Size = new Size(247, 53);
             btnHeadBrakeRep.TabIndex = 59;
             btnHeadBrakeRep.Text = "Headlight/Brake Light Replacement";
             btnHeadBrakeRep.TextAlignment = StringAlignment.Center;
@@ -161,20 +168,36 @@
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(609, 400);
+            btnAddtoServ.Location = new Point(685, 533);
+            btnAddtoServ.Margin = new Padding(3, 4, 3, 4);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(163, 29);
+            btnAddtoServ.Size = new Size(197, 39);
             btnAddtoServ.TabIndex = 58;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;
             // 
+            // btn_back
+            // 
+            btn_back.BackColor = Color.FromArgb(39, 39, 39);
+            btn_back.FlatStyle = FlatStyle.Flat;
+            btn_back.ForeColor = Color.FromArgb(39, 39, 39);
+            btn_back.Image = Properties.Resources.backright;
+            btn_back.Location = new Point(33, 244);
+            btn_back.Margin = new Padding(3, 4, 3, 4);
+            btn_back.Name = "btn_back";
+            btn_back.Size = new Size(51, 96);
+            btn_back.TabIndex = 66;
+            btn_back.UseVisualStyleBackColor = false;
+            btn_back.Click += btn_back_Click;
+            // 
             // ElectricalLightPanel
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(btn_back);
             Controls.Add(pictureBox1);
             Controls.Add(btnStartMotRep);
             Controls.Add(btnWireFuseRep);
@@ -183,8 +206,9 @@
             Controls.Add(btnBack);
             Controls.Add(btnHeadBrakeRep);
             Controls.Add(btnAddtoServ);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "ElectricalLightPanel";
-            Size = new Size(800, 451);
+            Size = new Size(914, 601);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -200,5 +224,6 @@
         private Button btnBack;
         private ReaLTaiizor.Controls.Button btnHeadBrakeRep;
         private ReaLTaiizor.Controls.Button btnAddtoServ;
+        private Button btn_back;
     }
 }

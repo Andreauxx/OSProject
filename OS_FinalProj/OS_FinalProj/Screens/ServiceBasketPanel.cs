@@ -21,12 +21,17 @@ namespace OS_FinalProj.Screens
 
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
-            
+
         }
 
         private void btnProfile_Click(object sender, EventArgs e)
         {
             mainForm.LoadProfile();
+        }
+
+        private void btnNext_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

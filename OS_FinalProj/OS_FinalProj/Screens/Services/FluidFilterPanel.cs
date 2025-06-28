@@ -28,5 +28,15 @@ namespace OS_FinalProj.Screens.Services
         {
             mainForm.LoadServicePopup2();
         }
+
+        private void FluidFilterPanel_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_back_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadServicePopup2();
+        }
     }
 }

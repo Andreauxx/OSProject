@@ -45,10 +45,6 @@ namespace OS_FinalProj.Screens
             btnRegister.FlatStyle = FlatStyle.Flat;
             btnRegister.FlatAppearance.BorderSize = 0;
             btnRegister.BackColor = Color.FromArgb(180, 255, 100, 0);
-
-            button4.FlatStyle = FlatStyle.Flat;
-            button4.FlatAppearance.BorderSize = 0;
-            button4.BackColor = Color.FromArgb(180, 255, 100, 0);
         }
 
         private void DashboardPanel_Load(object sender, EventArgs e)
@@ -111,6 +107,11 @@ namespace OS_FinalProj.Screens
         }
 
         private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }

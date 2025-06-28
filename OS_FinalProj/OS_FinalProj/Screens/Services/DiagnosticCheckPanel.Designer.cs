@@ -35,6 +35,7 @@
             btnBack = new Button();
             btnCompDiag = new ReaLTaiizor.Controls.Button();
             btnAddtoServ = new ReaLTaiizor.Controls.Button();
+            btn_back = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -42,9 +43,10 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = Properties.Resources.diagnostic1;
-            pictureBox1.Location = new Point(310, 46);
+            pictureBox1.Location = new Point(365, 64);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(150, 150);
+            pictureBox1.Size = new Size(171, 200);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 81;
             pictureBox1.TabStop = false;
@@ -59,11 +61,12 @@
             btnPrePur.Image = null;
             btnPrePur.ImageAlign = ContentAlignment.MiddleLeft;
             btnPrePur.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnPrePur.Location = new Point(285, 320);
+            btnPrePur.Location = new Point(332, 417);
+            btnPrePur.Margin = new Padding(3, 4, 3, 4);
             btnPrePur.Name = "btnPrePur";
             btnPrePur.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnPrePur.PressedColor = Color.FromArgb(255, 131, 0);
-            btnPrePur.Size = new Size(216, 40);
+            btnPrePur.Size = new Size(247, 53);
             btnPrePur.TabIndex = 79;
             btnPrePur.Text = "Pre-purchase Vehicle Inspection";
             btnPrePur.TextAlignment = StringAlignment.Center;
@@ -79,11 +82,12 @@
             btnCarHealthCheck.Image = null;
             btnCarHealthCheck.ImageAlign = ContentAlignment.MiddleLeft;
             btnCarHealthCheck.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCarHealthCheck.Location = new Point(426, 251);
+            btnCarHealthCheck.Location = new Point(466, 339);
+            btnCarHealthCheck.Margin = new Padding(3, 4, 3, 4);
             btnCarHealthCheck.Name = "btnCarHealthCheck";
             btnCarHealthCheck.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCarHealthCheck.PressedColor = Color.FromArgb(255, 131, 0);
-            btnCarHealthCheck.Size = new Size(216, 40);
+            btnCarHealthCheck.Size = new Size(247, 53);
             btnCarHealthCheck.TabIndex = 78;
             btnCarHealthCheck.Text = "Vehicle Health Checkup";
             btnCarHealthCheck.TextAlignment = StringAlignment.Center;
@@ -94,9 +98,9 @@
             lblDiagnostickCheck.BackColor = Color.Transparent;
             lblDiagnostickCheck.Font = new Font("Poppins", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblDiagnostickCheck.ForeColor = SystemColors.ButtonFace;
-            lblDiagnostickCheck.Location = new Point(256, 199);
+            lblDiagnostickCheck.Location = new Point(280, 283);
             lblDiagnostickCheck.Name = "lblDiagnostickCheck";
-            lblDiagnostickCheck.Size = new Size(282, 28);
+            lblDiagnostickCheck.Size = new Size(357, 36);
             lblDiagnostickCheck.TabIndex = 77;
             lblDiagnostickCheck.Text = "Diagnostic and Check up Services";
             // 
@@ -105,9 +109,10 @@
             btnBack.BackColor = Color.FromArgb(69, 65, 61);
             btnBack.FlatStyle = FlatStyle.Popup;
             btnBack.ForeColor = Color.FromArgb(69, 65, 61);
-            btnBack.Location = new Point(29, 22);
+            btnBack.Location = new Point(33, 29);
+            btnBack.Margin = new Padding(3, 4, 3, 4);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(45, 37);
+            btnBack.Size = new Size(51, 49);
             btnBack.TabIndex = 76;
             btnBack.Text = "profile";
             btnBack.UseVisualStyleBackColor = false;
@@ -123,11 +128,12 @@
             btnCompDiag.Image = null;
             btnCompDiag.ImageAlign = ContentAlignment.MiddleLeft;
             btnCompDiag.InactiveColor = Color.FromArgb(214, 211, 206);
-            btnCompDiag.Location = new Point(133, 251);
+            btnCompDiag.Location = new Point(189, 339);
+            btnCompDiag.Margin = new Padding(3, 4, 3, 4);
             btnCompDiag.Name = "btnCompDiag";
             btnCompDiag.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnCompDiag.PressedColor = Color.FromArgb(255, 131, 0);
-            btnCompDiag.Size = new Size(216, 40);
+            btnCompDiag.Size = new Size(247, 53);
             btnCompDiag.TabIndex = 75;
             btnCompDiag.Text = "Computer Diagnostics ";
             btnCompDiag.TextAlignment = StringAlignment.Center;
@@ -142,20 +148,36 @@
             btnAddtoServ.Image = null;
             btnAddtoServ.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddtoServ.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Location = new Point(602, 396);
+            btnAddtoServ.Location = new Point(668, 528);
+            btnAddtoServ.Margin = new Padding(3, 4, 3, 4);
             btnAddtoServ.Name = "btnAddtoServ";
             btnAddtoServ.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddtoServ.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddtoServ.Size = new Size(141, 29);
+            btnAddtoServ.Size = new Size(181, 39);
             btnAddtoServ.TabIndex = 74;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;
             // 
+            // btn_back
+            // 
+            btn_back.BackColor = Color.FromArgb(39, 39, 39);
+            btn_back.FlatStyle = FlatStyle.Flat;
+            btn_back.ForeColor = Color.FromArgb(39, 39, 39);
+            btn_back.Image = Properties.Resources.backright;
+            btn_back.Location = new Point(33, 252);
+            btn_back.Margin = new Padding(3, 4, 3, 4);
+            btn_back.Name = "btn_back";
+            btn_back.Size = new Size(51, 96);
+            btn_back.TabIndex = 82;
+            btn_back.UseVisualStyleBackColor = false;
+            btn_back.Click += btn_back_Click;
+            // 
             // DiagnosticCheckPanel
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(btn_back);
             Controls.Add(pictureBox1);
             Controls.Add(btnPrePur);
             Controls.Add(btnCarHealthCheck);
@@ -163,8 +185,9 @@
             Controls.Add(btnBack);
             Controls.Add(btnCompDiag);
             Controls.Add(btnAddtoServ);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "DiagnosticCheckPanel";
-            Size = new Size(800, 451);
+            Size = new Size(914, 601);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -179,5 +202,6 @@
         private Button btnBack;
         private ReaLTaiizor.Controls.Button btnCompDiag;
         private ReaLTaiizor.Controls.Button btnAddtoServ;
+        private Button btn_back;
     }
 }
