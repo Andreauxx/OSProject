@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 ﻿using OS_FinalProj.Screens;
 using OS_FinalProj.Screens.MechanicsPopup;
+=======
+﻿using OS_FinalProj.Core;
+using OS_FinalProj.Screens;
+>>>>>>> Stashed changes
 using OS_FinalProj.Screens.Services;
+using Supabase.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,16 +21,26 @@ namespace OS_FinalProj
 {
     public partial class FormMain : Form
     {
+
+        private SupabaseClient _supabaseClient; // Declare _supabaseClient here
+
         public FormMain()
         {
             InitializeComponent();
-            LoadLogin(); // Start with login form
+            InitializeSupabase(); // Initialize SupabaseClient asynchronously
         }
 
+        // Asynchronous method to initialize SupabaseClient
+        private async void InitializeSupabase()
+        {
+            _supabaseClient = new SupabaseClient(); // Initialize the SupabaseClient
+            await _supabaseClient.InitializeAsync(); // Initialize SupabaseClient asynchronously
+            LoadLogin(); // Start with login form after initialization
+        }
         public void LoadLogin()
         {
             pnlMain.Controls.Clear();
-            var loginPanel = new LoginPanel(this); // Pass reference
+            var loginPanel = new LoginPanel(this, _supabaseClient); // Pass the client
             loginPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(loginPanel);
         }
@@ -48,7 +64,7 @@ namespace OS_FinalProj
         public void LoadProfile()
         {
             pnlMain.Controls.Clear();
-            var profilePanel = new ProfilePanel(this);
+            var profilePanel = new ProfilePanel(this, _supabaseClient);
             profilePanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(profilePanel);
         }

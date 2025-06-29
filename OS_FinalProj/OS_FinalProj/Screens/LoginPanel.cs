@@ -1,4 +1,5 @@
 ﻿using OS_FinalProj.Core;
+using Supabase.Interfaces;
 using System;
 using System.ComponentModel;
 using System.Drawing;
@@ -9,12 +10,15 @@ namespace OS_FinalProj.Screens
     public partial class LoginPanel : UserControl
     {
         private readonly FormMain mainForm;
+        private readonly SupabaseClient _supabaseClient;
         private bool isLoggingIn = false;
 
-        public LoginPanel(FormMain form)
+        // Constructor now properly accepts the SupabaseClient parameter
+        public LoginPanel(FormMain form, SupabaseClient supabaseClient)
         {
             InitializeComponent();
             mainForm = form;
+            _supabaseClient = supabaseClient; // Store the shared client
 
             // Set UI event handlers
             btnLogin.Click += BtnLogin_Click;
@@ -26,7 +30,6 @@ namespace OS_FinalProj.Screens
 
         private async void BtnLogin_Click(object sender, EventArgs e)
         {
-            // Prevent multiple simultaneous login attempts
             if (isLoggingIn) return;
 
             try
@@ -38,44 +41,31 @@ namespace OS_FinalProj.Screens
                 string usernameOrEmail = txtUName.Text.Trim();
                 string password = txtPWord.Text;
 
-                // Validate inputs
-                if (string.IsNullOrWhiteSpace(usernameOrEmail))
+                // Input validation
+                if (string.IsNullOrWhiteSpace(usernameOrEmail) || string.IsNullOrWhiteSpace(password))
                 {
-                    MessageBox.Show("Please enter your username or email.", "Input Required",
-                        MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    txtUName.Focus();
+                    MessageBox.Show("Please enter both username/email and password");
                     return;
                 }
 
-                if (string.IsNullOrWhiteSpace(password))
-                {
-                    MessageBox.Show("Please enter your password.", "Input Required",
-                        MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    txtPWord.Focus();
-                    return;
-                }
+                // Initialize and authenticate - FIXED SYNTAX
+                await _supabaseClient.InitializeAsync();
+                var (success, message) = await _supabaseClient.SignInAsync(usernameOrEmail, password);
 
-                // Initialize and authenticate
-                var supabaseClient = new SupabaseClient();
-                await supabaseClient.InitializeAsync();
-                var (success, message) = await supabaseClient.SignInAsync(usernameOrEmail, password);
                 if (success)
                 {
-                    // Successful login
                     mainForm.LoadMainScreen();
                 }
                 else
                 {
-                    MessageBox.Show($"Login failed: {message}", "Authentication Failed",
-                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show($"Login failed: {message}");
                     txtPWord.SelectAll();
                     txtPWord.Focus();
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"An error occurred during login: {ex.Message}", "Error",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Error: {ex.Message}");
             }
             finally
             {
@@ -99,8 +89,5 @@ namespace OS_FinalProj.Screens
                 e.SuppressKeyPress = true;
             }
         }
-
-     
     }
 }
-
