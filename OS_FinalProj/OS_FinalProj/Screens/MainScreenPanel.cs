@@ -53,7 +53,7 @@ namespace OS_FinalProj.Screens
 
         private void btnDashBoard_Click(object sender, EventArgs e)
         {
-            mainForm.LoadDashboard(); //deleted button
+            mainForm.LoadDashboard(); 
         }
 
         private void lblAbout_Click(object sender, EventArgs e)
@@ -68,7 +68,7 @@ namespace OS_FinalProj.Screens
 
         private void btnDashbaord_Click(object sender, EventArgs e)
         {
-            mainForm.LoadDashboard();
+            mainForm.LoadUserDashboardcs();
         }
 
         private void btnProfile_Click_1(object sender, EventArgs e)
