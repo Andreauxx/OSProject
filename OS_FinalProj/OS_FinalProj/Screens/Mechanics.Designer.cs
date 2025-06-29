@@ -118,13 +118,13 @@
             // 
             // btnProfile
             // 
-            btnProfile.FlatStyle = FlatStyle.Popup;
-            btnProfile.ForeColor = Color.Transparent;
+            btnProfile.FlatStyle = FlatStyle.Flat;
+            btnProfile.ForeColor = Color.FromArgb(39, 39, 39);
             btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
-            btnProfile.Location = new Point(0, -27);
+            btnProfile.Location = new Point(-10, -5);
             btnProfile.Margin = new Padding(3, 4, 3, 4);
             btnProfile.Name = "btnProfile";
-            btnProfile.Size = new Size(101, 115);
+            btnProfile.Size = new Size(88, 71);
             btnProfile.TabIndex = 34;
             btnProfile.UseVisualStyleBackColor = true;
             btnProfile.Click += btnProfile_Click;

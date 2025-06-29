@@ -3,60 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\suspensionsteeringpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\heatingairconpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\generalservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fuelexhaustpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\fluidfilterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\enginetranspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\electricallightpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -75,18 +63,6 @@
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -95,12 +71,80 @@
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicespopup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\aboutuspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\servicebasketpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\jambie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\manny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\kaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\betina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\lenovo\\source\\repos\\os_finalproj\\osproject\\os_finalproj\\os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mainscreenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,11 +154,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Mechanics.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
@@ -127,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "Mechanics.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
@@ -157,12 +201,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
+              "Title": "TireServicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:45.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuspensionSteeringPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\SuspensionSteeringPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:44.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeatingAirConPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\HeatingAirConPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:43.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralServicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\GeneralServicesPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:41.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuelExhaustPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FuelExhaustPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:40.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FluidFilterPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\FluidFilterPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:39.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EngineTransPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\EngineTransPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\EngineTransPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\EngineTransPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\EngineTransPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:38.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElectricalLightPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\ElectricalLightPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:37.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiagnosticCheckPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:35.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomPerfPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:47:33.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesPopup1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:46:11.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "ConfirmedServicesPopup.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs*",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs*",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T08:51:58.102Z",
@@ -170,19 +347,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "ConfirmedServicesPopup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]*",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]*",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T08:48:03.856Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "DashboardPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
@@ -194,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "MainScreenPanel.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
@@ -207,20 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ServicesPopup1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T08:26:57.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 29,
               "Title": "Manny.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
@@ -233,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "Manny.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
@@ -245,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 30,
               "Title": "Kaja.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
@@ -258,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "Kaja.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
@@ -270,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 28,
               "Title": "Jambie.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
@@ -283,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "Jambie.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
@@ -295,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "Betina.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
@@ -308,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "Betina.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
@@ -320,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "ServiceBasketPanel.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
@@ -333,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
@@ -346,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
               "Title": "Chico.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
@@ -359,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Chico.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
@@ -371,7 +535,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
+              "Title": "LoginPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:58:20.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProfilePanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
@@ -383,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "ServicesPopup1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
@@ -395,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 19,
               "Title": "AboutUsPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\AboutUsPanel.cs",
@@ -407,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "ServicePopup2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
@@ -419,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "ServiceBasketPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
@@ -431,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "MainScreenPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OS_FinalProj\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",

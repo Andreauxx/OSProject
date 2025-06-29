@@ -50,7 +50,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Poppins SemiBold", 19.8000011F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.FromArgb(229, 119, 4);
+            label1.ForeColor = Color.Silver;
             label1.Location = new Point(394, 183);
             label1.Name = "label1";
             label1.Size = new Size(357, 60);
@@ -60,13 +60,13 @@
             // 
             // btnProfile
             // 
-            btnProfile.FlatStyle = FlatStyle.Popup;
-            btnProfile.ForeColor = Color.Transparent;
+            btnProfile.FlatStyle = FlatStyle.Flat;
+            btnProfile.ForeColor = Color.FromArgb(39, 39, 39);
             btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
-            btnProfile.Location = new Point(0, -23);
+            btnProfile.Location = new Point(0, -7);
             btnProfile.Margin = new Padding(3, 4, 3, 4);
             btnProfile.Name = "btnProfile";
-            btnProfile.Size = new Size(101, 115);
+            btnProfile.Size = new Size(72, 75);
             btnProfile.TabIndex = 125;
             btnProfile.UseVisualStyleBackColor = true;
             btnProfile.Click += btnProfile_Click;

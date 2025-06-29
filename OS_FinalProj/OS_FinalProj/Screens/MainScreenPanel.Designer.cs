@@ -132,11 +132,12 @@
             // btnProfile
             // 
             btnProfile.FlatStyle = FlatStyle.Flat;
+            btnProfile.ForeColor = Color.FromArgb(39, 39, 39);
             btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
-            btnProfile.Location = new Point(-9, -33);
+            btnProfile.Location = new Point(3, -1);
             btnProfile.Margin = new Padding(3, 4, 3, 4);
             btnProfile.Name = "btnProfile";
-            btnProfile.Size = new Size(101, 115);
+            btnProfile.Size = new Size(60, 76);
             btnProfile.TabIndex = 35;
             btnProfile.UseVisualStyleBackColor = true;
             btnProfile.Click += btnProfile_Click_1;
@@ -145,11 +146,12 @@
             // 
             btnServiceBasket.BackgroundImageLayout = ImageLayout.None;
             btnServiceBasket.FlatStyle = FlatStyle.Flat;
+            btnServiceBasket.ForeColor = Color.FromArgb(39, 39, 39);
             btnServiceBasket.Image = (Image)resources.GetObject("btnServiceBasket.Image");
-            btnServiceBasket.Location = new Point(98, 0);
+            btnServiceBasket.Location = new Point(60, 3);
             btnServiceBasket.Margin = new Padding(3, 4, 3, 4);
             btnServiceBasket.Name = "btnServiceBasket";
-            btnServiceBasket.Size = new Size(79, 82);
+            btnServiceBasket.Size = new Size(67, 69);
             btnServiceBasket.TabIndex = 36;
             btnServiceBasket.UseVisualStyleBackColor = false;
             btnServiceBasket.Click += btnServiceBasket_Click;

@@ -183,15 +183,16 @@
             // 
             // button5
             // 
-            button5.BackColor = Color.FromArgb(69, 65, 61);
-            button5.FlatStyle = FlatStyle.Popup;
-            button5.ForeColor = Color.FromArgb(69, 65, 61);
-            button5.Location = new Point(27, 22);
+            button5.BackColor = Color.FromArgb(39, 39, 39);
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.ForeColor = Color.FromArgb(39, 39, 39);
+            button5.Image = Properties.Resources.ProfIcon2;
+            button5.Location = new Point(8, 4);
             button5.Margin = new Padding(3, 4, 3, 4);
             button5.Name = "button5";
+            button5.RightToLeft = RightToLeft.No;
             button5.Size = new Size(55, 56);
             button5.TabIndex = 27;
-            button5.Text = "profile";
             button5.UseVisualStyleBackColor = false;
             // 
             // ServicePopup2
