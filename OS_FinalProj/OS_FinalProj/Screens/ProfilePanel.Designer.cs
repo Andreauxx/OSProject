@@ -54,10 +54,9 @@
             btnBack.FlatStyle = FlatStyle.Flat;
             btnBack.ForeColor = Color.FromArgb(39, 39, 39);
             btnBack.Image = Properties.Resources.ProfIcon;
-            btnBack.Location = new Point(11, 10);
-            btnBack.Margin = new Padding(3, 4, 3, 4);
+            btnBack.Location = new Point(10, 8);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(51, 49);
+            btnBack.Size = new Size(45, 37);
             btnBack.TabIndex = 1;
             btnBack.UseVisualStyleBackColor = false;
             btnBack.Click += btnBack_Click;
@@ -65,10 +64,9 @@
             // pictureBox1
             // 
             pictureBox1.BackColor = Color.White;
-            pictureBox1.Location = new Point(834, 27);
-            pictureBox1.Margin = new Padding(3, 4, 3, 4);
+            pictureBox1.Location = new Point(730, 20);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(55, 49);
+            pictureBox1.Size = new Size(48, 37);
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             // 
@@ -77,10 +75,9 @@
             lblName.AutoSize = true;
             lblName.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblName.ForeColor = Color.White;
-            lblName.Location = new Point(112, 71);
+            lblName.Location = new Point(98, 53);
             lblName.Name = "lblName";
             lblName.Size = new Size(47, 16);
-            lblName.Size = new Size(69, 30);
             lblName.TabIndex = 3;
             lblName.Text = "Name:";
             // 
@@ -89,10 +86,9 @@
             lblContactNum.AutoSize = true;
             lblContactNum.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblContactNum.ForeColor = Color.White;
-            lblContactNum.Location = new Point(112, 101);
+            lblContactNum.Location = new Point(98, 76);
             lblContactNum.Name = "lblContactNum";
             lblContactNum.Size = new Size(65, 16);
-            lblContactNum.Size = new Size(104, 30);
             lblContactNum.TabIndex = 4;
             lblContactNum.Text = "Contact #:";
             // 
@@ -101,20 +97,18 @@
             lblVehicleInfo.AutoSize = true;
             lblVehicleInfo.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblVehicleInfo.ForeColor = Color.White;
-            lblVehicleInfo.Location = new Point(112, 132);
+            lblVehicleInfo.Location = new Point(98, 99);
             lblVehicleInfo.Name = "lblVehicleInfo";
             lblVehicleInfo.Size = new Size(79, 16);
-            lblVehicleInfo.Size = new Size(116, 30);
             lblVehicleInfo.TabIndex = 5;
             lblVehicleInfo.Text = "Vehicle Info:";
             // 
             // cboVehicleInfo
             // 
             cboVehicleInfo.FormattingEnabled = true;
-            cboVehicleInfo.Location = new Point(217, 132);
-            cboVehicleInfo.Margin = new Padding(3, 4, 3, 4);
+            cboVehicleInfo.Location = new Point(190, 99);
             cboVehicleInfo.Name = "cboVehicleInfo";
-            cboVehicleInfo.Size = new Size(183, 28);
+            cboVehicleInfo.Size = new Size(161, 23);
             cboVehicleInfo.TabIndex = 6;
             // 
             // rbServices
@@ -122,11 +116,9 @@
             rbServices.AutoSize = true;
             rbServices.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             rbServices.ForeColor = SystemColors.ButtonHighlight;
-            rbServices.Location = new Point(505, 132);
-            rbServices.Margin = new Padding(3, 4, 3, 4);
+            rbServices.Location = new Point(442, 99);
             rbServices.Name = "rbServices";
             rbServices.Size = new Size(164, 19);
-            rbServices.Size = new Size(226, 30);
             rbServices.TabIndex = 7;
             rbServices.TabStop = true;
             rbServices.Text = "Ongoing Service/Services";
@@ -137,11 +129,9 @@
             rbHistory.AutoSize = true;
             rbHistory.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             rbHistory.ForeColor = SystemColors.ButtonHighlight;
-            rbHistory.Location = new Point(717, 131);
-            rbHistory.Margin = new Padding(3, 4, 3, 4);
+            rbHistory.Location = new Point(627, 98);
             rbHistory.Name = "rbHistory";
             rbHistory.Size = new Size(62, 19);
-            rbHistory.Size = new Size(84, 30);
             rbHistory.TabIndex = 8;
             rbHistory.TabStop = true;
             rbHistory.Text = "History";
@@ -152,7 +142,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(355, 53);
+            label1.Location = new Point(311, 40);
             label1.Name = "label1";
             label1.Size = new Size(73, 16);
             label1.TabIndex = 9;
@@ -163,7 +153,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(384, 76);
+            label2.Location = new Point(336, 57);
             label2.Name = "label2";
             label2.Size = new Size(44, 16);
             label2.TabIndex = 10;
@@ -179,14 +169,16 @@
             btnAddCar.Image = null;
             btnAddCar.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddCar.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddCar.Location = new Point(659, 403);
+            btnAddCar.Location = new Point(577, 302);
+            btnAddCar.Margin = new Padding(3, 2, 3, 2);
             btnAddCar.Name = "btnAddCar";
             btnAddCar.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAddCar.PressedColor = Color.FromArgb(255, 131, 0);
-            btnAddCar.Size = new Size(106, 32);
+            btnAddCar.Size = new Size(93, 24);
             btnAddCar.TabIndex = 83;
             btnAddCar.Text = "Add Vehicle";
             btnAddCar.TextAlignment = StringAlignment.Center;
+            btnAddCar.Click += btnAddCar_Click;
             // 
             // btnEditProfile
             // 
@@ -198,11 +190,12 @@
             btnEditProfile.Image = null;
             btnEditProfile.ImageAlign = ContentAlignment.MiddleLeft;
             btnEditProfile.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnEditProfile.Location = new Point(532, 403);
+            btnEditProfile.Location = new Point(466, 302);
+            btnEditProfile.Margin = new Padding(3, 2, 3, 2);
             btnEditProfile.Name = "btnEditProfile";
             btnEditProfile.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnEditProfile.PressedColor = Color.FromArgb(255, 131, 0);
-            btnEditProfile.Size = new Size(106, 32);
+            btnEditProfile.Size = new Size(93, 24);
             btnEditProfile.TabIndex = 84;
             btnEditProfile.Text = "Edit Profile";
             btnEditProfile.TextAlignment = StringAlignment.Center;
@@ -213,9 +206,10 @@
             txtName.BackColor = SystemColors.GrayText;
             txtName.BorderStyle = BorderStyle.None;
             txtName.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtName.Location = new Point(151, 53);
+            txtName.Location = new Point(132, 40);
+            txtName.Margin = new Padding(3, 2, 3, 2);
             txtName.Name = "txtName";
-            txtName.Size = new Size(198, 14);
+            txtName.Size = new Size(173, 14);
             txtName.TabIndex = 85;
             // 
             // txtContact
@@ -223,9 +217,10 @@
             txtContact.BackColor = Color.Gray;
             txtContact.BorderStyle = BorderStyle.None;
             txtContact.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtContact.Location = new Point(169, 76);
+            txtContact.Location = new Point(148, 57);
+            txtContact.Margin = new Padding(3, 2, 3, 2);
             txtContact.Name = "txtContact";
-            txtContact.Size = new Size(209, 14);
+            txtContact.Size = new Size(183, 14);
             txtContact.TabIndex = 87;
             // 
             // txtUsername
@@ -233,9 +228,10 @@
             txtUsername.BackColor = Color.Gray;
             txtUsername.BorderStyle = BorderStyle.None;
             txtUsername.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtUsername.Location = new Point(434, 53);
+            txtUsername.Location = new Point(380, 40);
+            txtUsername.Margin = new Padding(3, 2, 3, 2);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(204, 14);
+            txtUsername.Size = new Size(178, 14);
             txtUsername.TabIndex = 88;
             // 
             // txtEmail
@@ -243,9 +239,10 @@
             txtEmail.BackColor = Color.Gray;
             txtEmail.BorderStyle = BorderStyle.None;
             txtEmail.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtEmail.Location = new Point(434, 76);
+            txtEmail.Location = new Point(380, 57);
+            txtEmail.Margin = new Padding(3, 2, 3, 2);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(204, 14);
+            txtEmail.Size = new Size(178, 14);
             txtEmail.TabIndex = 89;
             // 
             // btnSaveChanges
@@ -259,11 +256,12 @@
             btnSaveChanges.Image = null;
             btnSaveChanges.ImageAlign = ContentAlignment.MiddleLeft;
             btnSaveChanges.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnSaveChanges.Location = new Point(408, 403);
+            btnSaveChanges.Location = new Point(357, 302);
+            btnSaveChanges.Margin = new Padding(3, 2, 3, 2);
             btnSaveChanges.Name = "btnSaveChanges";
             btnSaveChanges.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnSaveChanges.PressedColor = Color.FromArgb(255, 131, 0);
-            btnSaveChanges.Size = new Size(106, 32);
+            btnSaveChanges.Size = new Size(93, 24);
             btnSaveChanges.TabIndex = 90;
             btnSaveChanges.Text = "Save Changes";
             btnSaveChanges.TextAlignment = StringAlignment.Center;
@@ -271,7 +269,7 @@
             // 
             // ProfilePanel
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
             Controls.Add(btnSaveChanges);
@@ -291,9 +289,8 @@
             Controls.Add(lblName);
             Controls.Add(pictureBox1);
             Controls.Add(btnBack);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "ProfilePanel";
-            Size = new Size(914, 601);
+            Size = new Size(800, 451);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

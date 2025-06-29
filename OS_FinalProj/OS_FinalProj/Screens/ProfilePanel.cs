@@ -176,5 +176,18 @@ namespace OS_FinalProj.Screens
         {
 
         }
+        private void OpenAddVehicleForm()
+        {
+            // Create an instance of the AddVehicleForm
+            AddVehicleForm addVehicleForm = new AddVehicleForm();
+
+            // Show the form as a dialog (this makes it a modal popup)
+            addVehicleForm.ShowDialog();
+        }
+
+        private void btnAddCar_Click(object sender, EventArgs e)
+        {
+            OpenAddVehicleForm();
+        }
     }
 }

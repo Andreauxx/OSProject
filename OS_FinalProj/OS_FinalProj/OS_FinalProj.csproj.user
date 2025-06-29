@@ -7,6 +7,9 @@
     <Compile Update="Screens\AboutUsPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\AddVehicleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Screens\ConfirmedServicesPopup.cs">
       <SubType>UserControl</SubType>
     </Compile>
