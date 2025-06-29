@@ -99,11 +99,11 @@
             lblUName.AutoSize = true;
             lblUName.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblUName.ForeColor = SystemColors.ButtonFace;
-            lblUName.Location = new Point(403, 336);
+            lblUName.Location = new Point(421, 336);
             lblUName.Name = "lblUName";
-            lblUName.Size = new Size(86, 20);
+            lblUName.Size = new Size(51, 20);
             lblUName.TabIndex = 8;
-            lblUName.Text = "Username";
+            lblUName.Text = "Email";
             // 
             // txtPWord
             // 
