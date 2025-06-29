@@ -7,6 +7,9 @@
     <Compile Update="Screens\AboutUsPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\ConfirmedServicesPopup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Screens\DashboardPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -17,6 +20,21 @@
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="Screens\Mechanics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\MechanicsPopup\Betina.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\MechanicsPopup\Chico.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\MechanicsPopup\Jambie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\MechanicsPopup\Kaja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\MechanicsPopup\Manny.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="Screens\ProfilePanel.cs">

@@ -47,9 +47,10 @@
             btnMechanic5.Name = "btnMechanic5";
             btnMechanic5.Size = new Size(542, 29);
             btnMechanic5.TabIndex = 40;
-            btnMechanic5.Text = "Noraisa Mae";
+            btnMechanic5.Text = "Manny Junior Pacyeah";
             btnMechanic5.TextAlign = ContentAlignment.MiddleLeft;
             btnMechanic5.UseVisualStyleBackColor = false;
+            btnMechanic5.Click += btnMechanic5_Click;
             // 
             // btnMechanic4
             // 
@@ -59,9 +60,10 @@
             btnMechanic4.Name = "btnMechanic4";
             btnMechanic4.Size = new Size(542, 29);
             btnMechanic4.TabIndex = 39;
-            btnMechanic4.Text = "Manny Tree";
+            btnMechanic4.Text = "Kaja Carti Baluyot";
             btnMechanic4.TextAlign = ContentAlignment.MiddleLeft;
             btnMechanic4.UseVisualStyleBackColor = false;
+            btnMechanic4.Click += btnMechanic4_Click;
             // 
             // btnMechanic3
             // 
@@ -74,6 +76,7 @@
             btnMechanic3.Text = "Jambie Villafuerte";
             btnMechanic3.TextAlign = ContentAlignment.MiddleLeft;
             btnMechanic3.UseVisualStyleBackColor = false;
+            btnMechanic3.Click += btnMechanic3_Click;
             // 
             // btnMechanic2
             // 
@@ -86,6 +89,7 @@
             btnMechanic2.Text = "Betina Alberita";
             btnMechanic2.TextAlign = ContentAlignment.MiddleLeft;
             btnMechanic2.UseVisualStyleBackColor = false;
+            btnMechanic2.Click += btnMechanic2_Click;
             // 
             // lblEngiTransServ
             // 
@@ -115,8 +119,9 @@
             // btnProfile
             // 
             btnProfile.FlatStyle = FlatStyle.Popup;
+            btnProfile.ForeColor = Color.Transparent;
             btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
-            btnProfile.Location = new Point(1, -3);
+            btnProfile.Location = new Point(0, -27);
             btnProfile.Margin = new Padding(3, 4, 3, 4);
             btnProfile.Name = "btnProfile";
             btnProfile.Size = new Size(101, 115);
@@ -136,6 +141,7 @@
             btnBack.Size = new Size(51, 96);
             btnBack.TabIndex = 41;
             btnBack.UseVisualStyleBackColor = false;
+            btnBack.Click += btnBack_Click;
             // 
             // Mechanics
             // 
@@ -151,7 +157,7 @@
             Controls.Add(btnMechanic1);
             Controls.Add(btnProfile);
             Name = "Mechanics";
-            Size = new Size(863, 517);
+            Size = new Size(806, 517);
             ResumeLayout(false);
             PerformLayout();
         }

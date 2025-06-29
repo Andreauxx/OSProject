@@ -28,12 +28,12 @@ namespace OS_FinalProj.Screens
             btn.FlatStyle = FlatStyle.Flat;
             btn.FlatAppearance.BorderSize = 0;
             btn.FlatAppearance.BorderColor = Color.FromArgb(0, 0, 0);
-            btn.BackColor = Color.FromArgb(37, 36, 36); 
+            btn.BackColor = Color.FromArgb(37, 36, 36);
             btn.ForeColor = Color.White;
-            btn.FlatAppearance.MouseOverBackColor = Color.FromArgb(50, 50, 50); 
-            btn.FlatAppearance.MouseDownBackColor = Color.FromArgb(60, 60, 60); 
+            btn.FlatAppearance.MouseOverBackColor = Color.FromArgb(50, 50, 50);
+            btn.FlatAppearance.MouseDownBackColor = Color.FromArgb(60, 60, 60);
             btn.TabStop = false;
-            
+
         }
 
         private void btnProfile_Click(object sender, EventArgs e)
@@ -69,6 +69,16 @@ namespace OS_FinalProj.Screens
         private void btnDashbaord_Click(object sender, EventArgs e)
         {
             mainForm.LoadDashboard();
+        }
+
+        private void btnProfile_Click_1(object sender, EventArgs e)
+        {
+            mainForm.LoadProfile();
+        }
+
+        private void btnServiceBasket_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadServiceBasketPanel();
         }
     }
 }

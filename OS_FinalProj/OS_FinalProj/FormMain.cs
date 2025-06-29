@@ -1,4 +1,5 @@
 ﻿using OS_FinalProj.Screens;
+using OS_FinalProj.Screens.MechanicsPopup;
 using OS_FinalProj.Screens.Services;
 using System;
 using System.Collections.Generic;
@@ -169,7 +170,62 @@ namespace OS_FinalProj
             mechanic.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(mechanic);
         }
-        
+        public void LoadServiceBasketPanel()
+        {
+            pnlMain.Controls.Clear();
+            var serviceBP = new ServiceBasketPanel(this);
+            serviceBP.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(serviceBP);
+        }
+        public void LoadChicol()
+        {
+            pnlMain.Controls.Clear();
+            var chico = new Chico(this);
+            chico.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(chico);
+        }
+        public void LoadBetina()
+        {
+            pnlMain.Controls.Clear();
+            var betina = new Betina(this);
+            betina.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(betina);
+        }
+        public void LoadJambie()
+        {
+            pnlMain.Controls.Clear();
+            var jambie = new Jambie(this);
+            jambie.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(jambie);
+        }
+        public void LoadKaja()
+        {
+            pnlMain.Controls.Clear();
+            var kaja = new Kaja(this);
+            kaja.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(kaja);
+        }
+        public void LoadManny()
+        {
+            pnlMain.Controls.Clear();
+            var manny = new Manny(this);
+            manny.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(manny);
+        }
+        public void LoadMainScreenPanel()
+        {
+            pnlMain.Controls.Clear();
+            var msPanel = new MainScreenPanel(this);
+            msPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(msPanel);
+        }
+        public void LoadConfirmedServicesPopup()
+        {
+            pnlMain.Controls.Clear();
+            var csPopup = new ConfirmedServicesPopup(this);
+            csPopup.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(csPopup);
+        }
         private void pnlMain_Paint(object sender, PaintEventArgs e)
         {
 

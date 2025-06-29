@@ -30,8 +30,4 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Screens\MechanicsPopup\" />
-  </ItemGroup>
-
 </Project>

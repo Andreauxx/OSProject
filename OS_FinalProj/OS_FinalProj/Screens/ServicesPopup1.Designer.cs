@@ -41,6 +41,7 @@
             lblSusSteerServ = new Label();
             lblHeatAirServ = new Label();
             lblFuelExhServ = new Label();
+            btnBack = new Button();
             SuspendLayout();
             // 
             // btnGenServ
@@ -199,11 +200,26 @@
             lblFuelExhServ.TabIndex = 14;
             lblFuelExhServ.Text = "Fuel and Exhaust System Services";
             // 
+            // btnBack
+            // 
+            btnBack.BackColor = Color.FromArgb(39, 39, 39);
+            btnBack.FlatStyle = FlatStyle.Flat;
+            btnBack.ForeColor = Color.FromArgb(39, 39, 39);
+            btnBack.Image = Properties.Resources.backright;
+            btnBack.Location = new Point(23, 217);
+            btnBack.Margin = new Padding(3, 4, 3, 4);
+            btnBack.Name = "btnBack";
+            btnBack.Size = new Size(51, 96);
+            btnBack.TabIndex = 22;
+            btnBack.UseVisualStyleBackColor = false;
+            btnBack.Click += btnBack_Click;
+            // 
             // ServicesPopup1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(btnBack);
             Controls.Add(lblFuelExhServ);
             Controls.Add(lblHeatAirServ);
             Controls.Add(lblSusSteerServ);
@@ -238,5 +254,6 @@
         private Label lblSusSteerServ;
         private Label lblHeatAirServ;
         private Label lblFuelExhServ;
+        private Button btnBack;
     }
 }

@@ -68,5 +68,10 @@ namespace OS_FinalProj.Screens
         {
 
         }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadMainScreenPanel();
+        }
     }
 }

@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btnProfile = new Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainScreenPanel));
             btnServices = new Button();
             btnAbout = new Button();
             lblServices = new Label();
@@ -36,22 +36,10 @@
             pictureBox1 = new PictureBox();
             btnDashbaord = new Button();
             lblDashboard = new Label();
+            btnProfile = new Button();
+            btnServiceBasket = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
-            // 
-            // btnProfile
-            // 
-            btnProfile.BackColor = Color.FromArgb(69, 65, 61);
-            btnProfile.FlatStyle = FlatStyle.Popup;
-            btnProfile.ForeColor = Color.FromArgb(69, 65, 61);
-            btnProfile.Location = new Point(15, 19);
-            btnProfile.Margin = new Padding(3, 4, 3, 4);
-            btnProfile.Name = "btnProfile";
-            btnProfile.Size = new Size(51, 49);
-            btnProfile.TabIndex = 0;
-            btnProfile.Text = "profile";
-            btnProfile.UseVisualStyleBackColor = false;
-            btnProfile.Click += btnProfile_Click;
             // 
             // btnServices
             // 
@@ -141,11 +129,38 @@
             lblDashboard.TabIndex = 9;
             lblDashboard.Text = "Dashboard";
             // 
+            // btnProfile
+            // 
+            btnProfile.FlatStyle = FlatStyle.Flat;
+            btnProfile.Image = (Image)resources.GetObject("btnProfile.Image");
+            btnProfile.Location = new Point(-9, -33);
+            btnProfile.Margin = new Padding(3, 4, 3, 4);
+            btnProfile.Name = "btnProfile";
+            btnProfile.Size = new Size(101, 115);
+            btnProfile.TabIndex = 35;
+            btnProfile.UseVisualStyleBackColor = true;
+            btnProfile.Click += btnProfile_Click_1;
+            // 
+            // btnServiceBasket
+            // 
+            btnServiceBasket.BackgroundImageLayout = ImageLayout.None;
+            btnServiceBasket.FlatStyle = FlatStyle.Flat;
+            btnServiceBasket.Image = (Image)resources.GetObject("btnServiceBasket.Image");
+            btnServiceBasket.Location = new Point(98, 0);
+            btnServiceBasket.Margin = new Padding(3, 4, 3, 4);
+            btnServiceBasket.Name = "btnServiceBasket";
+            btnServiceBasket.Size = new Size(79, 82);
+            btnServiceBasket.TabIndex = 36;
+            btnServiceBasket.UseVisualStyleBackColor = false;
+            btnServiceBasket.Click += btnServiceBasket_Click;
+            // 
             // MainScreenPanel
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(btnServiceBasket);
+            Controls.Add(btnProfile);
             Controls.Add(lblDashboard);
             Controls.Add(btnDashbaord);
             Controls.Add(pictureBox1);
@@ -153,7 +168,6 @@
             Controls.Add(lblServices);
             Controls.Add(btnAbout);
             Controls.Add(btnServices);
-            Controls.Add(btnProfile);
             Margin = new Padding(3, 4, 3, 4);
             Name = "MainScreenPanel";
             Size = new Size(914, 601);
@@ -163,8 +177,6 @@
         }
 
         #endregion
-
-        private Button btnProfile;
         private Button btnServices;
         private Button btnAbout;
         private Label lblServices;
@@ -172,5 +184,7 @@
         private PictureBox pictureBox1;
         private Button btnDashbaord;
         private Label lblDashboard;
+        private Button btnProfile;
+        private Button btnServiceBasket;
     }
 }

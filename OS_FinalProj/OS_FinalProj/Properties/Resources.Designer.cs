@@ -153,6 +153,16 @@ namespace OS_FinalProj.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Basket {
+            get {
+                object obj = ResourceManager.GetObject("Basket", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap be6cbda6_84d1_4e3b_8434_7ac1d2d19cff {
             get {
                 object obj = ResourceManager.GetObject("be6cbda6-84d1-4e3b-8434-7ac1d2d19cff", resourceCulture);
@@ -166,6 +176,26 @@ namespace OS_FinalProj.Properties {
         internal static System.Drawing.Bitmap be6cbda6_84d1_4e3b_8434_7ac1d2d19cff1 {
             get {
                 object obj = ResourceManager.GetObject("be6cbda6-84d1-4e3b-8434-7ac1d2d19cff1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chico {
+            get {
+                object obj = ResourceManager.GetObject("chico", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Confirmation {
+            get {
+                object obj = ResourceManager.GetObject("Confirmation", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,6 +423,16 @@ namespace OS_FinalProj.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mechpic {
+            get {
+                object obj = ResourceManager.GetObject("mechpic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap New_Booking {
             get {
                 object obj = ResourceManager.GetObject("New Booking", resourceCulture);
@@ -436,6 +476,16 @@ namespace OS_FinalProj.Properties {
         internal static System.Drawing.Bitmap Satisfaction_rate {
             get {
                 object obj = ResourceManager.GetObject("Satisfaction rate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ServiceBasket {
+            get {
+                object obj = ResourceManager.GetObject("ServiceBasket", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -506,6 +556,16 @@ namespace OS_FinalProj.Properties {
         internal static System.Drawing.Bitmap Total_Cars {
             get {
                 object obj = ResourceManager.GetObject("Total Cars", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UlawowOS__19_ {
+            get {
+                object obj = ResourceManager.GetObject("UlawowOS (19)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
