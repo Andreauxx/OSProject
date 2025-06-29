@@ -134,11 +134,11 @@
             btnBack.BackColor = Color.FromArgb(39, 39, 39);
             btnBack.FlatStyle = FlatStyle.Flat;
             btnBack.ForeColor = Color.FromArgb(39, 39, 39);
-            btnBack.Image = Properties.Resources.backright;
-            btnBack.Location = new Point(27, 229);
+            btnBack.Image = (Image)resources.GetObject("btnBack.Image");
+            btnBack.Location = new Point(42, 266);
             btnBack.Margin = new Padding(3, 4, 3, 4);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(51, 96);
+            btnBack.Size = new Size(36, 47);
             btnBack.TabIndex = 41;
             btnBack.UseVisualStyleBackColor = false;
             btnBack.Click += btnBack_Click;

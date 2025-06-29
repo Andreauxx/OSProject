@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CustomPerfPanel));
             pictureBox1 = new PictureBox();
             btnCustomFab = new ReaLTaiizor.Controls.Button();
             btnExhaustSys = new ReaLTaiizor.Controls.Button();
@@ -94,7 +95,7 @@
             // 
             // btnSuspUp
             // 
-            btnSuspUp.BackColor = Color.Transparent;
+            btnSuspUp.BackColor = Color.Wheat;
             btnSuspUp.BorderColor = Color.FromArgb(39, 39, 39);
             btnSuspUp.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnSuspUp.EnteredColor = Color.FromArgb(32, 34, 37);
@@ -183,11 +184,11 @@
             btn_back.BackColor = Color.FromArgb(39, 39, 39);
             btn_back.FlatStyle = FlatStyle.Flat;
             btn_back.ForeColor = Color.FromArgb(39, 39, 39);
-            btn_back.Image = Properties.Resources.backright;
-            btn_back.Location = new Point(31, 217);
+            btn_back.Image = (Image)resources.GetObject("btn_back.Image");
+            btn_back.Location = new Point(47, 261);
             btn_back.Margin = new Padding(3, 4, 3, 4);
             btn_back.Name = "btn_back";
-            btn_back.Size = new Size(51, 96);
+            btn_back.Size = new Size(35, 43);
             btn_back.TabIndex = 90;
             btn_back.UseVisualStyleBackColor = false;
             btn_back.Click += btn_back_Click;

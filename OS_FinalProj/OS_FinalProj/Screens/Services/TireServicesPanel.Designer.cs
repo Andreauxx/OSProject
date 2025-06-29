@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TireServicesPanel));
             pictureBox1 = new PictureBox();
             btnTirePres = new ReaLTaiizor.Controls.Button();
             btnTireBal = new ReaLTaiizor.Controls.Button();
@@ -183,11 +184,11 @@
             btn_back.BackColor = Color.FromArgb(39, 39, 39);
             btn_back.FlatStyle = FlatStyle.Flat;
             btn_back.ForeColor = Color.FromArgb(39, 39, 39);
-            btn_back.Image = Properties.Resources.backright;
-            btn_back.Location = new Point(33, 237);
+            btn_back.Image = (Image)resources.GetObject("btn_back.Image");
+            btn_back.Location = new Point(54, 268);
             btn_back.Margin = new Padding(3, 4, 3, 4);
             btn_back.Name = "btn_back";
-            btn_back.Size = new Size(51, 96);
+            btn_back.Size = new Size(30, 48);
             btn_back.TabIndex = 74;
             btn_back.UseVisualStyleBackColor = false;
             btn_back.Click += btn_back_Click;

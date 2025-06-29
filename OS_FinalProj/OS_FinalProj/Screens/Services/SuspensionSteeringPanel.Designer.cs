@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SuspensionSteeringPanel));
             pictureBox1 = new PictureBox();
             btnPowSteerRep = new ReaLTaiizor.Controls.Button();
             btnSuspSysRep = new ReaLTaiizor.Controls.Button();
@@ -184,11 +185,11 @@
             btn_back.BackColor = Color.FromArgb(39, 39, 39);
             btn_back.FlatStyle = FlatStyle.Flat;
             btn_back.ForeColor = Color.FromArgb(39, 39, 39);
-            btn_back.Image = Properties.Resources.backright;
-            btn_back.Location = new Point(33, 230);
+            btn_back.Image = (Image)resources.GetObject("btn_back.Image");
+            btn_back.Location = new Point(50, 263);
             btn_back.Margin = new Padding(3, 4, 3, 4);
             btn_back.Name = "btn_back";
-            btn_back.Size = new Size(51, 96);
+            btn_back.Size = new Size(34, 52);
             btn_back.TabIndex = 42;
             btn_back.UseVisualStyleBackColor = false;
             btn_back.Click += btn_back_Click;
