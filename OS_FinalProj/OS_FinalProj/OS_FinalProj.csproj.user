@@ -82,6 +82,9 @@
     <Compile Update="Screens\Services\TireServicesPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Screens\UserDashboardcs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="SignUpPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>

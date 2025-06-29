@@ -240,6 +240,13 @@ namespace OS_FinalProj
             csPopup.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(csPopup);
         }
+        public void LoadUserDashboardcs()
+        {
+            pnlMain.Controls.Clear();
+            var userDashboard = new UserDashboardcs(this);
+            userDashboard.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(userDashboard);
+        }
         private void pnlMain_Paint(object sender, PaintEventArgs e)
         {
 
