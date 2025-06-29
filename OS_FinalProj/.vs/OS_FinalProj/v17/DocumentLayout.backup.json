@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\mechanicspopup\\chico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,164 +110,19 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 484,
+      "VerticalTabListWidth": 138,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 363,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Mechanics.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Mechanics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.023Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ConfirmedServicesPopup.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfirmedServicesPopup.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.268Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainScreenPanel.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAA9wFAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ServicesPopup1.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Manny.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Kaja.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Jambie.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA9wCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Betina.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServiceBasketPanel.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
-              "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAA6wOIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Chico.cs",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:14:40.314Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -291,7 +150,173 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:18:48.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Mechanics.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Mechanics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfirmedServicesPopup.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmedServicesPopup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ConfirmedServicesPopup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainScreenPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA9wFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServicesPopup1.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manny.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kaja.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jambie.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Betina.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceBasketPanel.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Chico.cs",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Mechanics.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Mechanics.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Mechanics.cs",
@@ -302,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DashboardPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\DashboardPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\DashboardPanel.cs",
@@ -313,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Manny.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Manny.cs",
@@ -324,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Kaja.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Kaja.cs",
@@ -335,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Jambie.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Jambie.cs",
@@ -346,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Betina.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Betina.cs",
@@ -357,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Chico.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MechanicsPopup\\Chico.cs",
@@ -368,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProfilePanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
@@ -379,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ServicesPopup1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicesPopup1.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicesPopup1.cs",
@@ -390,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AboutUsPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\AboutUsPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\AboutUsPanel.cs",
@@ -401,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ServicePopup2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServicePopup2.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServicePopup2.cs",
@@ -412,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ServiceBasketPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ServiceBasketPanel.cs",
@@ -423,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MainScreenPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\MainScreenPanel.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\MainScreenPanel.cs",
@@ -435,7 +460,7 @@
           ]
         },
         {
-          "DockedWidth": 194,
+          "DockedWidth": 31,
           "SelectedChildIndex": -1,
           "Children": [
             {

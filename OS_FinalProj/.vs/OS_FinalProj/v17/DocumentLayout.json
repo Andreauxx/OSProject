@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\jeona\\onedrive\\documents\\github\\osproject\\os_finalproj\\os_finalproj\\screens\\confirmedservicespopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -110,24 +110,12 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 484,
+      "VerticalTabListWidth": 138,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "DockedWidth": 363,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]*",
-              "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T11:18:48.556Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -135,6 +123,42 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:18:48.556Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -266,13 +290,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
-              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs*",
-              "RelativeToolTip": "OS_FinalProj\\FormMain.cs*",
-              "ViewState": "AgIAALUAAAAAAAAAAAAIwAQAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jeona\\OneDrive\\Documents\\GitHub\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T11:14:40.313Z",
               "EditorCaption": ""
@@ -289,30 +313,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T11:14:40.314Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -460,7 +460,7 @@
           ]
         },
         {
-          "DockedWidth": 194,
+          "DockedWidth": 31,
           "SelectedChildIndex": -1,
           "Children": [
             {

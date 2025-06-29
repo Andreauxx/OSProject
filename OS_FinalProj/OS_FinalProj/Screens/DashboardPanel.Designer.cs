@@ -54,7 +54,10 @@
             btnBack = new Button();
             label5 = new Label();
             label6 = new Label();
-            label7 = new Label();
+            lblActiveServ = new Label();
+            lblTotalCars = new Label();
+            lblBooking = new Label();
+            lblSatisfactionRate = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -210,7 +213,7 @@
             btnBookings.Name = "btnBookings";
             btnBookings.Size = new Size(158, 100);
             btnBookings.TabIndex = 5;
-            btnBookings.Text = "Today'sBooking";
+            btnBookings.Text = "Today's Booking";
             btnBookings.TextAlign = ContentAlignment.BottomLeft;
             btnBookings.UseVisualStyleBackColor = false;
             btnBookings.Click += btnBookings_Click;
@@ -409,18 +412,58 @@
             label6.Size = new Size(0, 23);
             label6.TabIndex = 11;
             // 
-            // label7
+            // lblActiveServ
             // 
-            label7.AutoSize = true;
-            label7.BackColor = Color.FromArgb(229, 119, 4);
-            label7.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label7.ForeColor = Color.Black;
-            label7.Location = new Point(276, 110);
-            label7.Name = "label7";
-            label7.Size = new Size(38, 36);
-            label7.TabIndex = 6;
-            label7.Text = "73";
-            label7.Click += label7_Click;
+            lblActiveServ.AutoSize = true;
+            lblActiveServ.BackColor = Color.FromArgb(229, 119, 4);
+            lblActiveServ.FlatStyle = FlatStyle.Flat;
+            lblActiveServ.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblActiveServ.ForeColor = Color.Black;
+            lblActiveServ.Location = new Point(276, 110);
+            lblActiveServ.Name = "lblActiveServ";
+            lblActiveServ.Size = new Size(38, 36);
+            lblActiveServ.TabIndex = 6;
+            lblActiveServ.Text = "73";
+            lblActiveServ.Click += label7_Click;
+            // 
+            // lblTotalCars
+            // 
+            lblTotalCars.AutoSize = true;
+            lblTotalCars.BackColor = Color.FromArgb(229, 119, 4);
+            lblTotalCars.FlatStyle = FlatStyle.Flat;
+            lblTotalCars.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTotalCars.ForeColor = Color.Black;
+            lblTotalCars.Location = new Point(629, 110);
+            lblTotalCars.Name = "lblTotalCars";
+            lblTotalCars.Size = new Size(38, 36);
+            lblTotalCars.TabIndex = 12;
+            lblTotalCars.Text = "73";
+            // 
+            // lblBooking
+            // 
+            lblBooking.AutoSize = true;
+            lblBooking.BackColor = Color.FromArgb(229, 119, 4);
+            lblBooking.FlatStyle = FlatStyle.Flat;
+            lblBooking.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblBooking.ForeColor = Color.Black;
+            lblBooking.Location = new Point(453, 110);
+            lblBooking.Name = "lblBooking";
+            lblBooking.Size = new Size(38, 36);
+            lblBooking.TabIndex = 13;
+            lblBooking.Text = "73";
+            // 
+            // lblSatisfactionRate
+            // 
+            lblSatisfactionRate.AutoSize = true;
+            lblSatisfactionRate.BackColor = Color.FromArgb(229, 119, 4);
+            lblSatisfactionRate.FlatStyle = FlatStyle.Flat;
+            lblSatisfactionRate.Font = new Font("Poppins SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblSatisfactionRate.ForeColor = Color.Black;
+            lblSatisfactionRate.Location = new Point(791, 110);
+            lblSatisfactionRate.Name = "lblSatisfactionRate";
+            lblSatisfactionRate.Size = new Size(63, 36);
+            lblSatisfactionRate.TabIndex = 14;
+            lblSatisfactionRate.Text = "100%";
             // 
             // DashboardPanel
             // 
@@ -428,7 +471,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
             BackgroundImageLayout = ImageLayout.Center;
-            Controls.Add(label7);
+            Controls.Add(lblSatisfactionRate);
+            Controls.Add(lblBooking);
+            Controls.Add(lblTotalCars);
+            Controls.Add(lblActiveServ);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(btnBack);
@@ -484,6 +530,9 @@
         private PictureBox pictureBox1;
         private Label label5;
         private Label label6;
-        private Label label7;
+        private Label lblActiveServ;
+        private Label lblTotalCars;
+        private Label lblBooking;
+        private Label lblSatisfactionRate;
     }
 }
