@@ -228,3 +228,9 @@ C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\ob
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Kaja.resources
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Manny.resources
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ConfirmedServicesPopup.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ConfirmedServicesPopup.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Betina.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Chico.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Jambie.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Kaja.resources
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Manny.resources

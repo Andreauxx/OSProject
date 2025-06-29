@@ -1,10 +1,8 @@
-<<<<<<< Updated upstream
-﻿using OS_FinalProj.Screens;
+
+using OS_FinalProj.Screens;
 using OS_FinalProj.Screens.MechanicsPopup;
-=======
 ﻿using OS_FinalProj.Core;
 using OS_FinalProj.Screens;
->>>>>>> Stashed changes
 using OS_FinalProj.Screens.Services;
 using Supabase.Interfaces;
 using System;
