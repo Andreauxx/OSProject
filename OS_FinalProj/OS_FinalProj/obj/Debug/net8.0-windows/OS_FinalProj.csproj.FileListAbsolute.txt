@@ -1,237 +1,68 @@
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
-D:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServiceBasketPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicePopup2.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicesPopup1.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServiceBasketPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicePopup2.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicesPopup1.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
-C:\Users\ariff\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
-C:\Users\Candesse\OneDrive\文档\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AboutUsPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AboutUsPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServiceBasketPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicePopup2.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicesPopup1.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Mechanics.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AboutUsPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Mechanics.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServiceBasketPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicePopup2.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicesPopup1.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\MimeMapping.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Core.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Functions.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Gotrue.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Postgrest.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Realtime.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Storage.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.Reactive.dll
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Websocket.Client.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\MimeMapping.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Core.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Functions.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Gotrue.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Postgrest.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Realtime.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Storage.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.Reactive.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Websocket.Client.dll
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Betina.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Chico.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Jambie.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Kaja.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Manny.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ConfirmedServicesPopup.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ConfirmedServicesPopup.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Betina.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Chico.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Jambie.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Kaja.resources
-C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Manny.resources
-C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.UserDashboardcs.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.exe
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.deps.json
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.runtimeconfig.json
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\OS_FinalProj.pdb
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\MimeMapping.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Core.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Functions.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Gotrue.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Postgrest.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Realtime.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Supabase.Storage.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Websocket.Client.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.AssemblyReference.cache
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.FormMain.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Properties.Resources.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AboutUsPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.AddVehicleForm.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ConfirmedServicesPopup.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.DashboardPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.LoginPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MainScreenPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Mechanics.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Betina.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Chico.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Jambie.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Kaja.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.MechanicsPopup.Manny.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ProfilePanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServiceBasketPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicePopup2.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.ServicesPopup1.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.CustomPerfPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.DiagnosticCheckPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.ElectricalLightPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.EngineTransPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FluidFilterPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.FuelExhaustPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.GeneralServicesPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.HeatingAirConPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.SuspensionSteeringPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.Services.TireServicesPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.UserDashboardcs.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.SignUpPanel.resources
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.GenerateResource.cache
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfoInputs.cache
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.AssemblyInfo.cs
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.sourcelink.json
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_Final.1647763C.Up2Date
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\refint\OS_FinalProj.dll
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
+C:\Users\Rafael Apog\Source\Repos\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll

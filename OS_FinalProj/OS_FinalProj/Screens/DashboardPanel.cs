@@ -18,6 +18,8 @@ namespace OS_FinalProj.Screens
             InitializeComponent();
             mainForm = form;
 
+            lblActiveServ.Parent = backgroundpanel1;  // Make sure the label is placed inside the panel
+
             btnActiveServ.FlatStyle = FlatStyle.Flat;
             btnActiveServ.FlatAppearance.BorderSize = 0;
             btnActiveServ.BackColor = Color.FromArgb(180, 255, 100, 0);
