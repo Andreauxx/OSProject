@@ -2,7 +2,10 @@
 using Supabase;
 using Supabase.Gotrue;
 using Supabase.Gotrue.Exceptions;
+using Supabase.Postgrest;
+using Supabase.Postgrest.Models;
 using Supabase.Postgrest.Exceptions;
+using Supabase.Storage;
 using System;
 using System.Diagnostics;
 using System.Linq;
@@ -11,6 +14,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Client = Supabase.Client;
+using static OS_FinalProj.Core.BasketItems;
 
 namespace OS_FinalProj.Core
 {
@@ -18,7 +22,7 @@ namespace OS_FinalProj.Core
     {
         private readonly string _supabaseUrl = "https://ejlnfxqllcylpuurmgpv.supabase.co";
         private readonly string _supabaseApiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqbG5meHFsbGN5bHB1dXJtZ3B2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMTk5MDIsImV4cCI6MjA2NjY5NTkwMn0.WAWUFV16HuVpLpYm0w7zsb1XY2Hf-qCLGE9bBPQ10dU";
-
+        
         private readonly Client _client;
 
         // Add this property
@@ -263,6 +267,91 @@ namespace OS_FinalProj.Core
             catch (Exception ex)
             {
                 MessageBox.Show($"Error updating profile: {ex.Message}");
+                return false;
+            }
+        }
+
+        private async Task<Basket> GetUserBasket(string userId)
+        {
+            try
+            {
+                // Fetch the basket from the "baskets" table
+                var response = await _client
+                    .From<Basket>()
+                    .Where(x => x.UserId == userId)  // Using lambda expression instead of .Eq()
+                    .Single();  // Retrieve a single record
+
+                return response;  // Return the Basket object directly
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error retrieving user's basket: {ex.Message}");
+                return null;  // Return null if an error occurs
+            }
+        }
+
+        private async Task<Basket?> CreateNewBasket(string userId)
+        {
+            try
+            {
+                var newBasket = new Basket
+                {
+                    UserId = userId,
+                    Status = "active",  // Default status
+                    CreatedAt = DateTimeOffset.UtcNow,
+                    UpdatedAt = DateTimeOffset.UtcNow
+                };
+
+                // Insert a new basket into the "baskets" table
+                var response = await _client
+                    .From<Basket>()  // Use strongly-typed Basket model
+                    .Insert(newBasket);  // Insert the new basket
+
+                // Extract the model from the response
+                return response?.Model;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error creating new basket: {ex.Message}");
+                return null;  // Return null if an error occurs
+            }
+        }
+
+        public async Task<bool> UpdateUserBasket(string userId, Guid serviceId, int quantity = 1)
+        {
+            try
+            {
+                // 1. Get the user's active basket
+                var basket = await GetUserBasket(userId);
+                if (basket == null)
+                {
+                    basket = await CreateNewBasket(userId);
+                    if (basket == null)
+                        return false;
+                }
+
+                // 2. Add the service to the basket_items table
+                var basketItem = new BasketItem
+                {
+                    Id = Guid.NewGuid(),
+                    BasketId = basket.Id,
+                    ServiceId = serviceId,
+                    Quantity = quantity
+                };
+
+                var response = await _client
+                    .From<BasketItem>()
+                    .Insert(basketItem);
+
+                // 3. Update the basket's UpdatedAt timestamp
+                basket.UpdatedAt = DateTimeOffset.UtcNow;
+                await _client.From<Basket>().Upsert(basket);
+
+                return response?.Model != null;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error updating user's basket: {ex.Message}");
                 return false;
             }
         }
