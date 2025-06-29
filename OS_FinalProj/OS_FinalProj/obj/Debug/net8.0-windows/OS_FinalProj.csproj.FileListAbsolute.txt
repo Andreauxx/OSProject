@@ -239,3 +239,4 @@ C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj
 =======
 C:\Users\Lenovo\source\repos\OS_FinalProj\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.UserDashboardcs.resources
 >>>>>>> f9aa85ed2f56ecea44080965e2fee47f66b2a2f3
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.Screens.UserDashboardcs.resources
