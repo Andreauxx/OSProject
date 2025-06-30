@@ -51,11 +51,6 @@ namespace OS_FinalProj.Screens
             mainForm.LoadAboutUs();
         }
 
-        private void btnDashBoard_Click(object sender, EventArgs e)
-        {
-            mainForm.LoadDashboard(); 
-        }
-
         private void lblAbout_Click(object sender, EventArgs e)
         {
 
@@ -68,7 +63,7 @@ namespace OS_FinalProj.Screens
 
         private void btnDashbaord_Click(object sender, EventArgs e)
         {
-            mainForm.LoadUserDashboardcs();
+            mainForm.LoadDashboard();
         }
 
         private void btnProfile_Click_1(object sender, EventArgs e)

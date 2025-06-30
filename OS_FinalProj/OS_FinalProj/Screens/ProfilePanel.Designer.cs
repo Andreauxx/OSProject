@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             btnBack = new Button();
-            pictureBox1 = new PictureBox();
             lblName = new Label();
             lblContactNum = new Label();
             lblVehicleInfo = new Label();
@@ -41,11 +43,13 @@
             btnAddCar = new ReaLTaiizor.Controls.Button();
             btnEditProfile = new ReaLTaiizor.Controls.Button();
             txtName = new TextBox();
-            txtContact = new TextBox();
             txtUsername = new TextBox();
             txtEmail = new TextBox();
             btnSaveChanges = new ReaLTaiizor.Controls.Button();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            txtContact = new TextBox();
+            poisonDataGridView1 = new ReaLTaiizor.Controls.PoisonDataGridView();
+            button1 = new Button();
+            ((System.ComponentModel.ISupportInitialize)poisonDataGridView1).BeginInit();
             SuspendLayout();
             // 
             // btnBack
@@ -54,21 +58,12 @@
             btnBack.FlatStyle = FlatStyle.Flat;
             btnBack.ForeColor = Color.FromArgb(39, 39, 39);
             btnBack.Image = Properties.Resources.ProfIcon;
-            btnBack.Location = new Point(10, 8);
+            btnBack.Location = new Point(685, 20);
             btnBack.Name = "btnBack";
-            btnBack.Size = new Size(45, 37);
+            btnBack.Size = new Size(80, 80);
             btnBack.TabIndex = 1;
             btnBack.UseVisualStyleBackColor = false;
             btnBack.Click += btnBack_Click;
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.BackColor = Color.White;
-            pictureBox1.Location = new Point(730, 20);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(48, 37);
-            pictureBox1.TabIndex = 2;
-            pictureBox1.TabStop = false;
             // 
             // lblName
             // 
@@ -86,7 +81,7 @@
             lblContactNum.AutoSize = true;
             lblContactNum.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblContactNum.ForeColor = Color.White;
-            lblContactNum.Location = new Point(98, 76);
+            lblContactNum.Location = new Point(98, 86);
             lblContactNum.Name = "lblContactNum";
             lblContactNum.Size = new Size(65, 16);
             lblContactNum.TabIndex = 4;
@@ -97,7 +92,7 @@
             lblVehicleInfo.AutoSize = true;
             lblVehicleInfo.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblVehicleInfo.ForeColor = Color.White;
-            lblVehicleInfo.Location = new Point(98, 99);
+            lblVehicleInfo.Location = new Point(98, 114);
             lblVehicleInfo.Name = "lblVehicleInfo";
             lblVehicleInfo.Size = new Size(79, 16);
             lblVehicleInfo.TabIndex = 5;
@@ -105,10 +100,11 @@
             // 
             // cboVehicleInfo
             // 
+            cboVehicleInfo.Font = new Font("Poppins", 8.25F);
             cboVehicleInfo.FormattingEnabled = true;
-            cboVehicleInfo.Location = new Point(190, 99);
+            cboVehicleInfo.Location = new Point(190, 114);
             cboVehicleInfo.Name = "cboVehicleInfo";
-            cboVehicleInfo.Size = new Size(161, 23);
+            cboVehicleInfo.Size = new Size(161, 27);
             cboVehicleInfo.TabIndex = 6;
             // 
             // rbServices
@@ -116,7 +112,7 @@
             rbServices.AutoSize = true;
             rbServices.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             rbServices.ForeColor = SystemColors.ButtonHighlight;
-            rbServices.Location = new Point(442, 99);
+            rbServices.Location = new Point(395, 114);
             rbServices.Name = "rbServices";
             rbServices.Size = new Size(164, 19);
             rbServices.TabIndex = 7;
@@ -129,7 +125,7 @@
             rbHistory.AutoSize = true;
             rbHistory.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             rbHistory.ForeColor = SystemColors.ButtonHighlight;
-            rbHistory.Location = new Point(627, 98);
+            rbHistory.Location = new Point(565, 114);
             rbHistory.Name = "rbHistory";
             rbHistory.Size = new Size(62, 19);
             rbHistory.TabIndex = 8;
@@ -142,7 +138,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(311, 40);
+            label1.Location = new Point(373, 53);
             label1.Name = "label1";
             label1.Size = new Size(73, 16);
             label1.TabIndex = 9;
@@ -153,7 +149,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(336, 57);
+            label2.Location = new Point(386, 84);
             label2.Name = "label2";
             label2.Size = new Size(44, 16);
             label2.TabIndex = 10;
@@ -169,7 +165,7 @@
             btnAddCar.Image = null;
             btnAddCar.ImageAlign = ContentAlignment.MiddleLeft;
             btnAddCar.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAddCar.Location = new Point(577, 302);
+            btnAddCar.Location = new Point(685, 413);
             btnAddCar.Margin = new Padding(3, 2, 3, 2);
             btnAddCar.Name = "btnAddCar";
             btnAddCar.PressedBorderColor = Color.FromArgb(255, 131, 0);
@@ -190,7 +186,7 @@
             btnEditProfile.Image = null;
             btnEditProfile.ImageAlign = ContentAlignment.MiddleLeft;
             btnEditProfile.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnEditProfile.Location = new Point(466, 302);
+            btnEditProfile.Location = new Point(577, 413);
             btnEditProfile.Margin = new Padding(3, 2, 3, 2);
             btnEditProfile.Name = "btnEditProfile";
             btnEditProfile.PressedBorderColor = Color.FromArgb(255, 131, 0);
@@ -205,44 +201,39 @@
             // 
             txtName.BackColor = SystemColors.GrayText;
             txtName.BorderStyle = BorderStyle.None;
-            txtName.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtName.Location = new Point(132, 40);
+            txtName.Enabled = false;
+            txtName.Font = new Font("Poppins", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtName.ForeColor = SystemColors.Menu;
+            txtName.Location = new Point(151, 55);
             txtName.Margin = new Padding(3, 2, 3, 2);
             txtName.Name = "txtName";
-            txtName.Size = new Size(173, 14);
+            txtName.Size = new Size(200, 17);
             txtName.TabIndex = 85;
-            // 
-            // txtContact
-            // 
-            txtContact.BackColor = Color.Gray;
-            txtContact.BorderStyle = BorderStyle.None;
-            txtContact.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtContact.Location = new Point(148, 57);
-            txtContact.Margin = new Padding(3, 2, 3, 2);
-            txtContact.Name = "txtContact";
-            txtContact.Size = new Size(183, 14);
-            txtContact.TabIndex = 87;
             // 
             // txtUsername
             // 
-            txtUsername.BackColor = Color.Gray;
+            txtUsername.BackColor = SystemColors.GrayText;
             txtUsername.BorderStyle = BorderStyle.None;
-            txtUsername.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtUsername.Location = new Point(380, 40);
+            txtUsername.Enabled = false;
+            txtUsername.Font = new Font("Poppins", 8.25F);
+            txtUsername.ForeColor = SystemColors.MenuBar;
+            txtUsername.Location = new Point(452, 55);
             txtUsername.Margin = new Padding(3, 2, 3, 2);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(178, 14);
+            txtUsername.Size = new Size(191, 17);
             txtUsername.TabIndex = 88;
             // 
             // txtEmail
             // 
-            txtEmail.BackColor = Color.Gray;
+            txtEmail.BackColor = SystemColors.GrayText;
             txtEmail.BorderStyle = BorderStyle.None;
-            txtEmail.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtEmail.Location = new Point(380, 57);
+            txtEmail.Enabled = false;
+            txtEmail.Font = new Font("Poppins", 8.25F);
+            txtEmail.ForeColor = SystemColors.MenuBar;
+            txtEmail.Location = new Point(436, 88);
             txtEmail.Margin = new Padding(3, 2, 3, 2);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(178, 14);
+            txtEmail.Size = new Size(191, 17);
             txtEmail.TabIndex = 89;
             // 
             // btnSaveChanges
@@ -256,7 +247,7 @@
             btnSaveChanges.Image = null;
             btnSaveChanges.ImageAlign = ContentAlignment.MiddleLeft;
             btnSaveChanges.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnSaveChanges.Location = new Point(357, 302);
+            btnSaveChanges.Location = new Point(466, 413);
             btnSaveChanges.Margin = new Padding(3, 2, 3, 2);
             btnSaveChanges.Name = "btnSaveChanges";
             btnSaveChanges.PressedBorderColor = Color.FromArgb(255, 131, 0);
@@ -267,11 +258,82 @@
             btnSaveChanges.TextAlignment = StringAlignment.Center;
             btnSaveChanges.Click += btnSaveChanges_Click;
             // 
+            // txtContact
+            // 
+            txtContact.BackColor = SystemColors.GrayText;
+            txtContact.BorderStyle = BorderStyle.None;
+            txtContact.Enabled = false;
+            txtContact.Font = new Font("Poppins", 8.25F);
+            txtContact.ForeColor = SystemColors.MenuBar;
+            txtContact.Location = new Point(168, 88);
+            txtContact.Margin = new Padding(3, 2, 3, 2);
+            txtContact.Name = "txtContact";
+            txtContact.Size = new Size(183, 17);
+            txtContact.TabIndex = 87;
+            // 
+            // poisonDataGridView1
+            // 
+            poisonDataGridView1.AllowUserToResizeRows = false;
+            poisonDataGridView1.BackgroundColor = Color.FromArgb(255, 128, 0);
+            poisonDataGridView1.BorderStyle = BorderStyle.Fixed3D;
+            poisonDataGridView1.CellBorderStyle = DataGridViewCellBorderStyle.None;
+            poisonDataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = Color.FromArgb(0, 174, 219);
+            dataGridViewCellStyle1.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Pixel);
+            dataGridViewCellStyle1.ForeColor = Color.FromArgb(255, 255, 255);
+            dataGridViewCellStyle1.SelectionBackColor = Color.FromArgb(0, 198, 247);
+            dataGridViewCellStyle1.SelectionForeColor = Color.FromArgb(17, 17, 17);
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
+            poisonDataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            poisonDataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = Color.FromArgb(255, 255, 255);
+            dataGridViewCellStyle2.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Pixel);
+            dataGridViewCellStyle2.ForeColor = Color.FromArgb(136, 136, 136);
+            dataGridViewCellStyle2.SelectionBackColor = Color.FromArgb(0, 198, 247);
+            dataGridViewCellStyle2.SelectionForeColor = Color.FromArgb(17, 17, 17);
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
+            poisonDataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
+            poisonDataGridView1.EnableHeadersVisualStyles = false;
+            poisonDataGridView1.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Pixel);
+            poisonDataGridView1.GridColor = Color.FromArgb(255, 255, 255);
+            poisonDataGridView1.Location = new Point(60, 156);
+            poisonDataGridView1.Name = "poisonDataGridView1";
+            poisonDataGridView1.RowHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = Color.FromArgb(0, 174, 219);
+            dataGridViewCellStyle3.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Pixel);
+            dataGridViewCellStyle3.ForeColor = Color.FromArgb(255, 255, 255);
+            dataGridViewCellStyle3.SelectionBackColor = Color.FromArgb(0, 198, 247);
+            dataGridViewCellStyle3.SelectionForeColor = Color.FromArgb(17, 17, 17);
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.True;
+            poisonDataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            poisonDataGridView1.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            poisonDataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            poisonDataGridView1.Size = new Size(680, 242);
+            poisonDataGridView1.TabIndex = 91;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(39, 39, 39);
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = Color.FromArgb(39, 39, 39);
+            button1.Image = Properties.Resources.backright;
+            button1.Location = new Point(16, 8);
+            button1.Name = "button1";
+            button1.Size = new Size(45, 72);
+            button1.TabIndex = 92;
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
             // ProfilePanel
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(39, 39, 39);
+            Controls.Add(button1);
+            Controls.Add(poisonDataGridView1);
             Controls.Add(btnSaveChanges);
             Controls.Add(txtEmail);
             Controls.Add(txtUsername);
@@ -287,11 +349,10 @@
             Controls.Add(lblVehicleInfo);
             Controls.Add(lblContactNum);
             Controls.Add(lblName);
-            Controls.Add(pictureBox1);
             Controls.Add(btnBack);
             Name = "ProfilePanel";
             Size = new Size(800, 451);
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)poisonDataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -299,7 +360,6 @@
         #endregion
 
         private Button btnBack;
-        private PictureBox pictureBox1;
         private Label lblName;
         private Label lblContactNum;
         private Label lblVehicleInfo;
@@ -311,9 +371,11 @@
         private ReaLTaiizor.Controls.Button btnAddCar;
         private ReaLTaiizor.Controls.Button btnEditProfile;
         private TextBox txtName;
-        private TextBox txtContact;
         private TextBox txtUsername;
         private TextBox txtEmail;
         private ReaLTaiizor.Controls.Button btnSaveChanges;
+        private TextBox txtContact;
+        private ReaLTaiizor.Controls.PoisonDataGridView poisonDataGridView1;
+        private Button button1;
     }
 }

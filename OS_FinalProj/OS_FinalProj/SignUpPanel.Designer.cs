@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             pnlSignUp = new Panel();
+            btnShowPass = new Button();
             btn_back = new ReaLTaiizor.Controls.Button();
             lblSignPWord = new Label();
-            txtSignPWord = new TextBox();
             lblSignUName = new Label();
             txtSignUName = new TextBox();
             lblEmail = new Label();
@@ -41,15 +41,21 @@
             lblFirstName = new Label();
             txtLastName = new TextBox();
             txtFirstName = new TextBox();
+            btnHidePass = new Button();
+            txtSignPWord = new TextBox();
+            lblContact = new Label();
+            txtContactNumber = new TextBox();
             pnlSignUp.SuspendLayout();
             SuspendLayout();
             // 
             // pnlSignUp
             // 
             pnlSignUp.BackColor = Color.FromArgb(39, 39, 39);
+            pnlSignUp.Controls.Add(lblContact);
+            pnlSignUp.Controls.Add(txtContactNumber);
+            pnlSignUp.Controls.Add(btnShowPass);
             pnlSignUp.Controls.Add(btn_back);
             pnlSignUp.Controls.Add(lblSignPWord);
-            pnlSignUp.Controls.Add(txtSignPWord);
             pnlSignUp.Controls.Add(lblSignUName);
             pnlSignUp.Controls.Add(txtSignUName);
             pnlSignUp.Controls.Add(lblEmail);
@@ -59,10 +65,26 @@
             pnlSignUp.Controls.Add(lblFirstName);
             pnlSignUp.Controls.Add(txtLastName);
             pnlSignUp.Controls.Add(txtFirstName);
+            pnlSignUp.Controls.Add(btnHidePass);
+            pnlSignUp.Controls.Add(txtSignPWord);
             pnlSignUp.Location = new Point(0, 0);
             pnlSignUp.Name = "pnlSignUp";
             pnlSignUp.Size = new Size(881, 486);
             pnlSignUp.TabIndex = 15;
+            // 
+            // btnShowPass
+            // 
+            btnShowPass.BackColor = Color.White;
+            btnShowPass.BackgroundImage = Properties.Resources.icons8_show_password_20;
+            btnShowPass.BackgroundImageLayout = ImageLayout.Center;
+            btnShowPass.FlatStyle = FlatStyle.Flat;
+            btnShowPass.ForeColor = Color.Black;
+            btnShowPass.Location = new Point(626, 288);
+            btnShowPass.Name = "btnShowPass";
+            btnShowPass.Size = new Size(25, 20);
+            btnShowPass.TabIndex = 19;
+            btnShowPass.UseVisualStyleBackColor = false;
+            btnShowPass.Click += btnShowPass_Click;
             // 
             // btn_back
             // 
@@ -88,28 +110,18 @@
             lblSignPWord.AutoSize = true;
             lblSignPWord.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSignPWord.ForeColor = SystemColors.ButtonFace;
-            lblSignPWord.Location = new Point(199, 311);
+            lblSignPWord.Location = new Point(391, 267);
             lblSignPWord.Name = "lblSignPWord";
             lblSignPWord.Size = new Size(67, 16);
             lblSignPWord.TabIndex = 17;
             lblSignPWord.Text = "Password";
-            // 
-            // txtSignPWord
-            // 
-            txtSignPWord.BackColor = Color.FromArgb(69, 65, 61);
-            txtSignPWord.BorderStyle = BorderStyle.None;
-            txtSignPWord.Font = new Font("Montserrat", 11.25F);
-            txtSignPWord.Location = new Point(199, 332);
-            txtSignPWord.Name = "txtSignPWord";
-            txtSignPWord.Size = new Size(159, 19);
-            txtSignPWord.TabIndex = 16;
             // 
             // lblSignUName
             // 
             lblSignUName.AutoSize = true;
             lblSignUName.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSignUName.ForeColor = SystemColors.ButtonFace;
-            lblSignUName.Location = new Point(44, 309);
+            lblSignUName.Location = new Point(42, 266);
             lblSignUName.Name = "lblSignUName";
             lblSignUName.Size = new Size(70, 16);
             lblSignUName.TabIndex = 15;
@@ -119,10 +131,11 @@
             // 
             txtSignUName.BackColor = Color.FromArgb(69, 65, 61);
             txtSignUName.BorderStyle = BorderStyle.None;
-            txtSignUName.Font = new Font("Montserrat", 11.25F);
-            txtSignUName.Location = new Point(44, 330);
+            txtSignUName.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtSignUName.ForeColor = Color.White;
+            txtSignUName.Location = new Point(42, 288);
             txtSignUName.Name = "txtSignUName";
-            txtSignUName.Size = new Size(110, 19);
+            txtSignUName.Size = new Size(260, 18);
             txtSignUName.TabIndex = 14;
             // 
             // lblEmail
@@ -130,7 +143,7 @@
             lblEmail.AutoSize = true;
             lblEmail.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblEmail.ForeColor = SystemColors.ButtonFace;
-            lblEmail.Location = new Point(42, 254);
+            lblEmail.Location = new Point(42, 208);
             lblEmail.Name = "lblEmail";
             lblEmail.Size = new Size(41, 16);
             lblEmail.TabIndex = 13;
@@ -140,10 +153,11 @@
             // 
             txtEmail.BackColor = Color.FromArgb(69, 65, 61);
             txtEmail.BorderStyle = BorderStyle.None;
-            txtEmail.Font = new Font("Montserrat", 11.25F);
-            txtEmail.Location = new Point(42, 274);
+            txtEmail.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtEmail.ForeColor = Color.White;
+            txtEmail.Location = new Point(42, 228);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(275, 19);
+            txtEmail.Size = new Size(260, 18);
             txtEmail.TabIndex = 12;
             // 
             // btnSignUp
@@ -156,7 +170,7 @@
             btnSignUp.Image = null;
             btnSignUp.ImageAlign = ContentAlignment.MiddleLeft;
             btnSignUp.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnSignUp.Location = new Point(101, 389);
+            btnSignUp.Location = new Point(684, 395);
             btnSignUp.Name = "btnSignUp";
             btnSignUp.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnSignUp.PressedColor = Color.FromArgb(255, 131, 0);
@@ -170,7 +184,7 @@
             lblLastName.AutoSize = true;
             lblLastName.Font = new Font("Microsoft Sans Serif", 9.75F);
             lblLastName.ForeColor = SystemColors.ButtonFace;
-            lblLastName.Location = new Point(42, 204);
+            lblLastName.Location = new Point(391, 153);
             lblLastName.Name = "lblLastName";
             lblLastName.Size = new Size(72, 16);
             lblLastName.TabIndex = 9;
@@ -191,21 +205,71 @@
             // 
             txtLastName.BackColor = Color.FromArgb(69, 65, 61);
             txtLastName.BorderStyle = BorderStyle.None;
-            txtLastName.Font = new Font("Montserrat", 11.25F);
-            txtLastName.Location = new Point(42, 224);
+            txtLastName.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtLastName.ForeColor = Color.White;
+            txtLastName.Location = new Point(391, 173);
             txtLastName.Name = "txtLastName";
-            txtLastName.Size = new Size(260, 19);
+            txtLastName.Size = new Size(260, 18);
             txtLastName.TabIndex = 7;
             // 
             // txtFirstName
             // 
             txtFirstName.BackColor = Color.FromArgb(69, 65, 61);
             txtFirstName.BorderStyle = BorderStyle.None;
-            txtFirstName.Font = new Font("Montserrat", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtFirstName.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtFirstName.ForeColor = Color.White;
             txtFirstName.Location = new Point(42, 172);
             txtFirstName.Name = "txtFirstName";
-            txtFirstName.Size = new Size(260, 19);
+            txtFirstName.Size = new Size(260, 18);
             txtFirstName.TabIndex = 6;
+            // 
+            // btnHidePass
+            // 
+            btnHidePass.BackColor = Color.White;
+            btnHidePass.BackgroundImage = Properties.Resources.icons8_hide_password_20;
+            btnHidePass.BackgroundImageLayout = ImageLayout.Center;
+            btnHidePass.FlatStyle = FlatStyle.Flat;
+            btnHidePass.ForeColor = Color.Black;
+            btnHidePass.Location = new Point(626, 288);
+            btnHidePass.Name = "btnHidePass";
+            btnHidePass.Size = new Size(25, 20);
+            btnHidePass.TabIndex = 20;
+            btnHidePass.UseVisualStyleBackColor = false;
+            btnHidePass.Click += btnHidePass_Click;
+            // 
+            // txtSignPWord
+            // 
+            txtSignPWord.BackColor = Color.FromArgb(69, 65, 61);
+            txtSignPWord.BorderStyle = BorderStyle.None;
+            txtSignPWord.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtSignPWord.ForeColor = Color.White;
+            txtSignPWord.Location = new Point(391, 288);
+            txtSignPWord.Name = "txtSignPWord";
+            txtSignPWord.PasswordChar = '*';
+            txtSignPWord.Size = new Size(260, 18);
+            txtSignPWord.TabIndex = 16;
+            // 
+            // lblContact
+            // 
+            lblContact.AutoSize = true;
+            lblContact.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblContact.ForeColor = SystemColors.ButtonFace;
+            lblContact.Location = new Point(391, 209);
+            lblContact.Name = "lblContact";
+            lblContact.Size = new Size(103, 16);
+            lblContact.TabIndex = 22;
+            lblContact.Text = "Contact Number";
+            // 
+            // txtContactNumber
+            // 
+            txtContactNumber.BackColor = Color.FromArgb(69, 65, 61);
+            txtContactNumber.BorderStyle = BorderStyle.None;
+            txtContactNumber.Font = new Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtContactNumber.ForeColor = Color.White;
+            txtContactNumber.Location = new Point(391, 229);
+            txtContactNumber.Name = "txtContactNumber";
+            txtContactNumber.Size = new Size(260, 18);
+            txtContactNumber.TabIndex = 21;
             // 
             // SignUpPanel
             // 
@@ -234,5 +298,9 @@
         private TextBox txtLastName;
         private TextBox txtFirstName;
         private ReaLTaiizor.Controls.Button btn_back;
+        private Button btnShowPass;
+        private Button btnHidePass;
+        private Label lblContact;
+        private TextBox txtContactNumber;
     }
 }

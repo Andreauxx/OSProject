@@ -96,7 +96,11 @@
             lblDiagnostickCheck.ForeColor = SystemColors.ButtonFace;
             lblDiagnostickCheck.Location = new Point(245, 212);
             lblDiagnostickCheck.Name = "lblDiagnostickCheck";
+<<<<<<< HEAD
             lblDiagnostickCheck.Size = new Size(250, 20);
+=======
+            lblDiagnostickCheck.Size = new Size(282, 28);
+>>>>>>> main
             lblDiagnostickCheck.TabIndex = 77;
             lblDiagnostickCheck.Text = "Diagnostic and Check up Services";
             // 
@@ -150,6 +154,7 @@
             btnAddtoServ.TabIndex = 74;
             btnAddtoServ.Text = "Add to Service Basket";
             btnAddtoServ.TextAlignment = StringAlignment.Center;
+            btnAddtoServ.Click += btnAddtoServ_Click;
             // 
             // btn_back
             // 

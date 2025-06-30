@@ -31,13 +31,14 @@
             headerLabel1 = new ReaLTaiizor.Controls.HeaderLabel();
             label1 = new Label();
             txtLicensePlate = new ReaLTaiizor.Controls.SmallTextBox();
-            lblMake = new ReaLTaiizor.Controls.SmallTextBox();
-            label2 = new Label();
+            txtMake = new ReaLTaiizor.Controls.SmallTextBox();
+            lblMake = new Label();
             txtModel = new ReaLTaiizor.Controls.SmallTextBox();
             lblModel = new Label();
             txtYear = new ReaLTaiizor.Controls.SmallTextBox();
             lblYear = new Label();
             btnAdd = new ReaLTaiizor.Controls.Button();
+            btnBack = new Button();
             SuspendLayout();
             // 
             // headerLabel1
@@ -46,7 +47,7 @@
             headerLabel1.BackColor = Color.Transparent;
             headerLabel1.Font = new Font("Microsoft YaHei UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             headerLabel1.ForeColor = Color.FromArgb(255, 255, 255);
-            headerLabel1.Location = new Point(110, 9);
+            headerLabel1.Location = new Point(110, 21);
             headerLabel1.Name = "headerLabel1";
             headerLabel1.Size = new Size(128, 26);
             headerLabel1.TabIndex = 1;
@@ -81,34 +82,34 @@
             txtLicensePlate.TextAlignment = HorizontalAlignment.Left;
             txtLicensePlate.UseSystemPasswordChar = false;
             // 
+            // txtMake
+            // 
+            txtMake.BackColor = Color.Black;
+            txtMake.BorderColor = Color.FromArgb(180, 180, 180);
+            txtMake.CustomBGColor = Color.White;
+            txtMake.Font = new Font("Microsoft YaHei UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtMake.ForeColor = Color.DarkGray;
+            txtMake.Location = new Point(31, 183);
+            txtMake.MaxLength = 32767;
+            txtMake.Multiline = false;
+            txtMake.Name = "txtMake";
+            txtMake.ReadOnly = false;
+            txtMake.Size = new Size(281, 27);
+            txtMake.SmoothingType = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
+            txtMake.TabIndex = 5;
+            txtMake.TextAlignment = HorizontalAlignment.Left;
+            txtMake.UseSystemPasswordChar = false;
+            // 
             // lblMake
             // 
-            lblMake.BackColor = Color.Black;
-            lblMake.BorderColor = Color.FromArgb(180, 180, 180);
-            lblMake.CustomBGColor = Color.White;
+            lblMake.AutoSize = true;
             lblMake.Font = new Font("Microsoft YaHei UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblMake.ForeColor = Color.DarkGray;
-            lblMake.Location = new Point(31, 183);
-            lblMake.MaxLength = 32767;
-            lblMake.Multiline = false;
+            lblMake.ForeColor = Color.Orange;
+            lblMake.Location = new Point(31, 147);
             lblMake.Name = "lblMake";
-            lblMake.ReadOnly = false;
-            lblMake.Size = new Size(281, 27);
-            lblMake.SmoothingType = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
-            lblMake.TabIndex = 5;
-            lblMake.TextAlignment = HorizontalAlignment.Left;
-            lblMake.UseSystemPasswordChar = false;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Microsoft YaHei UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.ForeColor = Color.Orange;
-            label2.Location = new Point(31, 147);
-            label2.Name = "label2";
-            label2.Size = new Size(50, 19);
-            label2.TabIndex = 4;
-            label2.Text = "Make:";
+            lblMake.Size = new Size(50, 19);
+            lblMake.TabIndex = 4;
+            lblMake.Text = "Make:";
             // 
             // txtModel
             // 
@@ -172,23 +173,34 @@
             // 
             btnAdd.BackColor = Color.Transparent;
             btnAdd.BorderColor = Color.FromArgb(39, 39, 39);
-            btnAdd.Enabled = false;
             btnAdd.EnteredBorderColor = Color.FromArgb(39, 39, 39);
             btnAdd.EnteredColor = Color.FromArgb(32, 34, 37);
             btnAdd.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAdd.Image = null;
             btnAdd.ImageAlign = ContentAlignment.MiddleLeft;
             btnAdd.InactiveColor = Color.FromArgb(255, 131, 0);
-            btnAdd.Location = new Point(119, 403);
+            btnAdd.Location = new Point(110, 396);
             btnAdd.Margin = new Padding(3, 2, 3, 2);
             btnAdd.Name = "btnAdd";
             btnAdd.PressedBorderColor = Color.FromArgb(255, 131, 0);
             btnAdd.PressedColor = Color.FromArgb(255, 131, 0);
             btnAdd.Size = new Size(119, 38);
-            btnAdd.TabIndex = 91;
+            btnAdd.TabIndex = 94;
             btnAdd.Text = "Add Car";
             btnAdd.TextAlignment = StringAlignment.Center;
             btnAdd.Click += btnAdd_Click;
+            // 
+            // btnBack
+            // 
+            btnBack.FlatStyle = FlatStyle.Flat;
+            btnBack.ForeColor = Color.FromArgb(39, 39, 39);
+            btnBack.Image = Properties.Resources.backright1;
+            btnBack.Location = new Point(12, -7);
+            btnBack.Name = "btnBack";
+            btnBack.Size = new Size(37, 63);
+            btnBack.TabIndex = 95;
+            btnBack.UseVisualStyleBackColor = true;
+            btnBack.Click += btnBack_Click;
             // 
             // AddVehicleForm
             // 
@@ -197,13 +209,14 @@
             BackColor = Color.FromArgb(39, 39, 39);
             ClientSize = new Size(347, 474);
             ControlBox = false;
+            Controls.Add(btnBack);
             Controls.Add(btnAdd);
             Controls.Add(txtYear);
             Controls.Add(lblYear);
             Controls.Add(txtModel);
             Controls.Add(lblModel);
+            Controls.Add(txtMake);
             Controls.Add(lblMake);
-            Controls.Add(label2);
             Controls.Add(txtLicensePlate);
             Controls.Add(label1);
             Controls.Add(headerLabel1);
@@ -223,12 +236,13 @@
         private ReaLTaiizor.Controls.HeaderLabel headerLabel1;
         private Label label1;
         private ReaLTaiizor.Controls.SmallTextBox txtLicensePlate;
-        private ReaLTaiizor.Controls.SmallTextBox lblMake;
-        private Label label2;
+        private ReaLTaiizor.Controls.SmallTextBox txtMake;
+        private Label lblMake;
         private ReaLTaiizor.Controls.SmallTextBox txtModel;
         private Label lblModel;
         private ReaLTaiizor.Controls.SmallTextBox txtYear;
         private Label lblYear;
         private ReaLTaiizor.Controls.Button btnAdd;
+        private Button btnBack;
     }
 }
