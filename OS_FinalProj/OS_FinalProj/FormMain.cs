@@ -1,4 +1,3 @@
-
 using OS_FinalProj.Screens;
 using OS_FinalProj.Screens.MechanicsPopup;
 ﻿using OS_FinalProj.Core;
@@ -21,6 +20,7 @@ namespace OS_FinalProj
     {
 
         private SupabaseClient _supabaseClient; // Declare _supabaseClient here
+        private LoginPanel _loginPanel; // Store LoginPanel instance
 
         public FormMain()
         {
@@ -38,9 +38,15 @@ namespace OS_FinalProj
         public void LoadLogin()
         {
             pnlMain.Controls.Clear();
-            var loginPanel = new LoginPanel(this, _supabaseClient); // Pass the client
-            loginPanel.Dock = DockStyle.Fill;
-            pnlMain.Controls.Add(loginPanel);
+            _loginPanel = new LoginPanel(this, _supabaseClient); // Store the instance
+            _loginPanel.Dock = DockStyle.Fill;
+            pnlMain.Controls.Add(_loginPanel);
+        }
+
+        // Public method to get the logged-in UID from LoginPanel
+        public string? GetLoggedInUID()
+        {
+            return _loginPanel?.LoggedInUID;
         }
 
         public void LoadSignUp()
@@ -90,7 +96,8 @@ namespace OS_FinalProj
         public void LoadGeneralServices()
         {
             pnlMain.Controls.Clear();
-            var generalServicesPanel = new GeneralServicesPanel(this);
+            string userId = GetLoggedInUID();
+            var generalServicesPanel = new GeneralServicesPanel(this, _supabaseClient, userId);
             generalServicesPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(generalServicesPanel);
         }
@@ -98,7 +105,8 @@ namespace OS_FinalProj
         public void LoadEngineTransitionServices()
         {
             pnlMain.Controls.Clear();
-            var engineTransPanel = new EngineTransPanel(this);
+            string userId = GetLoggedInUID();
+            var engineTransPanel = new EngineTransPanel(this, _supabaseClient, userId);
             engineTransPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(engineTransPanel);
         }
@@ -106,7 +114,8 @@ namespace OS_FinalProj
         public void LoadSuspensionSteeringServices()
         {
             pnlMain.Controls.Clear();
-            var suspensionSteeringPanel = new SuspensionSteeringPanel(this);
+            string userId = GetLoggedInUID();
+            var suspensionSteeringPanel = new SuspensionSteeringPanel(this, _supabaseClient, userId);
             suspensionSteeringPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(suspensionSteeringPanel);
         }
@@ -114,49 +123,56 @@ namespace OS_FinalProj
         public void LoadHeatingAirConServices()
         {
             pnlMain.Controls.Clear();
-            var heatingAirConPanel = new HeatingAirConPanel(this);
+            string userId = GetLoggedInUID();
+            var heatingAirConPanel = new HeatingAirConPanel(this, _supabaseClient, userId);
             heatingAirConPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(heatingAirConPanel);
         }
         public void LoadFuelExhaustServices()
         {
             pnlMain.Controls.Clear();
-            var fuelExhaustPanel = new FuelExhaustPanel(this);
+            string userId = GetLoggedInUID();
+            var fuelExhaustPanel = new FuelExhaustPanel(this, _supabaseClient, userId);
             fuelExhaustPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(fuelExhaustPanel);
         }
         public void LoadElectricalLightingServices()
         {
             pnlMain.Controls.Clear();
-            var electricLightPanel = new ElectricalLightPanel(this);
+            string userId = GetLoggedInUID();
+            var electricLightPanel = new ElectricalLightPanel(this, _supabaseClient, userId);
             electricLightPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(electricLightPanel);
         }
         public void LoadTireServices()
         {
             pnlMain.Controls.Clear();
-            var tireServicesPanel = new TireServicesPanel(this);
+            string userId = GetLoggedInUID();
+            var tireServicesPanel = new TireServicesPanel(this, _supabaseClient, userId);
             tireServicesPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(tireServicesPanel);
         }
         public void LoadDiagnosticCheckServices()
         {
             pnlMain.Controls.Clear();
-            var diagnosticCheckPanel = new DiagnosticCheckPanel(this);
+            string userId = GetLoggedInUID();
+            var diagnosticCheckPanel = new DiagnosticCheckPanel(this, _supabaseClient, userId);
             diagnosticCheckPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(diagnosticCheckPanel);
         }
         public void LoadFluidFilterServices()
         {
             pnlMain.Controls.Clear();
-            var fluidFilterPanel = new FluidFilterPanel(this);
+            string userId = GetLoggedInUID();
+            var fluidFilterPanel = new FluidFilterPanel(this, _supabaseClient, userId);
             fluidFilterPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(fluidFilterPanel);
         }
         public void LoadCustomPerformanceServices()
         {
             pnlMain.Controls.Clear();
-            var customPerfPanel = new CustomPerfPanel(this);
+            string userId = GetLoggedInUID();
+            var customPerfPanel = new CustomPerfPanel(this, _supabaseClient, userId);
             customPerfPanel.Dock = DockStyle.Fill;
             pnlMain.Controls.Add(customPerfPanel);
         }

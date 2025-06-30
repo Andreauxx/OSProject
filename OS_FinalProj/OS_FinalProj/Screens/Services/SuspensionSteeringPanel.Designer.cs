@@ -91,7 +91,7 @@
             btnSuspSysRep.TabIndex = 39;
             btnSuspSysRep.Text = "Suspension System Repair";
             btnSuspSysRep.TextAlignment = StringAlignment.Center;
-            btnSuspSysRep.Click += btnSuspSysRep_Click;
+
             // 
             // btnWheelAlign
             // 

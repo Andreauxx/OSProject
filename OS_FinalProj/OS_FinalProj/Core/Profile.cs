@@ -32,7 +32,7 @@ namespace OS_FinalProj.Core
         [Column("role")]
         public string Role { get; set; } = "user";
 
-        [Column("phone")]
-        public string Phone { get; set; }
+        [Column("contact_number")]
+        public string ContactNumber { get; set; }
     }
 }

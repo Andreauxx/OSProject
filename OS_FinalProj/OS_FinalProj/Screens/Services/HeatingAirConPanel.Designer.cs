@@ -123,7 +123,6 @@
             lblHeatingAircon.Size = new Size(395, 36);
             lblHeatingAircon.TabIndex = 45;
             lblHeatingAircon.Text = "Heating and Air Conditioning Services";
-            lblHeatingAircon.Click += lblSusSteering_Click;
             // 
             // btnBack
             // 

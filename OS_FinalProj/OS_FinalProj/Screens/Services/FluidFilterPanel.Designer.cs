@@ -123,7 +123,6 @@
             lblFluidFilServ.Size = new Size(248, 36);
             lblFluidFilServ.TabIndex = 77;
             lblFluidFilServ.Text = "Fluid and Filter Services";
-            lblFluidFilServ.Click += lblTireServ_Click;
             // 
             // btnBack
             // 
@@ -210,7 +209,6 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "FluidFilterPanel";
             Size = new Size(914, 601);
-            Load += FluidFilterPanel_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

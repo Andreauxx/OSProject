@@ -209,7 +209,6 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "FuelExhaustPanel";
             Size = new Size(914, 601);
-            Load += FuelExhaustPanel_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

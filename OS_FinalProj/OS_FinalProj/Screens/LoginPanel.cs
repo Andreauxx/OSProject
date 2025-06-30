@@ -13,6 +13,9 @@ namespace OS_FinalProj.Screens
         private readonly SupabaseClient _supabaseClient;
         private bool isLoggingIn = false;
 
+        // Public property to store the UID after login
+        public string? LoggedInUID { get; private set; }
+
         // Constructor now properly accepts the SupabaseClient parameter
         public LoginPanel(FormMain form, SupabaseClient supabaseClient)
         {
@@ -54,7 +57,10 @@ namespace OS_FinalProj.Screens
 
                 if (success)
                 {
+                    // Store the UID for public access
+                    LoggedInUID = await _supabaseClient.GetUID(usernameOrEmail);
                     mainForm.LoadMainScreen();
+                    MessageBox.Show(LoggedInUID);
                 }
                 else
                 {

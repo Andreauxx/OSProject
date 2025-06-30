@@ -8,22 +8,19 @@ using System.Threading.Tasks;
 
 namespace OS_FinalProj.Core
 {
-    class BasketItems
+    [Table("basket_items")]
+    public class BasketItem : BaseModel
     {
-        [Table("basket_items")]
-        public class BasketItem : BaseModel
-        {
-            [PrimaryKey("id", false)]
-            public Guid Id { get; set; }
+        [PrimaryKey("id", false)]
+        public Guid Id { get; set; }
 
-            [Column("basket_id")]
-            public Guid BasketId { get; set; }
+        [Column("basket_id")]
+        public Guid BasketId { get; set; }
 
-            [Column("service_id")]
-            public Guid ServiceId { get; set; }
+        [Column("service_id")]
+        public Guid ServiceId { get; set; }
 
-            [Column("quantity")]
-            public int Quantity { get; set; }
-        }
+        [Column("quantity")]
+        public int Quantity { get; set; }
     }
 }

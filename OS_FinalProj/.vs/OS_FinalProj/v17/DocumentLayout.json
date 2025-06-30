@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\profilepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\customperfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\basketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\basketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\supabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\servicecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\servicecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\core\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\tireservicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\services\\diagnosticcheckpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|c:\\users\\rafael apog\\source\\repos\\osproject\\os_finalproj\\os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F548E1-C24A-430E-861E-127543098B15}|OS_FinalProj\\OS_FinalProj.csproj|solutionrelative:os_finalproj\\screens\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,80 +90,157 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfilePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\ProfilePanel.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\ProfilePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:27:52.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TireServicesPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywC0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:23:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TireServicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\TireServicesPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:23:16.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\LoginPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\LoginPanel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwD4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:40:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\FormMain.cs",
+              "RelativeToolTip": "OS_FinalProj\\FormMain.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAIA8wJUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:42:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\ServiceCategories.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Core\\ServiceCategories.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\ServiceCategories.cs",
+              "RelativeToolTip": "OS_FinalProj\\Core\\ServiceCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:17:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Services.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Services.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Services.cs",
+              "RelativeToolTip": "OS_FinalProj\\Core\\Services.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:15:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BasketItems.cs",
               "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\BasketItems.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Core\\BasketItems.cs",
               "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\BasketItems.cs",
               "RelativeToolTip": "OS_FinalProj\\Core\\BasketItems.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T16:32:20.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Basket.cs",
               "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Basket.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Basket.cs",
               "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Basket.cs",
               "RelativeToolTip": "OS_FinalProj\\Core\\Basket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T15:00:14.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Profile.cs",
               "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Profile.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Profile.cs",
               "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Profile.cs",
               "RelativeToolTip": "OS_FinalProj\\Core\\Profile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T14:48:49.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Supabase.cs",
               "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Supabase.cs",
               "RelativeDocumentMoniker": "OS_FinalProj\\Core\\Supabase.cs",
               "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Core\\Supabase.cs",
               "RelativeToolTip": "OS_FinalProj\\Core\\Supabase.cs",
-              "ViewState": "AgIAADwBAAAAAAAAAAAAwFkBAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T14:12:53.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomPerfPanel.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "DiagnosticCheckPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\DiagnosticCheckPanel.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:12:28.449Z",
+              "WhenOpened": "2025-06-30T01:03:23.633Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomPerfPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "RelativeDocumentMoniker": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs",
-              "ToolTip": "C:\\Users\\Rafael Apog\\source\\repos\\OSProject\\OS_FinalProj\\OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
-              "RelativeToolTip": "OS_FinalProj\\Screens\\Services\\CustomPerfPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T13:59:49.919Z",
-              "EditorCaption": " [Design]"
             }
           ]
         },

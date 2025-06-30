@@ -66,7 +66,7 @@ namespace OS_FinalProj.Screens
         private void UpdateUIWithProfile(Profile profile)
         {
             txtName.Text = $"{profile.FirstName} {profile.LastName}".Trim();
-            txtContact.Text = profile.Phone ?? string.Empty;
+            txtContact.Text = profile.ContactNumber ?? string.Empty;
             txtUsername.Text = profile.Username ?? string.Empty;
             txtEmail.Text = profile.Email ?? string.Empty;
 
@@ -118,7 +118,7 @@ namespace OS_FinalProj.Screens
                         FirstName = firstName,
                         LastName = lastName,
                         Username = txtUsername.Text,
-                        Phone = txtContact.Text,
+                        ContactNumber = txtContact.Text,
                         Role = "customer",
                         CreatedAt = DateTime.UtcNow
                     };
@@ -139,7 +139,7 @@ namespace OS_FinalProj.Screens
                 {
                     _currentProfile.FirstName = firstName;
                     _currentProfile.LastName = lastName;
-                    _currentProfile.Phone = txtContact.Text;
+                    _currentProfile.ContactNumber = txtContact.Text;
                     _currentProfile.Username = txtUsername.Text;
                     _currentProfile.Email = txtEmail.Text;
 

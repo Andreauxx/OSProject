@@ -14,7 +14,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Client = Supabase.Client;
-using static OS_FinalProj.Core.BasketItems;
 
 namespace OS_FinalProj.Core
 {
@@ -86,7 +85,7 @@ namespace OS_FinalProj.Core
                     FirstName = firstName,
                     LastName = lastName,
                     Role = "customer",
-                    Phone = null,
+                    ContactNumber = null,
                     CreatedAt = DateTime.UtcNow
                 };
 
@@ -104,6 +103,7 @@ namespace OS_FinalProj.Core
                 }
 
                 Console.WriteLine("Profile created successfully");
+
                 return true;
             }
             catch (Exception ex)
@@ -129,6 +129,20 @@ namespace OS_FinalProj.Core
                     }
 
                     Console.WriteLine($"Login successful for: {session.User.Email}");
+
+                    // Use getUID to get the UID from the profiles table for the logged-in email
+                    var uid = await GetUID(session.User.Email);
+                    if (uid != null)
+                    {
+                        // Check if a basket exists for this UID
+                        var basket = await GetUserBasket(uid);
+                        if (basket == null)
+                        {
+                            await CreateNewBasket(uid);
+                            Debug.WriteLine($"Created basket for user {uid} on first login.");
+                        }
+                    }
+
                     return (true, "Login successful");
                 }
 
@@ -151,8 +165,6 @@ namespace OS_FinalProj.Core
             return _client.Auth.CurrentUser;
         }
 
-
-
         // Add these methods to your SupabaseClient class
         public async Task<Profile> GetProfileByEmail(string email)
         {
@@ -165,6 +177,22 @@ namespace OS_FinalProj.Core
             catch (Exception ex)
             {
                 Debug.WriteLine($"Email profile query error: {ex}");
+                return null;
+            }
+        }
+
+        public async Task<string?> GetUID(string email)
+        {
+            try
+            {
+                var profile = await _client.From<Profile>()
+                    .Where(x => x.Email == email)
+                    .Single();
+                return profile?.Id.ToString();
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error retrieving UID from profiles: {ex.Message}");
                 return null;
             }
         }
@@ -292,28 +320,27 @@ namespace OS_FinalProj.Core
 
         private async Task<Basket?> CreateNewBasket(string userId)
         {
+            Debug.WriteLine("CreateNewBasket called");
             try
             {
                 var newBasket = new Basket
                 {
-                    UserId = userId,
-                    Status = "active",  // Default status
+                    UserId = userId, // Use the userId passed as parameter!
+                    Status = "open",
                     CreatedAt = DateTimeOffset.UtcNow,
                     UpdatedAt = DateTimeOffset.UtcNow
                 };
 
-                // Insert a new basket into the "baskets" table
                 var response = await _client
-                    .From<Basket>()  // Use strongly-typed Basket model
-                    .Insert(newBasket);  // Insert the new basket
+                    .From<Basket>()
+                    .Insert(newBasket);
 
-                // Extract the model from the response
                 return response?.Model;
             }
             catch (Exception ex)
             {
                 Debug.WriteLine($"Error creating new basket: {ex.Message}");
-                return null;  // Return null if an error occurs
+                return null;
             }
         }
 
@@ -348,11 +375,55 @@ namespace OS_FinalProj.Core
                 await _client.From<Basket>().Upsert(basket);
 
                 return response?.Model != null;
+
+                Debug.WriteLine(response?.Model != null ? "Basket created!" : "Basket creation failed!");
             }
             catch (Exception ex)
             {
                 Debug.WriteLine($"Error updating user's basket: {ex.Message}");
                 return false;
+            }
+        }
+
+        // Retrieves the basket UID from the baskets table for a given userId
+        public async Task<string?> GetBasketUID(string userId)
+        {
+            try
+            {
+                var basket = await _client.From<Basket>()
+                    .Where(x => x.UserId == userId)
+                    .Single();
+                return basket?.Id.ToString();
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error retrieving basket UID: {ex.Message}");
+                return null;
+            }
+        }
+
+        public async Task<BasketItem?> CreateNewBasketItems(Guid basketId, Guid serviceId, int quantity = 1)
+        {
+            try
+            {
+                var newBasketItem = new BasketItem
+                {
+                    Id = Guid.NewGuid(),
+                    BasketId = basketId,
+                    ServiceId = serviceId,
+                    Quantity = quantity
+                };
+
+                var response = await _client
+                    .From<BasketItem>()
+                    .Insert(newBasketItem);
+
+                return response?.Model;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error creating new basket item: {ex.Message}");
+                return null;
             }
         }
     }
