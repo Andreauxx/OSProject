@@ -134,3 +134,6 @@ C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.pdb
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\OS_FinalProj.genruntimeconfig.cache
 C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\obj\Debug\net8.0-windows\ref\OS_FinalProj.dll
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\jeona\OneDrive\Documents\GitHub\OSProject\OS_FinalProj\OS_FinalProj\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll

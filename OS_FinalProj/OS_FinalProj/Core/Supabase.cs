@@ -18,12 +18,15 @@ namespace OS_FinalProj.Core
     public class SupabaseClient
     {
         private readonly string _supabaseUrl = "https://ejlnfxqllcylpuurmgpv.supabase.co";
-        private readonly string _supabaseApiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqbG5meHFsbGN5bHB1dXJtZ3B2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMTk5MDIsImV4cCI6MjA2NjY5NTkwMn0.WAWUFV16HuVpLpYm0w7zsb1XY2Hf-qCLGE9bBPQ10dU";
-        
+
+        private readonly string _supabaseApiKey =
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqbG5meHFsbGN5bHB1dXJtZ3B2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMTk5MDIsImV4cCI6MjA2NjY5NTkwMn0.WAWUFV16HuVpLpYm0w7zsb1XY2Hf-qCLGE9bBPQ10dU";
+
         private readonly Client _client;
 
         // Add this property
         public Client Client => _client;
+
         // Add this to your SupabaseClient class
         public IPostgrestTable<Vehicle> VehicleTable => _client.From<Vehicle>();
 
@@ -71,7 +74,8 @@ namespace OS_FinalProj.Core
         }
 
         // Profile creation function - updated to accept user ID directly
-        public async Task<bool> CreateUserProfileAsync(string userId, string email, string username, string firstName, string lastName, string contactNumber)
+        public async Task<bool> CreateUserProfileAsync(string userId, string email, string username, string firstName,
+            string lastName, string contactNumber)
         {
             try
             {
@@ -80,8 +84,8 @@ namespace OS_FinalProj.Core
                     Id = Guid.Parse(userId),
                     Email = email,
                     Username = username,
-                    FirstName = firstName,  // Include first name
-                    LastName = lastName,    // Include last name
+                    FirstName = firstName, // Include first name
+                    LastName = lastName, // Include last name
                     ContactNumber = contactNumber, // Add contact number
                     Role = "customer",
                     CreatedAt = DateTime.UtcNow
@@ -179,6 +183,7 @@ namespace OS_FinalProj.Core
                             profileByEmail.Id = Guid.Parse(userId);
                             await UpdateUserProfile(profileByEmail);
                         }
+
                         return;
                     }
                 }
@@ -252,6 +257,7 @@ namespace OS_FinalProj.Core
                 return null;
             }
         }
+
         public async Task<bool> CreateUserProfile(Profile profile)
         {
             try
@@ -383,6 +389,11 @@ namespace OS_FinalProj.Core
             catch (Exception ex)
             {
                 Debug.WriteLine($"Unexpected error in AddVehicle: {ex}");
+                return false; // Add this missing return statement
+            }
+        }
+
+
         private async Task<Basket> GetUserBasket(string userId)
         {
             try
