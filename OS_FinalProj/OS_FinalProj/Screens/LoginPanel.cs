@@ -89,5 +89,29 @@ namespace OS_FinalProj.Screens
                 e.SuppressKeyPress = true;
             }
         }
+
+        private void btnShowHidePass_Click(object sender, EventArgs e)
+        {
+            if (txtPWord.PasswordChar == '*')
+            {
+                btnHidePass.BringToFront();
+                txtPWord.PasswordChar = '\0';
+            }
+
+        }
+
+        private void lblPWord_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHidePass_Click(object sender, EventArgs e)
+        {
+            if (txtPWord.PasswordChar == '\0')
+            {
+                btnShowPass.BringToFront();
+                txtPWord.PasswordChar = '*';
+            }
+        }
     }
 }

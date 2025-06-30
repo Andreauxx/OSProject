@@ -48,5 +48,10 @@ namespace OS_FinalProj.Screens
         {
             mainForm.LoadCustomPerformanceServices();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            mainForm.LoadProfile();
+        }
     }
 }

@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Rafael Apog\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Rafael Apog\\.nuget\\packages",
+      "C:\\Users\\jeona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jeona\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

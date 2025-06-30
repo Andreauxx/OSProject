@@ -33,5 +33,10 @@ namespace OS_FinalProj.Screens.Services
         {
             mainForm.LoadServicePopup2();
         }
+
+        private void btnAddtoServ_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

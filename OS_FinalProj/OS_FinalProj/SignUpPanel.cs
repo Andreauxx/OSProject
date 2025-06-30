@@ -1,7 +1,5 @@
 ﻿using OS_FinalProj.Core;
 using System;
-using System.ComponentModel;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,11 +34,12 @@ namespace OS_FinalProj.Screens
             string email = txtEmail.Text;
             string password = txtSignPWord.Text;
             string username = txtSignUName.Text;
+            string contactNumber = txtContactNumber.Text; // Get contact number from the TextBox
 
             // Validate inputs
             if (string.IsNullOrWhiteSpace(firstName) || string.IsNullOrWhiteSpace(lastName) ||
                 string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password) ||
-                string.IsNullOrWhiteSpace(username))
+                string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(contactNumber)) // Ensure contact number is provided
             {
                 MessageBox.Show("Please fill in all fields.");
                 return;
@@ -55,6 +54,13 @@ namespace OS_FinalProj.Screens
             if (password.Length < 6)
             {
                 MessageBox.Show("Password must be at least 6 characters long.");
+                return;
+            }
+
+            // Validate the contact number (e.g., must be a valid phone number format)
+            if (!IsValidPhoneNumber(contactNumber))
+            {
+                MessageBox.Show("Please enter a valid 11-digit phone number starting with '09'.");
                 return;
             }
 
@@ -79,7 +85,8 @@ namespace OS_FinalProj.Screens
                     email: email,  // Make sure this is passed
                     username: username,
                     firstName: firstName,
-                    lastName: lastName);
+                    lastName: lastName,
+                    contactNumber: contactNumber); // Pass contact number to the profile
 
                 if (profileCreated)
                 {
@@ -99,6 +106,14 @@ namespace OS_FinalProj.Screens
         }
 
 
+        // Helper function to validate phone number format (11 digits starting with '09')
+        private bool IsValidPhoneNumber(string contactNumber)
+        {
+            // Check if the contact number is exactly 11 digits and starts with '09'
+            return contactNumber.Length == 11 && contactNumber.StartsWith("09") && contactNumber.All(char.IsDigit);
+        }
+
+
         // Helper function to validate email format
         private bool IsValidEmail(string email)
         {
@@ -110,6 +125,24 @@ namespace OS_FinalProj.Screens
             catch
             {
                 return false;
+            }
+        }
+
+        private void btnShowPass_Click(object sender, EventArgs e)
+        {
+            if (txtSignPWord.PasswordChar == '*')
+            {
+                btnHidePass.BringToFront();
+                txtSignPWord.PasswordChar = '\0';
+            }
+        }
+
+        private void btnHidePass_Click(object sender, EventArgs e)
+        {
+            if (txtSignPWord.PasswordChar == '\0')
+            {
+                btnHidePass.BringToFront();
+                txtSignPWord.PasswordChar = '*';
             }
         }
     }

@@ -50,6 +50,25 @@ namespace OS_FinalProj.Screens
                 {
                     _currentProfile = profile;
                     UpdateUIWithProfile(profile);
+
+                    // Retrieve and populate the vehicle list for the user
+                    var vehicles = await _supabaseClient.GetUserVehicles(user.Id);
+                    if (vehicles.Count > 0)
+                    {
+                        cboVehicleInfo.Items.Clear();
+                        foreach (var vehicle in vehicles)
+                        {
+                            cboVehicleInfo.Items.Add($"{vehicle.Make} {vehicle.Model} ({vehicle.Year})");
+                        }
+
+                        cboVehicleInfo.SelectedIndex = 0; // Optional: Set a default selected vehicle
+                    }
+                    else
+                    {
+                        cboVehicleInfo.Items.Clear();
+                        cboVehicleInfo.Items.Add("No vehicles available.");
+                        cboVehicleInfo.SelectedIndex = 0; // Optional: Set default to "No vehicles available"
+                    }
                 }
                 else
                 {
@@ -63,10 +82,11 @@ namespace OS_FinalProj.Screens
             }
         }
 
+
         private void UpdateUIWithProfile(Profile profile)
         {
             txtName.Text = $"{profile.FirstName} {profile.LastName}".Trim();
-            txtContact.Text = profile.Phone ?? string.Empty;
+            txtContact.Text = profile.ContactNumber ?? string.Empty;
             txtUsername.Text = profile.Username ?? string.Empty;
             txtEmail.Text = profile.Email ?? string.Empty;
 
@@ -118,7 +138,7 @@ namespace OS_FinalProj.Screens
                         FirstName = firstName,
                         LastName = lastName,
                         Username = txtUsername.Text,
-                        Phone = txtContact.Text,
+                        ContactNumber = txtContact.Text,
                         Role = "customer",
                         CreatedAt = DateTime.UtcNow
                     };
@@ -139,7 +159,7 @@ namespace OS_FinalProj.Screens
                 {
                     _currentProfile.FirstName = firstName;
                     _currentProfile.LastName = lastName;
-                    _currentProfile.Phone = txtContact.Text;
+                    _currentProfile.ContactNumber = txtContact.Text;
                     _currentProfile.Username = txtUsername.Text;
                     _currentProfile.Email = txtEmail.Text;
 
@@ -169,7 +189,7 @@ namespace OS_FinalProj.Screens
 
         private void btnBack_Click(object sender, EventArgs e)
         {
-            _mainForm.LoadMainScreen();
+          
         }
 
         private void ProfilePanel_Load(object sender, EventArgs e)
@@ -178,16 +198,32 @@ namespace OS_FinalProj.Screens
         }
         private void OpenAddVehicleForm()
         {
-            // Create an instance of the AddVehicleForm
-            AddVehicleForm addVehicleForm = new AddVehicleForm();
 
-            // Show the form as a dialog (this makes it a modal popup)
-            addVehicleForm.ShowDialog();
+
+            // Create the form with the SupabaseClient dependency
+            AddVehicleForm addVehicleForm = new AddVehicleForm(_supabaseClient);
+
+            // Show the form as a dialog
+            DialogResult result = addVehicleForm.ShowDialog();
+
+            // Optional: Handle the result if needed
+            if (result == DialogResult.OK)
+            {
+                // Refresh vehicle list or perform other actions
+                MessageBox.Show("Vehicle added successfully!");
+            }
+            LoadProfileDetails();  // Refresh the vehicle list
+
         }
 
         private void btnAddCar_Click(object sender, EventArgs e)
         {
             OpenAddVehicleForm();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _mainForm.LoadMainScreen();
         }
     }
 }

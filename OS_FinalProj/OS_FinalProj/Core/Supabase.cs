@@ -1,16 +1,12 @@
-﻿using Newtonsoft.Json;
-using Supabase;
+﻿using Supabase;
 using Supabase.Gotrue;
 using Supabase.Gotrue.Exceptions;
 using Supabase.Postgrest.Exceptions;
-using System;
+using Supabase.Postgrest.Interfaces;
 using System.Diagnostics;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using Supabase.Postgrest;
 using Client = Supabase.Client;
+
 
 namespace OS_FinalProj.Core
 {
@@ -23,6 +19,8 @@ namespace OS_FinalProj.Core
 
         // Add this property
         public Client Client => _client;
+        // Add this to your SupabaseClient class
+        public IPostgrestTable<Vehicle> VehicleTable => _client.From<Vehicle>();
 
         public SupabaseClient()
         {
@@ -68,21 +66,19 @@ namespace OS_FinalProj.Core
         }
 
         // Profile creation function - updated to accept user ID directly
-        public async Task<bool> CreateUserProfileAsync(string userId, string email, string username, string firstName, string lastName)
+        public async Task<bool> CreateUserProfileAsync(string userId, string email, string username, string firstName, string lastName, string contactNumber)
         {
             try
             {
-                Console.WriteLine($"Creating profile for user ID: {userId}");
-
                 var profile = new Profile
                 {
-                    Id = Guid.Parse(userId), // Convert string to Guid
+                    Id = Guid.Parse(userId),
                     Email = email,
                     Username = username,
-                    FirstName = firstName,
-                    LastName = lastName,
+                    FirstName = firstName,  // Include first name
+                    LastName = lastName,    // Include last name
+                    ContactNumber = contactNumber, // Add contact number
                     Role = "customer",
-                    Phone = null,
                     CreatedAt = DateTime.UtcNow
                 };
 
@@ -95,7 +91,6 @@ namespace OS_FinalProj.Core
                         : "Insert operation failed with no response message";
 
                     MessageBox.Show($"Profile creation failed: {errorMessage}");
-                    Console.WriteLine($"Profile creation failed: {errorMessage}");
                     return false;
                 }
 
@@ -110,6 +105,7 @@ namespace OS_FinalProj.Core
             }
         }
 
+
         public async Task<(bool success, string message)> SignInAsync(string usernameOrEmail, string password)
         {
             try
@@ -123,6 +119,9 @@ namespace OS_FinalProj.Core
                     {
                         return (false, "Please verify your email before logging in.");
                     }
+
+                    // Ensure profile exists after successful login
+                    await EnsureProfileExists(session.User.Id, session.User.Email);
 
                     Console.WriteLine($"Login successful for: {session.User.Email}");
                     return (true, "Login successful");
@@ -149,41 +148,75 @@ namespace OS_FinalProj.Core
 
 
 
-        // Add these methods to your SupabaseClient class
-        public async Task<Profile> GetProfileByEmail(string email)
-        {
-            try
-            {
-                return await _client.From<Profile>()
-                    .Where(x => x.Email == email)
-                    .Single();
-            }
-            catch (Exception ex)
-            {
-                Debug.WriteLine($"Email profile query error: {ex}");
-                return null;
-            }
-        }
-
         public async Task EnsureProfileExists(string userId, string email)
         {
             try
             {
-                var newProfile = new Profile
+                // First try to get the profile by ID (using the fixed GetUserProfile)
+                var existingProfile = await GetUserProfile(userId);
+                if (existingProfile != null)
                 {
-                    Id = Guid.Parse(userId),
-                    Email = email,
-                    Username = email.Split('@')[0],
-                    Role = "customer",
-                    CreatedAt = DateTime.UtcNow
-                };
+                    Debug.WriteLine("Profile exists by ID");
+                    return;
+                }
 
-                await _client.From<Profile>().Insert(newProfile);
-                Debug.WriteLine("Created new profile successfully");
+                // If not found by ID, try by email
+                if (!string.IsNullOrEmpty(email))
+                {
+                    var profileByEmail = await GetProfileByEmail(email);
+                    if (profileByEmail != null)
+                    {
+                        Debug.WriteLine("Profile exists by email");
+
+                        // Update the existing profile with the correct user ID if needed
+                        if (profileByEmail.Id.ToString() != userId)
+                        {
+                            profileByEmail.Id = Guid.Parse(userId);
+                            await UpdateUserProfile(profileByEmail);
+                        }
+                        return;
+                    }
+                }
+
+                // No profile found, so just return
+                Debug.WriteLine("No profile found for the user. Using the logged-in profile.");
+            }
+            catch (PostgrestException ex)
+            {
+                Debug.WriteLine($"Postgrest Exception in EnsureProfileExists: {ex.Message}");
+                if (ex.Response != null)
+                {
+                    var content = await ex.Response.Content.ReadAsStringAsync();
+                    Debug.WriteLine($"Response content: {content}");
+                }
             }
             catch (Exception ex)
             {
-                Debug.WriteLine($"Profile creation failed: {ex}");
+                Debug.WriteLine($"General Exception in EnsureProfileExists: {ex}");
+            }
+        }
+
+
+        public async Task<Profile> GetProfileByEmail(string email)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(email)) return null;
+
+                var result = await _client.From<Profile>()
+                    .Filter("email", Supabase.Postgrest.Constants.Operator.Equals, email)
+                    .Single();
+
+                return result;
+            }
+            catch (PostgrestException ex) when (ex.Response?.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                return null;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error in GetProfileByEmail: {ex}");
+                return null;
             }
         }
 
@@ -191,17 +224,26 @@ namespace OS_FinalProj.Core
         {
             try
             {
-                if (Guid.TryParse(userId, out var guidId))
-                {
-                    return await _client.From<Profile>()
-                        .Where(x => x.Id == guidId)
-                        .Single();
-                }
+                if (string.IsNullOrEmpty(userId)) return null;
+
+                // Convert the string userId to Guid first
+                if (!Guid.TryParse(userId, out var guidId))
+                    return null;
+
+                // Use the string representation of the Guid for filtering
+                var result = await _client.From<Profile>()
+                    .Filter("id", Supabase.Postgrest.Constants.Operator.Equals, userId)
+                    .Single();
+
+                return result;
+            }
+            catch (PostgrestException ex) when (ex.Response?.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
                 return null;
             }
             catch (Exception ex)
             {
-                Debug.WriteLine($"Error getting profile: {ex}");
+                Debug.WriteLine($"Error in GetUserProfile: {ex}");
                 return null;
             }
         }
@@ -263,6 +305,79 @@ namespace OS_FinalProj.Core
             catch (Exception ex)
             {
                 MessageBox.Show($"Error updating profile: {ex.Message}");
+                return false;
+            }
+        }
+
+
+        public async Task<List<Vehicle>> GetUserVehicles(string ownerId)
+        {
+            try
+            {
+                // Retrieve vehicles for the current user by ownerId
+                var vehicles = await _client.From<Vehicle>()
+                    .Filter("owner_id", Supabase.Postgrest.Constants.Operator.Equals, ownerId)
+                    .Get();
+
+                return vehicles.Models ?? new List<Vehicle>();
+            }
+            catch (PostgrestException ex)
+            {
+                Debug.WriteLine($"Postgrest Exception in GetUserVehicles: {ex.Message}");
+                return new List<Vehicle>();
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"General Exception in GetUserVehicles: {ex}");
+                return new List<Vehicle>();
+            }
+        }
+
+
+        public async Task<bool> AddVehicle(string plateNumber, string make, string model, int year, string ownerId)
+        {
+            try
+            {
+                // First ensure the profile exists
+                await EnsureProfileExists(ownerId, _client.Auth.CurrentUser?.Email);
+
+                // Verify the profile was actually created by querying with the string ID
+                var profile = await _client.From<Profile>()
+                    .Filter("id", Supabase.Postgrest.Constants.Operator.Equals, ownerId)
+                    .Single();
+
+                if (profile == null)
+                {
+                    Debug.WriteLine("Profile verification failed");
+                    return false;
+                }
+
+                var vehicle = new Vehicle
+                {
+                    PlateNumber = plateNumber,
+                    Make = make,
+                    Model = model,
+                    Year = year,
+                    OwnerId = ownerId,
+                    CreatedAt = DateTime.UtcNow
+                };
+
+                var response = await _client.From<Vehicle>().Insert(vehicle);
+                return response.Models?.Count > 0;
+            }
+            catch (PostgrestException ex)
+            {
+                Debug.WriteLine($"Postgrest Exception in AddVehicle: {ex.Message}");
+                if (ex.Response != null)
+                {
+                    var content = await ex.Response.Content.ReadAsStringAsync();
+                    Debug.WriteLine($"Response content: {content}");
+                }
+                return false;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Unexpected error in AddVehicle: {ex}");
                 return false;
             }
         }
